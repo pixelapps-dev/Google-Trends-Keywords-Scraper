@@ -1,14 +1,34 @@
 {
-  "lastUpdate": "03-07-2023 , 09:45:42",
+  "lastUpdate": "03-07-2023 , 09:54:12",
   "data": [
+    {
+      "title": "Dormakaba",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Dormakaba",
+      "pubdate": "Mon, 03 Jul 2023 10:00:00 +0200"
+    },
     {
       "title": "Coldplay tour",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Coldplay%20tour",
       "pubdate": "Mon, 03 Jul 2023 00:00:00 +0200"
     },
     {
+      "title": "Roger Federer Coldplay",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Roger%20Federer%20Coldplay",
+      "pubdate": "Mon, 03 Jul 2023 09:00:00 +0200"
+    },
+    {
       "title": "Szoboszlai",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Szoboszlai",
+      "pubdate": "Mon, 03 Jul 2023 09:00:00 +0200"
+    },
+    {
+      "title": "Eswatini",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Eswatini",
+      "pubdate": "Mon, 03 Jul 2023 09:00:00 +0200"
+    },
+    {
+      "title": "Cagnotte policier",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Cagnotte%20policier",
       "pubdate": "Mon, 03 Jul 2023 09:00:00 +0200"
     },
     {
@@ -22,19 +42,9 @@
       "pubdate": "Mon, 03 Jul 2023 00:00:00 +0200"
     },
     {
-      "title": "Roger Federer Coldplay",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Roger%20Federer%20Coldplay",
-      "pubdate": "Mon, 03 Jul 2023 09:00:00 +0200"
-    },
-    {
-      "title": "Cagnotte policier",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Cagnotte%20policier",
-      "pubdate": "Mon, 03 Jul 2023 09:00:00 +0200"
-    },
-    {
-      "title": "Eswatini",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Eswatini",
-      "pubdate": "Mon, 03 Jul 2023 09:00:00 +0200"
+      "title": "Pleine lune",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Pleine%20lune",
+      "pubdate": "Mon, 03 Jul 2023 11:00:00 +0200"
     },
     {
       "title": "Lausanne",
@@ -72,6 +82,16 @@
       "pubdate": "Sun, 02 Jul 2023 21:00:00 +0200"
     },
     {
+      "title": "Victor Lafay",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Victor%20Lafay",
+      "pubdate": "Sun, 02 Jul 2023 18:00:00 +0200"
+    },
+    {
+      "title": "Prora",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Prora",
+      "pubdate": "Sun, 02 Jul 2023 21:00:00 +0200"
+    },
+    {
       "title": "Emeutes Lausanne",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Emeutes%20Lausanne",
       "pubdate": "Sun, 02 Jul 2023 15:00:00 +0200"
@@ -80,26 +100,6 @@
       "title": "Fussball U21 em",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Fussball%20U21%20em",
       "pubdate": "Sun, 02 Jul 2023 00:00:00 +0200"
-    },
-    {
-      "title": "Serge Vieira",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Serge%20Vieira",
-      "pubdate": "Sun, 02 Jul 2023 08:00:00 +0200"
-    },
-    {
-      "title": "Cesc Fabregas",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Cesc%20Fabregas",
-      "pubdate": "Sun, 02 Jul 2023 12:00:00 +0200"
-    },
-    {
-      "title": "Silbereisen",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Silbereisen",
-      "pubdate": "Sun, 02 Jul 2023 12:00:00 +0200"
-    },
-    {
-      "title": "Generation Z",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Generation%20Z",
-      "pubdate": "Sun, 02 Jul 2023 22:00:00 +0200"
     }
   ]
 }

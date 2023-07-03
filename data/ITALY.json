@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-07-2023 , 09:45:39",
+  "lastUpdate": "03-07-2023 , 09:54:08",
   "data": [
     {
       "title": "Madame",
@@ -17,8 +17,8 @@
       "pubdate": "Mon, 03 Jul 2023 05:00:00 +0200"
     },
     {
-      "title": "Francia-Ucraina Under 21",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Francia-Ucraina%20Under%2021",
+      "title": "Francia-Ucraina Under-21",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Francia-Ucraina%20Under-21",
       "pubdate": "Mon, 03 Jul 2023 00:00:00 +0200"
     },
     {
@@ -27,9 +27,19 @@
       "pubdate": "Mon, 03 Jul 2023 09:00:00 +0200"
     },
     {
+      "title": "Federica Sciarelli",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Federica%20Sciarelli",
+      "pubdate": "Mon, 03 Jul 2023 10:00:00 +0200"
+    },
+    {
       "title": "Battaglia del Pastificio",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Battaglia%20del%20Pastificio",
       "pubdate": "Mon, 03 Jul 2023 00:00:00 +0200"
+    },
+    {
+      "title": "Palio di Siena 2023",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Palio%20di%20Siena%202023",
+      "pubdate": "Sun, 02 Jul 2023 08:00:00 +0200"
     },
     {
       "title": "Coach Carter",
@@ -37,19 +47,14 @@
       "pubdate": "Sun, 02 Jul 2023 20:00:00 +0200"
     },
     {
-      "title": "Madonna delle Grazie",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Madonna%20delle%20Grazie",
-      "pubdate": "Sun, 02 Jul 2023 07:00:00 +0200"
-    },
-    {
-      "title": "Scomparsa Rai 1",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Scomparsa%20Rai%201",
-      "pubdate": "Sun, 02 Jul 2023 22:00:00 +0200"
-    },
-    {
       "title": "Red Hot Chili Peppers",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Red%20Hot%20Chili%20Peppers",
       "pubdate": "Sun, 02 Jul 2023 15:00:00 +0200"
+    },
+    {
+      "title": "Madonna delle Grazie",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Madonna%20delle%20Grazie",
+      "pubdate": "Sun, 02 Jul 2023 07:00:00 +0200"
     },
     {
       "title": "Buffon",
@@ -57,23 +62,23 @@
       "pubdate": "Sun, 02 Jul 2023 10:00:00 +0200"
     },
     {
-      "title": "Palio Siena",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Palio%20Siena",
-      "pubdate": "Sun, 02 Jul 2023 18:00:00 +0200"
-    },
-    {
       "title": "Chiara Gualzetti",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Chiara%20Gualzetti",
       "pubdate": "Sun, 02 Jul 2023 15:00:00 +0200"
     },
     {
-      "title": "Red Hot Chili Peppers Milano",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Red%20Hot%20Chili%20Peppers%20Milano",
-      "pubdate": "Sun, 02 Jul 2023 20:00:00 +0200"
+      "title": "Lana Del Rey",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Lana%20Del%20Rey",
+      "pubdate": "Sun, 02 Jul 2023 21:00:00 +0200"
     },
     {
       "title": "Rosa Chemical",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Rosa%20Chemical",
+      "pubdate": "Sun, 02 Jul 2023 23:00:00 +0200"
+    },
+    {
+      "title": "San Benedetto del Tronto",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#San%20Benedetto%20del%20Tronto",
       "pubdate": "Sun, 02 Jul 2023 23:00:00 +0200"
     },
     {
@@ -95,11 +100,6 @@
       "title": "Maratona delle Dolomiti",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Maratona%20delle%20Dolomiti",
       "pubdate": "Sun, 02 Jul 2023 09:00:00 +0200"
-    },
-    {
-      "title": "Palio di siena in tv",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Palio%20di%20siena%20in%20tv",
-      "pubdate": "Sun, 02 Jul 2023 18:00:00 +0200"
     }
   ]
 }

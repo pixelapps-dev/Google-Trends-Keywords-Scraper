@@ -1,10 +1,15 @@
 {
-  "lastUpdate": "03-07-2023 , 09:45:40",
+  "lastUpdate": "03-07-2023 , 09:54:10",
   "data": [
     {
       "title": "Stavanger kommune",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Stavanger%20kommune",
       "pubdate": "Mon, 03 Jul 2023 09:00:00 +0200"
+    },
+    {
+      "title": "Wimbledon",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Wimbledon",
+      "pubdate": "Mon, 03 Jul 2023 10:00:00 +0200"
     },
     {
       "title": "Diamond League Stockholm",
@@ -15,6 +20,11 @@
       "title": "San sebastian",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#San%20sebastian",
       "pubdate": "Sun, 02 Jul 2023 13:00:00 +0200"
+    },
+    {
+      "title": "Brann",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Brann",
+      "pubdate": "Sun, 02 Jul 2023 20:00:00 +0200"
     },
     {
       "title": "Sissel Kyrkjebø",
@@ -67,6 +77,16 @@
       "pubdate": "Sat, 01 Jul 2023 16:00:00 +0200"
     },
     {
+      "title": "Tour de France",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Tour%20de%20France",
+      "pubdate": "Sat, 01 Jul 2023 15:00:00 +0200"
+    },
+    {
+      "title": "Håkon Børde",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#H%C3%A5kon%20B%C3%B8rde",
+      "pubdate": "Sat, 01 Jul 2023 21:00:00 +0200"
+    },
+    {
       "title": "Pride",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Pride",
       "pubdate": "Sat, 01 Jul 2023 16:00:00 +0200"
@@ -77,29 +97,9 @@
       "pubdate": "Sat, 01 Jul 2023 21:00:00 +0200"
     },
     {
-      "title": "Dag Otto Lauritzen",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Dag%20Otto%20Lauritzen",
-      "pubdate": "Sat, 01 Jul 2023 15:00:00 +0200"
-    },
-    {
       "title": "Vålerenga Viking",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#V%C3%A5lerenga%20Viking",
       "pubdate": "Sat, 01 Jul 2023 20:00:00 +0200"
-    },
-    {
-      "title": "Pride 2023",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Pride%202023",
-      "pubdate": "Sat, 01 Jul 2023 21:00:00 +0200"
-    },
-    {
-      "title": "Bruce Springsteen Oslo",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Bruce%20Springsteen%20Oslo",
-      "pubdate": "Fri, 30 Jun 2023 03:00:00 +0200"
-    },
-    {
-      "title": "Bjørnar Moxnes",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Bj%C3%B8rnar%20Moxnes",
-      "pubdate": "Fri, 30 Jun 2023 15:00:00 +0200"
     }
   ]
 }

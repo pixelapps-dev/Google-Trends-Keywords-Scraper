@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "03-07-2023 , 09:45:34",
+  "lastUpdate": "03-07-2023 , 09:54:04",
   "data": [
+    {
+      "title": "David Goffin",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#David%20Goffin",
+      "pubdate": "Mon, 03 Jul 2023 01:00:00 +0200"
+    },
     {
       "title": "David Guetta",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#David%20Guetta",
@@ -47,11 +52,6 @@
       "pubdate": "Sun, 02 Jul 2023 15:00:00 +0200"
     },
     {
-      "title": "Pleine Lune juillet 2023",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Pleine%20Lune%20juillet%202023",
-      "pubdate": "Sun, 02 Jul 2023 00:00:00 +0200"
-    },
-    {
       "title": "Serge Vieira",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Serge%20Vieira",
       "pubdate": "Sun, 02 Jul 2023 02:00:00 +0200"
@@ -72,13 +72,18 @@
       "pubdate": "Sun, 02 Jul 2023 16:00:00 +0200"
     },
     {
+      "title": "Cagnotte policier",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Cagnotte%20policier",
+      "pubdate": "Sun, 02 Jul 2023 19:00:00 +0200"
+    },
+    {
       "title": "Money In The Bank 2023",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Money%20In%20The%20Bank%202023",
       "pubdate": "Sun, 02 Jul 2023 00:00:00 +0200"
     },
     {
-      "title": "Cagnotte policier",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Cagnotte%20policier",
+      "title": "Argeles sur-Mer",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Argeles%20sur-Mer",
       "pubdate": "Sun, 02 Jul 2023 19:00:00 +0200"
     },
     {
@@ -95,11 +100,6 @@
       "title": "GP Autriche",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#GP%20Autriche",
       "pubdate": "Sun, 02 Jul 2023 17:00:00 +0200"
-    },
-    {
-      "title": "Juliette Armanet",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Juliette%20Armanet",
-      "pubdate": "Sun, 02 Jul 2023 21:00:00 +0200"
     }
   ]
 }

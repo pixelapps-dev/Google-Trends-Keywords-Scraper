@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "03-07-2023 , 09:45:35",
+  "lastUpdate": "03-07-2023 , 09:54:05",
   "data": [
+    {
+      "title": "Mexico vs Qatar",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Mexico%20vs%20Qatar",
+      "pubdate": "Mon, 03 Jul 2023 00:00:00 -0400"
+    },
     {
       "title": "Honduras-Haití",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Honduras-Hait%C3%AD",
@@ -32,19 +37,14 @@
       "pubdate": "Sun, 02 Jul 2023 23:00:00 -0400"
     },
     {
-      "title": "Chile femenino",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Chile%20femenino",
+      "title": "Chile Femenino",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Chile%20Femenino",
       "pubdate": "Sun, 02 Jul 2023 12:00:00 -0400"
     },
     {
       "title": "Seleccion chilena femenina",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Seleccion%20chilena%20femenina",
       "pubdate": "Sun, 02 Jul 2023 12:00:00 -0400"
-    },
-    {
-      "title": "Margot Robbie",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Margot%20Robbie",
-      "pubdate": "Sun, 02 Jul 2023 22:00:00 -0400"
     },
     {
       "title": "Colón  Racing",
@@ -60,6 +60,11 @@
       "title": "Espacio Don Oscar",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Espacio%20Don%20Oscar",
       "pubdate": "Sun, 02 Jul 2023 21:00:00 -0400"
+    },
+    {
+      "title": "Gabriela Elgueta",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Gabriela%20Elgueta",
+      "pubdate": "Sun, 02 Jul 2023 02:00:00 -0400"
     },
     {
       "title": "Freddie Mercury",
@@ -85,11 +90,6 @@
       "title": "Cobreloa",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Cobreloa",
       "pubdate": "Sat, 01 Jul 2023 14:00:00 -0400"
-    },
-    {
-      "title": "Flamengo  Fortaleza",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Flamengo%20%20Fortaleza",
-      "pubdate": "Sat, 01 Jul 2023 18:00:00 -0400"
     },
     {
       "title": "Eladio carrion",

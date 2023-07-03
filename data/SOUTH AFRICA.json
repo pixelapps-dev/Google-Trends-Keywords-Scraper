@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "03-07-2023 , 09:45:42",
+  "lastUpdate": "03-07-2023 , 09:54:12",
   "data": [
+    {
+      "title": "Wimbledon",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Wimbledon",
+      "pubdate": "Mon, 03 Jul 2023 11:00:00 +0200"
+    },
     {
       "title": "King Misuzulu",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#King%20Misuzulu",
@@ -47,11 +52,6 @@
       "pubdate": "Sun, 02 Jul 2023 21:00:00 +0200"
     },
     {
-      "title": "Darren Drozdov",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Darren%20Drozdov",
-      "pubdate": "Sun, 02 Jul 2023 13:00:00 +0200"
-    },
-    {
       "title": "Jo Lindner",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Jo%20Lindner",
       "pubdate": "Sat, 01 Jul 2023 17:00:00 +0200"
@@ -72,8 +72,8 @@
       "pubdate": "Sat, 01 Jul 2023 14:00:00 +0200"
     },
     {
-      "title": "Rate-limit exceeded Twitter",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Rate-limit%20exceeded%20Twitter",
+      "title": "Rate limit exceeded Twitter",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Rate%20limit%20exceeded%20Twitter",
       "pubdate": "Sat, 01 Jul 2023 19:00:00 +0200"
     },
     {

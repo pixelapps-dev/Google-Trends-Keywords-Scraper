@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-07-2023 , 09:45:34",
+  "lastUpdate": "03-07-2023 , 09:54:04",
   "data": [
     {
       "title": "Novak Djokovic",
@@ -7,9 +7,9 @@
       "pubdate": "Mon, 03 Jul 2023 00:00:00 +0200"
     },
     {
-      "title": "Sidney Poitier",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Sidney%20Poitier",
-      "pubdate": "Mon, 03 Jul 2023 00:00:00 +0200"
+      "title": "Orkney",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Orkney",
+      "pubdate": "Mon, 03 Jul 2023 09:00:00 +0200"
     },
     {
       "title": "Burgenland Energie",
@@ -17,9 +17,9 @@
       "pubdate": "Mon, 03 Jul 2023 09:00:00 +0200"
     },
     {
-      "title": "Orkney",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Orkney",
-      "pubdate": "Mon, 03 Jul 2023 09:00:00 +0200"
+      "title": "Formel 1 Spielberg",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Formel%201%20Spielberg",
+      "pubdate": "Sun, 02 Jul 2023 15:00:00 +0200"
     },
     {
       "title": "Andreas Gabalier",
@@ -52,6 +52,11 @@
       "pubdate": "Sun, 02 Jul 2023 10:00:00 +0200"
     },
     {
+      "title": "Frankreich news",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Frankreich%20news",
+      "pubdate": "Sun, 02 Jul 2023 15:00:00 +0200"
+    },
+    {
       "title": "Unfall St. Martin",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Unfall%20St.%20Martin",
       "pubdate": "Sun, 02 Jul 2023 09:00:00 +0200"
@@ -77,16 +82,6 @@
       "pubdate": "Sun, 02 Jul 2023 15:00:00 +0200"
     },
     {
-      "title": "Rambo",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Rambo",
-      "pubdate": "Sun, 02 Jul 2023 22:00:00 +0200"
-    },
-    {
-      "title": "Marc Terenzi",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Marc%20Terenzi",
-      "pubdate": "Sun, 02 Jul 2023 19:00:00 +0200"
-    },
-    {
       "title": "Sylvester Stallone",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Sylvester%20Stallone",
       "pubdate": "Sun, 02 Jul 2023 23:00:00 +0200"
@@ -100,6 +95,11 @@
       "title": "Lechner Racing",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Lechner%20Racing",
       "pubdate": "Sun, 02 Jul 2023 13:00:00 +0200"
+    },
+    {
+      "title": "MotoGP Spielberg",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#MotoGP%20Spielberg",
+      "pubdate": "Sun, 02 Jul 2023 22:00:00 +0200"
     }
   ]
 }

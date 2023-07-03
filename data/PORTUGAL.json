@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-07-2023 , 09:45:41",
+  "lastUpdate": "03-07-2023 , 09:54:11",
   "data": [
     {
       "title": "Royal Blood",
@@ -22,11 +22,6 @@
       "pubdate": "Sun, 02 Jul 2023 00:00:00 +0100"
     },
     {
-      "title": "Corinthians",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Corinthians",
-      "pubdate": "Sun, 02 Jul 2023 16:00:00 +0100"
-    },
-    {
       "title": "Anitta",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Anitta",
       "pubdate": "Sun, 02 Jul 2023 12:00:00 +0100"
@@ -42,18 +37,28 @@
       "pubdate": "Sun, 02 Jul 2023 17:00:00 +0100"
     },
     {
-      "title": "Bluesky",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Bluesky",
-      "pubdate": "Sun, 02 Jul 2023 00:00:00 +0100"
-    },
-    {
       "title": "Vasco",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Vasco",
       "pubdate": "Sun, 02 Jul 2023 22:00:00 +0100"
     },
     {
+      "title": "Bluesky",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Bluesky",
+      "pubdate": "Sun, 02 Jul 2023 00:00:00 +0100"
+    },
+    {
       "title": "Gremio",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Gremio",
+      "pubdate": "Sun, 02 Jul 2023 00:00:00 +0100"
+    },
+    {
+      "title": "Corinthians x Bragantino",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Corinthians%20x%20Bragantino",
+      "pubdate": "Sun, 02 Jul 2023 16:00:00 +0100"
+    },
+    {
+      "title": "Tour france 2023",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Tour%20france%202023",
       "pubdate": "Sun, 02 Jul 2023 00:00:00 +0100"
     },
     {
@@ -62,19 +67,9 @@
       "pubdate": "Sun, 02 Jul 2023 00:00:00 +0100"
     },
     {
-      "title": "Tour france 2023",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Tour%20france%202023",
-      "pubdate": "Sun, 02 Jul 2023 00:00:00 +0100"
-    },
-    {
       "title": "Inter Miami  Austin",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Inter%20Miami%20%20Austin",
       "pubdate": "Sun, 02 Jul 2023 04:00:00 +0100"
-    },
-    {
-      "title": "Festa verao TVI 2023",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Festa%20verao%20TVI%202023",
-      "pubdate": "Sun, 02 Jul 2023 02:00:00 +0100"
     },
     {
       "title": "Nico González",
@@ -100,6 +95,11 @@
       "title": "Sergio Rossi",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Sergio%20Rossi",
       "pubdate": "Sun, 02 Jul 2023 15:00:00 +0100"
+    },
+    {
+      "title": "Piloto morreu",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Piloto%20morreu",
+      "pubdate": "Sat, 01 Jul 2023 13:00:00 +0100"
     }
   ]
 }
