@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-07-2023 , 16:07:01",
+  "lastUpdate": "03-07-2023 , 16:30:18",
   "data": [
     {
       "title": "Wimbledon",
@@ -15,6 +15,16 @@
       "title": "Wimbledon 2023",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Wimbledon%202023",
       "pubdate": "Mon, 03 Jul 2023 15:00:00 +0200"
+    },
+    {
+      "title": "Novak Djokovic",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Novak%20Djokovic",
+      "pubdate": "Mon, 03 Jul 2023 15:00:00 +0200"
+    },
+    {
+      "title": "Szoboszlai",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Szoboszlai",
+      "pubdate": "Mon, 03 Jul 2023 09:00:00 +0200"
     },
     {
       "title": "Dormakaba",
@@ -42,9 +52,9 @@
       "pubdate": "Mon, 03 Jul 2023 12:00:00 +0200"
     },
     {
-      "title": "Szoboszlai",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Szoboszlai",
-      "pubdate": "Mon, 03 Jul 2023 09:00:00 +0200"
+      "title": "Coldplay tour",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Coldplay%20tour",
+      "pubdate": "Mon, 03 Jul 2023 00:00:00 +0200"
     },
     {
       "title": "Pleine lune",
@@ -52,14 +62,14 @@
       "pubdate": "Mon, 03 Jul 2023 11:00:00 +0200"
     },
     {
+      "title": "Ludger Beerbaum",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Ludger%20Beerbaum",
+      "pubdate": "Mon, 03 Jul 2023 16:00:00 +0200"
+    },
+    {
       "title": "Baltimore",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Baltimore",
       "pubdate": "Mon, 03 Jul 2023 00:00:00 +0200"
-    },
-    {
-      "title": "Dominik Szoboszlai",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Dominik%20Szoboszlai",
-      "pubdate": "Mon, 03 Jul 2023 12:00:00 +0200"
     },
     {
       "title": "8 Rue de l'Humanité",
@@ -72,6 +82,11 @@
       "pubdate": "Sun, 02 Jul 2023 10:00:00 +0200"
     },
     {
+      "title": "Jo Lindner gestorben",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Jo%20Lindner%20gestorben",
+      "pubdate": "Sun, 02 Jul 2023 07:00:00 +0200"
+    },
+    {
       "title": "Val di Sole",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Val%20di%20Sole",
       "pubdate": "Sun, 02 Jul 2023 18:00:00 +0200"
@@ -82,24 +97,9 @@
       "pubdate": "Sun, 02 Jul 2023 09:00:00 +0200"
     },
     {
-      "title": "Macklemore",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Macklemore",
-      "pubdate": "Sun, 02 Jul 2023 01:00:00 +0200"
-    },
-    {
       "title": "Whitney Houston",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Whitney%20Houston",
       "pubdate": "Sun, 02 Jul 2023 15:00:00 +0200"
-    },
-    {
-      "title": "Chris Isaak",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Chris%20Isaak",
-      "pubdate": "Sun, 02 Jul 2023 21:00:00 +0200"
-    },
-    {
-      "title": "Vincent Jeanbrun",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Vincent%20Jeanbrun",
-      "pubdate": "Sun, 02 Jul 2023 14:00:00 +0200"
     }
   ]
 }
