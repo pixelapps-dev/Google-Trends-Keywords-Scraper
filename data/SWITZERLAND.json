@@ -1,11 +1,6 @@
 {
-  "lastUpdate": "02-07-2023 , 23:59:16",
+  "lastUpdate": "03-07-2023 , 01:52:28",
   "data": [
-    {
-      "title": "Legoland",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Legoland",
-      "pubdate": "Mon, 03 Jul 2023 00:00:00 +0200"
-    },
     {
       "title": "8 Rue de l'Humanité",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#8%20Rue%20de%20l'Humanit%C3%A9",
@@ -40,6 +35,11 @@
       "title": "Chris Isaak",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Chris%20Isaak",
       "pubdate": "Sun, 02 Jul 2023 21:00:00 +0200"
+    },
+    {
+      "title": "Fussball U21-EM",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Fussball%20U21-EM",
+      "pubdate": "Sun, 02 Jul 2023 00:00:00 +0200"
     },
     {
       "title": "Serge Vieira",
