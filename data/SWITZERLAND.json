@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "03-07-2023 , 23:54:41",
+  "lastUpdate": "04-07-2023 , 01:01:15",
   "data": [
+    {
+      "title": "Israel",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Israel",
+      "pubdate": "Tue, 04 Jul 2023 02:00:00 +0200"
+    },
     {
       "title": "Wimbledon",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Wimbledon",
@@ -70,11 +75,6 @@
       "title": "Robert De Niro",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Robert%20De%20Niro",
       "pubdate": "Mon, 03 Jul 2023 18:00:00 +0200"
-    },
-    {
-      "title": "Bencic",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Bencic",
-      "pubdate": "Mon, 03 Jul 2023 20:00:00 +0200"
     },
     {
       "title": "Aviator",
