@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-07-2023 , 19:44:55",
+  "lastUpdate": "04-07-2023 , 19:53:20",
   "data": [
     {
       "title": "DAZN",
@@ -20,6 +20,11 @@
       "title": "Elterngeld",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Elterngeld",
       "pubdate": "Mon, 03 Jul 2023 15:00:00 +0200"
+    },
+    {
+      "title": "Nmecha",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Nmecha",
+      "pubdate": "Mon, 03 Jul 2023 13:00:00 +0200"
     },
     {
       "title": "Kindergrundsicherung",
@@ -70,11 +75,6 @@
       "title": "Kane",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Kane",
       "pubdate": "Mon, 26 Jun 2023 21:00:00 +0200"
-    },
-    {
-      "title": "AfD",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#AfD",
-      "pubdate": "Sun, 25 Jun 2023 21:00:00 +0200"
     },
     {
       "title": "Mindestlohn",
