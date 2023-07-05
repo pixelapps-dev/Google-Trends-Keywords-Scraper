@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05-07-2023 , 16:44:00",
+  "lastUpdate": "05-07-2023 , 16:53:06",
   "data": [
     {
       "title": "Guns N' Roses",
@@ -7,9 +7,24 @@
       "pubdate": "Wed, 05 Jul 2023 13:00:00 +0200"
     },
     {
+      "title": "Michael Rubin",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Michael%20Rubin",
+      "pubdate": "Wed, 05 Jul 2023 01:00:00 +0200"
+    },
+    {
+      "title": "Japankäfer",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Japank%C3%A4fer",
+      "pubdate": "Wed, 05 Jul 2023 13:00:00 +0200"
+    },
+    {
       "title": "Arda Güler",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Arda%20G%C3%BCler",
       "pubdate": "Wed, 05 Jul 2023 01:00:00 +0200"
+    },
+    {
+      "title": "Zola",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Zola",
+      "pubdate": "Wed, 05 Jul 2023 11:00:00 +0200"
     },
     {
       "title": "Inigo Martinez",
@@ -22,19 +37,24 @@
       "pubdate": "Wed, 05 Jul 2023 13:00:00 +0200"
     },
     {
-      "title": "Kate Middleton",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Kate%20Middleton",
-      "pubdate": "Wed, 05 Jul 2023 07:00:00 +0200"
-    },
-    {
       "title": "Elterngeld",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Elterngeld",
       "pubdate": "Wed, 05 Jul 2023 12:00:00 +0200"
     },
     {
-      "title": "Serie A",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Serie%20A",
+      "title": "Prinz Harry",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Prinz%20Harry",
+      "pubdate": "Wed, 05 Jul 2023 17:00:00 +0200"
+    },
+    {
+      "title": "Serie-A",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Serie-A",
       "pubdate": "Wed, 05 Jul 2023 16:00:00 +0200"
+    },
+    {
+      "title": "Arthur Fery",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Arthur%20Fery",
+      "pubdate": "Wed, 05 Jul 2023 17:00:00 +0200"
     },
     {
       "title": "Rose Leslie",
@@ -52,6 +72,11 @@
       "pubdate": "Tue, 04 Jul 2023 11:00:00 +0200"
     },
     {
+      "title": "Roger Federer Wimbledon 2023",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Roger%20Federer%20Wimbledon%202023",
+      "pubdate": "Tue, 04 Jul 2023 23:00:00 +0200"
+    },
+    {
       "title": "Andy Murray",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Andy%20Murray",
       "pubdate": "Tue, 04 Jul 2023 18:00:00 +0200"
@@ -60,11 +85,6 @@
       "title": "Nachtzug nach Lissabon",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Nachtzug%20nach%20Lissabon",
       "pubdate": "Tue, 04 Jul 2023 18:00:00 +0200"
-    },
-    {
-      "title": "Roger Federer Wimbledon 2023",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Roger%20Federer%20Wimbledon%202023",
-      "pubdate": "Tue, 04 Jul 2023 23:00:00 +0200"
     },
     {
       "title": "Lil Nas X",
@@ -80,26 +100,6 @@
       "title": "Tom Cruise",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Tom%20Cruise",
       "pubdate": "Tue, 04 Jul 2023 23:00:00 +0200"
-    },
-    {
-      "title": "Independence Day",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Independence%20Day",
-      "pubdate": "Tue, 04 Jul 2023 11:00:00 +0200"
-    },
-    {
-      "title": "Celine Naef",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Celine%20Naef",
-      "pubdate": "Tue, 04 Jul 2023 13:00:00 +0200"
-    },
-    {
-      "title": "Cagnotte policiers Nahel",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Cagnotte%20policiers%20Nahel",
-      "pubdate": "Tue, 04 Jul 2023 16:00:00 +0200"
-    },
-    {
-      "title": "Sriracha",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Sriracha",
-      "pubdate": "Tue, 04 Jul 2023 20:00:00 +0200"
     }
   ]
 }

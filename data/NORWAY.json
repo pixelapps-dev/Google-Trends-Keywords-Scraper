@@ -1,10 +1,25 @@
 {
-  "lastUpdate": "05-07-2023 , 16:43:58",
+  "lastUpdate": "05-07-2023 , 16:53:03",
   "data": [
     {
       "title": "Robyn",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Robyn",
       "pubdate": "Wed, 05 Jul 2023 09:00:00 +0200"
+    },
+    {
+      "title": "Vevelstad",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Vevelstad",
+      "pubdate": "Wed, 05 Jul 2023 15:00:00 +0200"
+    },
+    {
+      "title": "Greta Thunberg",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Greta%20Thunberg",
+      "pubdate": "Wed, 05 Jul 2023 18:00:00 +0200"
+    },
+    {
+      "title": "Eiendom Norge",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Eiendom%20Norge",
+      "pubdate": "Wed, 05 Jul 2023 17:00:00 +0200"
     },
     {
       "title": "Bjørnar Moxnes",
@@ -40,6 +55,11 @@
       "title": "Nissan Leaf",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Nissan%20Leaf",
       "pubdate": "Tue, 04 Jul 2023 00:00:00 +0200"
+    },
+    {
+      "title": "Jenin",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Jenin",
+      "pubdate": "Tue, 04 Jul 2023 22:00:00 +0200"
     },
     {
       "title": "Wimbledon",
@@ -80,26 +100,6 @@
       "title": "Duplantis",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Duplantis",
       "pubdate": "Sun, 02 Jul 2023 21:00:00 +0200"
-    },
-    {
-      "title": "Brann",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Brann",
-      "pubdate": "Sun, 02 Jul 2023 20:00:00 +0200"
-    },
-    {
-      "title": "Sissel Kyrkjebø",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Sissel%20Kyrkjeb%C3%B8",
-      "pubdate": "Sun, 02 Jul 2023 02:00:00 +0200"
-    },
-    {
-      "title": "Lyn",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Lyn",
-      "pubdate": "Sun, 02 Jul 2023 13:00:00 +0200"
-    },
-    {
-      "title": "Ivana Petrovic",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Ivana%20Petrovic",
-      "pubdate": "Sun, 02 Jul 2023 10:00:00 +0200"
     }
   ]
 }

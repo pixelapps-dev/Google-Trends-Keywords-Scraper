@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "05-07-2023 , 16:43:59",
+  "lastUpdate": "05-07-2023 , 16:53:05",
   "data": [
     {
-      "title": "Coco Lee news",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Coco%20Lee%20news",
+      "title": "Coco Lee passed away",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Coco%20Lee%20passed%20away",
       "pubdate": "Wed, 05 Jul 2023 22:00:00 +0800"
     },
     {
@@ -22,6 +22,11 @@
       "pubdate": "Wed, 05 Jul 2023 12:00:00 +0800"
     },
     {
+      "title": "SingPost",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#SingPost",
+      "pubdate": "Wed, 05 Jul 2023 23:00:00 +0800"
+    },
+    {
       "title": "Taylor Swift songs",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Taylor%20Swift%20songs",
       "pubdate": "Wed, 05 Jul 2023 13:00:00 +0800"
@@ -37,6 +42,11 @@
       "pubdate": "Wed, 05 Jul 2023 15:00:00 +0800"
     },
     {
+      "title": "SAFF Championship",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#SAFF%20Championship",
+      "pubdate": "Wed, 05 Jul 2023 07:00:00 +0800"
+    },
+    {
       "title": "Roger Federer",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Roger%20Federer",
       "pubdate": "Wed, 05 Jul 2023 00:00:00 +0800"
@@ -47,9 +57,9 @@
       "pubdate": "Wed, 05 Jul 2023 13:00:00 +0800"
     },
     {
-      "title": "Taylor Swift Singapore",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Taylor%20Swift%20Singapore",
-      "pubdate": "Tue, 04 Jul 2023 09:00:00 +0800"
+      "title": "Ticketmaster",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Ticketmaster",
+      "pubdate": "Tue, 04 Jul 2023 19:00:00 +0800"
     },
     {
       "title": "4th of July",
@@ -90,16 +100,6 @@
       "title": "Ridout",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Ridout",
       "pubdate": "Mon, 03 Jul 2023 21:00:00 +0800"
-    },
-    {
-      "title": "K Shanmugam",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#K%20Shanmugam",
-      "pubdate": "Mon, 03 Jul 2023 19:00:00 +0800"
-    },
-    {
-      "title": "Tesla",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Tesla",
-      "pubdate": "Mon, 03 Jul 2023 16:00:00 +0800"
     }
   ]
 }

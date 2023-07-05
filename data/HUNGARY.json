@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05-07-2023 , 16:43:55",
+  "lastUpdate": "05-07-2023 , 16:52:59",
   "data": [
     {
       "title": "Michael Jordan",
@@ -15,6 +15,11 @@
       "title": "Státusztörvény",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#St%C3%A1tuszt%C3%B6rv%C3%A9ny",
       "pubdate": "Tue, 04 Jul 2023 12:00:00 +0200"
+    },
+    {
+      "title": "Tóth Andi",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#T%C3%B3th%20Andi",
+      "pubdate": "Tue, 04 Jul 2023 10:00:00 +0200"
     },
     {
       "title": "Pásztor Anna",
@@ -57,9 +62,9 @@
       "pubdate": "Tue, 04 Jul 2023 14:00:00 +0200"
     },
     {
-      "title": "Hajdú Péter",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Hajd%C3%BA%20P%C3%A9ter",
-      "pubdate": "Tue, 04 Jul 2023 19:00:00 +0200"
+      "title": "Fábián Juli",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#F%C3%A1bi%C3%A1n%20Juli",
+      "pubdate": "Tue, 04 Jul 2023 09:00:00 +0200"
     },
     {
       "title": "Robert De Niro",
@@ -95,11 +100,6 @@
       "title": "Hunter Biden",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Hunter%20Biden",
       "pubdate": "Mon, 03 Jul 2023 18:00:00 +0200"
-    },
-    {
-      "title": "Manchester United",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Manchester%20United",
-      "pubdate": "Mon, 03 Jul 2023 08:00:00 +0200"
     }
   ]
 }

@@ -1,1 +1,1 @@
-Nieuws,A9,Schiphol,GVB,NH Nieuws,File,Rijkswaterstaat,KNMI,Lana Del Rey,Apeldoorn,Floor Jansen,Wimbledon,Mathieu van der Poel,Dilano van 't Hoff,Max Verstappen,Tour de France,Keti Koti,Davina Michelle,Rotterdam,Nicole Scherzinger
+Nieuws,A9,Schiphol,NH Nieuws,File,Hindley,Weer Nederland,Rijkswaterstaat,KNMI,Lana Del Rey,Floor Jansen,Apeldoorn,Tornado,Wimbledon,Mathieu van der Poel,Dilano van 't Hoff,Max Verstappen,Tour de France,Keti Koti,Davina Michelle

@@ -1,25 +1,20 @@
 {
-  "lastUpdate": "05-07-2023 , 16:43:54",
+  "lastUpdate": "05-07-2023 , 16:52:58",
   "data": [
-    {
-      "title": "Elterngeld",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Elterngeld",
-      "pubdate": "Wed, 05 Jul 2023 08:00:00 +0200"
-    },
-    {
-      "title": "Unwetter",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Unwetter",
-      "pubdate": "Wed, 05 Jul 2023 08:00:00 +0200"
-    },
     {
       "title": "Arda Güler",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Arda%20G%C3%BCler",
       "pubdate": "Wed, 05 Jul 2023 02:00:00 +0200"
     },
     {
-      "title": "Deutscher Wetterdienst",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Deutscher%20Wetterdienst",
-      "pubdate": "Wed, 05 Jul 2023 06:00:00 +0200"
+      "title": "Sturm",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Sturm",
+      "pubdate": "Wed, 05 Jul 2023 13:00:00 +0200"
+    },
+    {
+      "title": "Elterngeld",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Elterngeld",
+      "pubdate": "Tue, 04 Jul 2023 12:00:00 +0200"
     },
     {
       "title": "DAZN",
@@ -100,6 +95,11 @@
       "title": "Russland news",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Russland%20news",
       "pubdate": "Sat, 24 Jun 2023 02:00:00 +0200"
+    },
+    {
+      "title": "Wagner-Gruppe",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Wagner-Gruppe",
+      "pubdate": "Sat, 24 Jun 2023 01:00:00 +0200"
     }
   ]
 }

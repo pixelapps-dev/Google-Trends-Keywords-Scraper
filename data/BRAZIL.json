@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "05-07-2023 , 16:43:51",
+  "lastUpdate": "05-07-2023 , 16:52:56",
   "data": [
+    {
+      "title": "Bia Haddad",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Bia%20Haddad",
+      "pubdate": "Wed, 05 Jul 2023 11:00:00 -0500"
+    },
     {
       "title": "Ponte Preta",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Ponte%20Preta",
@@ -17,14 +22,29 @@
       "pubdate": "Wed, 05 Jul 2023 05:00:00 -0500"
     },
     {
+      "title": "Allison Mack",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Allison%20Mack",
+      "pubdate": "Wed, 05 Jul 2023 10:00:00 -0500"
+    },
+    {
+      "title": "Inigo Martinez",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Inigo%20Martinez",
+      "pubdate": "Wed, 05 Jul 2023 10:00:00 -0500"
+    },
+    {
       "title": "Manaus",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Manaus",
       "pubdate": "Wed, 05 Jul 2023 08:00:00 -0500"
     },
     {
-      "title": "Carlos Alberto",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Carlos%20Alberto",
-      "pubdate": "Wed, 05 Jul 2023 08:00:00 -0500"
+      "title": "Dom João Santos Cardoso",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Dom%20Jo%C3%A3o%20Santos%20Cardoso",
+      "pubdate": "Wed, 05 Jul 2023 10:00:00 -0500"
+    },
+    {
+      "title": "Numanice",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Numanice",
+      "pubdate": "Wed, 05 Jul 2023 11:00:00 -0500"
     },
     {
       "title": "Bahia x Grêmio",
@@ -47,6 +67,11 @@
       "pubdate": "Tue, 04 Jul 2023 11:00:00 -0500"
     },
     {
+      "title": "Copa do Brasil hoje",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Copa%20do%20Brasil%20hoje",
+      "pubdate": "Tue, 04 Jul 2023 08:00:00 -0500"
+    },
+    {
       "title": "Luan Corinthians motel",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Luan%20Corinthians%20motel",
       "pubdate": "Tue, 04 Jul 2023 11:00:00 -0500"
@@ -57,49 +82,24 @@
       "pubdate": "Tue, 04 Jul 2023 17:00:00 -0500"
     },
     {
-      "title": "Flamengo x Athletico-PR",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Flamengo%20x%20Athletico-PR",
-      "pubdate": "Tue, 04 Jul 2023 08:00:00 -0500"
-    },
-    {
       "title": "Siqueira Campos",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Siqueira%20Campos",
       "pubdate": "Tue, 04 Jul 2023 19:00:00 -0500"
     },
     {
+      "title": "4 de julho",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#4%20de%20julho",
+      "pubdate": "Tue, 04 Jul 2023 03:00:00 -0500"
+    },
+    {
+      "title": "Colo-Colo",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Colo-Colo",
+      "pubdate": "Tue, 04 Jul 2023 14:00:00 -0500"
+    },
+    {
       "title": "Threads",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Threads",
       "pubdate": "Tue, 04 Jul 2023 10:00:00 -0500"
-    },
-    {
-      "title": "MLS",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#MLS",
-      "pubdate": "Tue, 04 Jul 2023 16:00:00 -0500"
-    },
-    {
-      "title": "Andressa Urach",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Andressa%20Urach",
-      "pubdate": "Tue, 04 Jul 2023 01:00:00 -0500"
-    },
-    {
-      "title": "4 de julho EUA",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#4%20de%20julho%20EUA",
-      "pubdate": "Tue, 04 Jul 2023 12:00:00 -0500"
-    },
-    {
-      "title": "Copa Paulista",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Copa%20Paulista",
-      "pubdate": "Tue, 04 Jul 2023 16:00:00 -0500"
-    },
-    {
-      "title": "Vacina dengue",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Vacina%20dengue",
-      "pubdate": "Tue, 04 Jul 2023 06:00:00 -0500"
-    },
-    {
-      "title": "Novo ciclone extratropical",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Novo%20ciclone%20extratropical",
-      "pubdate": "Tue, 04 Jul 2023 15:00:00 -0500"
     }
   ]
 }

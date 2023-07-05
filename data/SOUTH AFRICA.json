@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05-07-2023 , 16:44:00",
+  "lastUpdate": "05-07-2023 , 16:53:06",
   "data": [
     {
       "title": "Michael Rubin",
@@ -22,9 +22,29 @@
       "pubdate": "Wed, 05 Jul 2023 15:00:00 +0200"
     },
     {
+      "title": "Oman vs West Indies",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Oman%20vs%20West%20Indies",
+      "pubdate": "Wed, 05 Jul 2023 15:00:00 +0200"
+    },
+    {
       "title": "Bangladesh vs Afghanistan",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Bangladesh%20vs%20Afghanistan",
       "pubdate": "Wed, 05 Jul 2023 15:00:00 +0200"
+    },
+    {
+      "title": "Inigo Martinez",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Inigo%20Martinez",
+      "pubdate": "Wed, 05 Jul 2023 17:00:00 +0200"
+    },
+    {
+      "title": "Arda güler",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Arda%20g%C3%BCler",
+      "pubdate": "Wed, 05 Jul 2023 18:00:00 +0200"
+    },
+    {
+      "title": "Young Sheldon",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Young%20Sheldon",
+      "pubdate": "Wed, 05 Jul 2023 18:00:00 +0200"
     },
     {
       "title": "Garsfontein hoerskool",
@@ -80,26 +100,6 @@
       "title": "Amrabat",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Amrabat",
       "pubdate": "Tue, 04 Jul 2023 08:00:00 +0200"
-    },
-    {
-      "title": "Andy Murray",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Andy%20Murray",
-      "pubdate": "Tue, 04 Jul 2023 23:00:00 +0200"
-    },
-    {
-      "title": "Pyramids FC",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Pyramids%20FC",
-      "pubdate": "Tue, 04 Jul 2023 09:00:00 +0200"
-    },
-    {
-      "title": "SARS",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#SARS",
-      "pubdate": "Mon, 03 Jul 2023 10:00:00 +0200"
-    },
-    {
-      "title": "Wimbledon",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Wimbledon",
-      "pubdate": "Mon, 03 Jul 2023 11:00:00 +0200"
     }
   ]
 }
