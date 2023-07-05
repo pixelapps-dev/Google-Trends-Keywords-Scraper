@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05-07-2023 , 22:43:23",
+  "lastUpdate": "05-07-2023 , 22:50:10",
   "data": [
     {
       "title": "Py Bäckman",
@@ -7,9 +7,24 @@
       "pubdate": "Wed, 05 Jul 2023 11:00:00 +0200"
     },
     {
+      "title": "Peter Forsberg",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Peter%20Forsberg",
+      "pubdate": "Wed, 05 Jul 2023 13:00:00 +0200"
+    },
+    {
+      "title": "Mason Mount",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Mason%20Mount",
+      "pubdate": "Wed, 05 Jul 2023 13:00:00 +0200"
+    },
+    {
       "title": "Marbella",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Marbella",
       "pubdate": "Wed, 05 Jul 2023 10:00:00 +0200"
+    },
+    {
+      "title": "Inigo martinez",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Inigo%20martinez",
+      "pubdate": "Wed, 05 Jul 2023 17:00:00 +0200"
     },
     {
       "title": "Wham!",
@@ -32,11 +47,6 @@
       "pubdate": "Tue, 04 Jul 2023 21:00:00 +0200"
     },
     {
-      "title": "Börje Salming",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#B%C3%B6rje%20Salming",
-      "pubdate": "Tue, 04 Jul 2023 12:00:00 +0200"
-    },
-    {
       "title": "Jenin",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Jenin",
       "pubdate": "Tue, 04 Jul 2023 13:00:00 +0200"
@@ -55,11 +65,6 @@
       "title": "Jens Stoltenberg",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Jens%20Stoltenberg",
       "pubdate": "Tue, 04 Jul 2023 20:00:00 +0200"
-    },
-    {
-      "title": "Vladimir Putin",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Vladimir%20Putin",
-      "pubdate": "Tue, 04 Jul 2023 17:00:00 +0200"
     },
     {
       "title": "Peter Stormare",
@@ -95,11 +100,6 @@
       "title": "Wimbledon",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Wimbledon",
       "pubdate": "Mon, 03 Jul 2023 08:00:00 +0200"
-    },
-    {
-      "title": "Hedvig Lindahl",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Hedvig%20Lindahl",
-      "pubdate": "Mon, 03 Jul 2023 20:00:00 +0200"
     }
   ]
 }

@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "05-07-2023 , 22:43:23",
+  "lastUpdate": "05-07-2023 , 22:50:09",
   "data": [
+    {
+      "title": "유인촌",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%9C%A0%EC%9D%B8%EC%B4%8C",
+      "pubdate": "Thu, 06 Jul 2023 07:00:00 +0900"
+    },
     {
       "title": "새마을금고",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%83%88%EB%A7%88%EC%9D%84%EA%B8%88%EA%B3%A0",
@@ -17,9 +22,9 @@
       "pubdate": "Wed, 05 Jul 2023 20:00:00 +0900"
     },
     {
-      "title": "GS건설",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#GS%EA%B1%B4%EC%84%A4",
-      "pubdate": "Wed, 05 Jul 2023 20:00:00 +0900"
+      "title": "필에너지",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%ED%95%84%EC%97%90%EB%84%88%EC%A7%80",
+      "pubdate": "Wed, 05 Jul 2023 11:00:00 +0900"
     },
     {
       "title": "김봉현",
@@ -30,11 +35,6 @@
       "title": "IAEA",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#IAEA",
       "pubdate": "Tue, 04 Jul 2023 18:00:00 +0900"
-    },
-    {
-      "title": "CCO",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#CCO",
-      "pubdate": "Tue, 04 Jul 2023 21:00:00 +0900"
     },
     {
       "title": "테슬라",
