@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05-07-2023 , 06:37:16",
+  "lastUpdate": "05-07-2023 , 06:47:11",
   "data": [
     {
       "title": "Madame",
@@ -12,6 +12,11 @@
       "pubdate": "Wed, 05 Jul 2023 01:00:00 +0200"
     },
     {
+      "title": "Ancelotti",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Ancelotti",
+      "pubdate": "Wed, 05 Jul 2023 08:00:00 +0200"
+    },
+    {
       "title": "Frattesi",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Frattesi",
       "pubdate": "Tue, 04 Jul 2023 17:00:00 +0200"
@@ -22,9 +27,9 @@
       "pubdate": "Tue, 04 Jul 2023 22:00:00 +0200"
     },
     {
-      "title": "Carlos Alcaraz",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Carlos%20Alcaraz",
-      "pubdate": "Tue, 04 Jul 2023 12:00:00 +0200"
+      "title": "Fiat 600",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Fiat%20600",
+      "pubdate": "Tue, 04 Jul 2023 22:00:00 +0200"
     },
     {
       "title": "Un cuore due destini",
@@ -37,9 +42,14 @@
       "pubdate": "Tue, 04 Jul 2023 23:00:00 +0200"
     },
     {
-      "title": "De Luca Elly Schlein",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#De%20Luca%20Elly%20Schlein",
-      "pubdate": "Tue, 04 Jul 2023 08:00:00 +0200"
+      "title": "Mina",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Mina",
+      "pubdate": "Tue, 04 Jul 2023 12:00:00 +0200"
+    },
+    {
+      "title": "Nuovi palinsesti mediaset",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Nuovi%20palinsesti%20mediaset",
+      "pubdate": "Tue, 04 Jul 2023 18:00:00 +0200"
     },
     {
       "title": "Reijnders",
@@ -52,16 +62,6 @@
       "pubdate": "Tue, 04 Jul 2023 22:00:00 +0200"
     },
     {
-      "title": "Nuovi palinsesti mediaset",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Nuovi%20palinsesti%20mediaset",
-      "pubdate": "Tue, 04 Jul 2023 18:00:00 +0200"
-    },
-    {
-      "title": "Matteo Messina Denaro",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Matteo%20Messina%20Denaro",
-      "pubdate": "Tue, 04 Jul 2023 15:00:00 +0200"
-    },
-    {
       "title": "Calendario Serie A",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Calendario%20Serie%20A",
       "pubdate": "Tue, 04 Jul 2023 22:00:00 +0200"
@@ -72,23 +72,18 @@
       "pubdate": "Tue, 04 Jul 2023 11:00:00 +0200"
     },
     {
-      "title": "Fiat 600",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Fiat%20600",
-      "pubdate": "Tue, 04 Jul 2023 22:00:00 +0200"
-    },
-    {
       "title": "Il segreto di una famiglia",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Il%20segreto%20di%20una%20famiglia",
       "pubdate": "Tue, 04 Jul 2023 21:00:00 +0200"
     },
     {
-      "title": "Predators",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Predators",
-      "pubdate": "Tue, 04 Jul 2023 22:00:00 +0200"
+      "title": "Fiat Topolino",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Fiat%20Topolino",
+      "pubdate": "Tue, 04 Jul 2023 21:00:00 +0200"
     },
     {
-      "title": "Mina",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Mina",
+      "title": "Predators",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Predators",
       "pubdate": "Tue, 04 Jul 2023 22:00:00 +0200"
     },
     {
@@ -100,6 +95,11 @@
       "title": "Fabrizio Zampa",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Fabrizio%20Zampa",
       "pubdate": "Tue, 04 Jul 2023 16:00:00 +0200"
+    },
+    {
+      "title": "Terremoto oggi",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Terremoto%20oggi",
+      "pubdate": "Tue, 04 Jul 2023 00:00:00 +0200"
     }
   ]
 }

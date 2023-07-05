@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05-07-2023 , 06:37:13",
+  "lastUpdate": "05-07-2023 , 06:47:06",
   "data": [
     {
       "title": "Brad Pitt",
@@ -12,14 +12,9 @@
       "pubdate": "Wed, 05 Jul 2023 00:00:00 -0400"
     },
     {
-      "title": "Colo-colo Vs U. La Calera",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Colo-colo%20Vs%20U.%20La%20Calera",
-      "pubdate": "Tue, 04 Jul 2023 16:00:00 -0400"
-    },
-    {
       "title": "Colo Colo",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Colo%20Colo",
-      "pubdate": "Tue, 04 Jul 2023 18:00:00 -0400"
+      "pubdate": "Tue, 04 Jul 2023 16:00:00 -0400"
     },
     {
       "title": "Garin",
@@ -42,6 +37,11 @@
       "pubdate": "Tue, 04 Jul 2023 18:00:00 -0400"
     },
     {
+      "title": "Pato Oñate",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Pato%20O%C3%B1ate",
+      "pubdate": "Tue, 04 Jul 2023 14:00:00 -0400"
+    },
+    {
       "title": "Natalia Valdebenito",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Natalia%20Valdebenito",
       "pubdate": "Tue, 04 Jul 2023 13:00:00 -0400"
@@ -60,11 +60,6 @@
       "title": "Metro",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Metro",
       "pubdate": "Tue, 04 Jul 2023 19:00:00 -0400"
-    },
-    {
-      "title": "Pato Oñate",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Pato%20O%C3%B1ate",
-      "pubdate": "Tue, 04 Jul 2023 14:00:00 -0400"
     },
     {
       "title": "Patricio Fernández",
@@ -87,11 +82,6 @@
       "pubdate": "Tue, 04 Jul 2023 20:00:00 -0400"
     },
     {
-      "title": "Patricio Oñate",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Patricio%20O%C3%B1ate",
-      "pubdate": "Tue, 04 Jul 2023 23:00:00 -0400"
-    },
-    {
       "title": "EQUIFAX",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#EQUIFAX",
       "pubdate": "Tue, 04 Jul 2023 00:00:00 -0400"
@@ -100,6 +90,16 @@
       "title": "Novak Djokovic Wimbledon",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Novak%20Djokovic%20Wimbledon",
       "pubdate": "Tue, 04 Jul 2023 13:00:00 -0400"
+    },
+    {
+      "title": "CAE",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#CAE",
+      "pubdate": "Tue, 04 Jul 2023 01:00:00 -0400"
+    },
+    {
+      "title": "Santander",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Santander",
+      "pubdate": "Mon, 03 Jul 2023 16:00:00 -0400"
     }
   ]
 }
