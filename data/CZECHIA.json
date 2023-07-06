@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-07-2023 , 18:48:19",
+  "lastUpdate": "06-07-2023 , 18:55:04",
   "data": [
     {
       "title": "Threads",
@@ -12,19 +12,24 @@
       "pubdate": "Thu, 06 Jul 2023 14:00:00 +0200"
     },
     {
+      "title": "Daniela Kolářová",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Daniela%20Kol%C3%A1%C5%99ov%C3%A1",
+      "pubdate": "Thu, 06 Jul 2023 16:00:00 +0200"
+    },
+    {
       "title": "Meg Ryan",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Meg%20Ryan",
       "pubdate": "Thu, 06 Jul 2023 00:00:00 +0200"
     },
     {
-      "title": "Terminal",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Terminal",
-      "pubdate": "Thu, 06 Jul 2023 13:00:00 +0200"
-    },
-    {
       "title": "Alain Delon",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Alain%20Delon",
       "pubdate": "Thu, 06 Jul 2023 11:00:00 +0200"
+    },
+    {
+      "title": "Terminal",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Terminal",
+      "pubdate": "Thu, 06 Jul 2023 13:00:00 +0200"
     },
     {
       "title": "Coco Lee",
@@ -37,14 +42,14 @@
       "pubdate": "Thu, 06 Jul 2023 14:00:00 +0200"
     },
     {
-      "title": "Daniela Kolářová",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Daniela%20Kol%C3%A1%C5%99ov%C3%A1",
-      "pubdate": "Thu, 06 Jul 2023 16:00:00 +0200"
-    },
-    {
       "title": "Jonas Vingegaard",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Jonas%20Vingegaard",
       "pubdate": "Thu, 06 Jul 2023 17:00:00 +0200"
+    },
+    {
+      "title": "Salma Hayek",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Salma%20Hayek",
+      "pubdate": "Thu, 06 Jul 2023 20:00:00 +0200"
     },
     {
       "title": "Robin Wright",
@@ -55,11 +60,6 @@
       "title": "Pogacar",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Pogacar",
       "pubdate": "Wed, 05 Jul 2023 21:00:00 +0200"
-    },
-    {
-      "title": "Sparta",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Sparta",
-      "pubdate": "Wed, 05 Jul 2023 20:00:00 +0200"
     },
     {
       "title": "OnePlus Nord 3",
@@ -92,14 +92,14 @@
       "pubdate": "Tue, 04 Jul 2023 17:00:00 +0200"
     },
     {
-      "title": "Slunce, seno, jahody",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Slunce,%20seno,%20jahody",
-      "pubdate": "Tue, 04 Jul 2023 21:00:00 +0200"
-    },
-    {
       "title": "Robert Urban",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Robert%20Urban",
       "pubdate": "Tue, 04 Jul 2023 09:00:00 +0200"
+    },
+    {
+      "title": "Velehrad",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Velehrad",
+      "pubdate": "Tue, 04 Jul 2023 12:00:00 +0200"
     }
   ]
 }
