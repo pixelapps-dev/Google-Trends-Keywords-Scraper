@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-07-2023 , 05:43:30",
+  "lastUpdate": "06-07-2023 , 05:50:07",
   "data": [
     {
       "title": "유인촌",
@@ -32,11 +32,6 @@
       "pubdate": "Wed, 05 Jul 2023 20:00:00 +0900"
     },
     {
-      "title": "틴탑",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%ED%8B%B4%ED%83%91",
-      "pubdate": "Wed, 05 Jul 2023 14:00:00 +0900"
-    },
-    {
       "title": "김봉현",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EA%B9%80%EB%B4%89%ED%98%84",
       "pubdate": "Wed, 05 Jul 2023 19:00:00 +0900"
@@ -60,6 +55,11 @@
       "title": "추미애",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%B6%94%EB%AF%B8%EC%95%A0",
       "pubdate": "Tue, 04 Jul 2023 00:00:00 +0900"
+    },
+    {
+      "title": "대만",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%8C%80%EB%A7%8C",
+      "pubdate": "Tue, 04 Jul 2023 18:00:00 +0900"
     },
     {
       "title": "피프티피프티",
