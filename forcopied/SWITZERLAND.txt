@@ -1,1 +1,1 @@
-Threads,Novak Djokovic,Pogacar,Threads App,Granit Xhaka,Tennis Wimbledon 2023,Daniela Katzenberger,Wisent,Kylian Mbappé,Diablo 4,Mylene Farmer,Berrettini,Marc-Andrea Hüsler,Frauenfeld: Festival,Wimbledon Tennis,Guns N'Roses,Japankäfer,Arda Güler,Ambra,CoCo Lee
+Threads,Wawrinka,Brand Altstetten,Novak Djokovic,Pogacar,Granit Xhaka,Daniela Katzenberger,Tennis Wimbledon 2023,Wisent,Kylian Mbappé,Diablo 4,Bayer Leverkusen,Mylene Farmer,Wimbledon Tennis,Berrettini,Thread,Marc-Andrea Hüsler,Frauenfeld: Festival,Xavier Dolan,Guns N'Roses

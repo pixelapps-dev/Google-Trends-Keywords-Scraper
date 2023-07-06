@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-07-2023 , 18:41:45",
+  "lastUpdate": "06-07-2023 , 18:48:25",
   "data": [
     {
       "title": "Threads",
@@ -17,9 +17,24 @@
       "pubdate": "Thu, 06 Jul 2023 00:00:00 +0100"
     },
     {
+      "title": "Flamengo  Athletico-PR",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Flamengo%20%20Athletico-PR",
+      "pubdate": "Thu, 06 Jul 2023 03:00:00 +0100"
+    },
+    {
+      "title": "Red Hot chili Peppers",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Red%20Hot%20chili%20Peppers",
+      "pubdate": "Thu, 06 Jul 2023 13:00:00 +0100"
+    },
+    {
       "title": "Leão",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Le%C3%A3o",
       "pubdate": "Thu, 06 Jul 2023 00:00:00 +0100"
+    },
+    {
+      "title": "NOS Alive cartaz",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#NOS%20Alive%20cartaz",
+      "pubdate": "Thu, 06 Jul 2023 18:00:00 +0100"
     },
     {
       "title": "Coelho",
@@ -27,14 +42,14 @@
       "pubdate": "Thu, 06 Jul 2023 00:00:00 +0100"
     },
     {
-      "title": "Dia do Beijo",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Dia%20do%20Beijo",
-      "pubdate": "Thu, 06 Jul 2023 11:00:00 +0100"
-    },
-    {
       "title": "Frida Kahlo",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Frida%20Kahlo",
       "pubdate": "Thu, 06 Jul 2023 12:00:00 +0100"
+    },
+    {
+      "title": "Rodrigo Ribeiro",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Rodrigo%20Ribeiro",
+      "pubdate": "Thu, 06 Jul 2023 19:00:00 +0100"
     },
     {
       "title": "Jean Paul Gaultier",
@@ -50,6 +65,11 @@
       "title": "PSG",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#PSG",
       "pubdate": "Thu, 06 Jul 2023 11:00:00 +0100"
+    },
+    {
+      "title": "Paula Badosa",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Paula%20Badosa",
+      "pubdate": "Thu, 06 Jul 2023 18:00:00 +0100"
     },
     {
       "title": "Cobra",
@@ -77,29 +97,9 @@
       "pubdate": "Wed, 05 Jul 2023 14:00:00 +0100"
     },
     {
-      "title": "Mulan",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Mulan",
+      "title": "Cao",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Cao",
       "pubdate": "Wed, 05 Jul 2023 23:00:00 +0100"
-    },
-    {
-      "title": "Andrey Santos",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Andrey%20Santos",
-      "pubdate": "Wed, 05 Jul 2023 09:00:00 +0100"
-    },
-    {
-      "title": "Super Bock",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Super%20Bock",
-      "pubdate": "Wed, 05 Jul 2023 16:00:00 +0100"
-    },
-    {
-      "title": "Pogacar",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Pogacar",
-      "pubdate": "Wed, 05 Jul 2023 22:00:00 +0100"
-    },
-    {
-      "title": "Travis Scott",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Travis%20Scott",
-      "pubdate": "Wed, 05 Jul 2023 10:00:00 +0100"
     }
   ]
 }

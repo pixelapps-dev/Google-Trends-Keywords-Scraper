@@ -1,9 +1,14 @@
 {
-  "lastUpdate": "06-07-2023 , 18:41:45",
+  "lastUpdate": "06-07-2023 , 18:48:25",
   "data": [
     {
       "title": "Threads",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Threads",
+      "pubdate": "Thu, 06 Jul 2023 09:00:00 +0200"
+    },
+    {
+      "title": "Lwów",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Lw%C3%B3w",
       "pubdate": "Thu, 06 Jul 2023 09:00:00 +0200"
     },
     {
@@ -12,9 +17,9 @@
       "pubdate": "Thu, 06 Jul 2023 00:00:00 +0200"
     },
     {
-      "title": "Lwów",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Lw%C3%B3w",
-      "pubdate": "Thu, 06 Jul 2023 09:00:00 +0200"
+      "title": "Coco Lee",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Coco%20Lee",
+      "pubdate": "Thu, 06 Jul 2023 00:00:00 +0200"
     },
     {
       "title": "Taylor Swift",
@@ -22,14 +27,14 @@
       "pubdate": "Thu, 06 Jul 2023 15:00:00 +0200"
     },
     {
-      "title": "Coco Lee",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Coco%20Lee",
-      "pubdate": "Thu, 06 Jul 2023 00:00:00 +0200"
-    },
-    {
       "title": "Mission: Impossible",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Mission:%20Impossible",
       "pubdate": "Thu, 06 Jul 2023 06:00:00 +0200"
+    },
+    {
+      "title": "Wyniki matur",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Wyniki%20matur",
+      "pubdate": "Thu, 06 Jul 2023 19:00:00 +0200"
     },
     {
       "title": "Teresa Orlowski",
@@ -62,6 +67,21 @@
       "pubdate": "Thu, 06 Jul 2023 18:00:00 +0200"
     },
     {
+      "title": "Ralph Kaminski",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Ralph%20Kaminski",
+      "pubdate": "Thu, 06 Jul 2023 19:00:00 +0200"
+    },
+    {
+      "title": "Bogumiła Wander",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Bogumi%C5%82a%20Wander",
+      "pubdate": "Thu, 06 Jul 2023 19:00:00 +0200"
+    },
+    {
+      "title": "Martin Stevens",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Martin%20Stevens",
+      "pubdate": "Thu, 06 Jul 2023 20:00:00 +0200"
+    },
+    {
       "title": "Wielka Brytania",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Wielka%20Brytania",
       "pubdate": "Thu, 06 Jul 2023 11:00:00 +0200"
@@ -72,34 +92,14 @@
       "pubdate": "Thu, 06 Jul 2023 14:00:00 +0200"
     },
     {
+      "title": "Djokovic",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Djokovic",
+      "pubdate": "Thu, 06 Jul 2023 17:00:00 +0200"
+    },
+    {
       "title": "Gdzie jest burza",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Gdzie%20jest%20burza",
       "pubdate": "Wed, 05 Jul 2023 16:00:00 +0200"
-    },
-    {
-      "title": "Hurkacz",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Hurkacz",
-      "pubdate": "Wed, 05 Jul 2023 21:00:00 +0200"
-    },
-    {
-      "title": "Linette",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Linette",
-      "pubdate": "Wed, 05 Jul 2023 23:00:00 +0200"
-    },
-    {
-      "title": "Iga swiatek",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Iga%20swiatek",
-      "pubdate": "Wed, 05 Jul 2023 17:00:00 +0200"
-    },
-    {
-      "title": "Windy",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Windy",
-      "pubdate": "Wed, 05 Jul 2023 18:00:00 +0200"
-    },
-    {
-      "title": "Inigo Martinez",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Inigo%20Martinez",
-      "pubdate": "Wed, 05 Jul 2023 11:00:00 +0200"
     }
   ]
 }
