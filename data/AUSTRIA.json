@@ -1,10 +1,15 @@
 {
-  "lastUpdate": "06-07-2023 , 14:42:00",
+  "lastUpdate": "06-07-2023 , 14:48:47",
   "data": [
     {
       "title": "Threads",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Threads",
       "pubdate": "Thu, 06 Jul 2023 13:00:00 +0200"
+    },
+    {
+      "title": "CoCo Lee",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#CoCo%20Lee",
+      "pubdate": "Thu, 06 Jul 2023 02:00:00 +0200"
     },
     {
       "title": "Christina Stürmer",
@@ -17,6 +22,16 @@
       "pubdate": "Thu, 06 Jul 2023 14:00:00 +0200"
     },
     {
+      "title": "Greta Thunberg",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Greta%20Thunberg",
+      "pubdate": "Thu, 06 Jul 2023 12:00:00 +0200"
+    },
+    {
+      "title": "Bestattung Wien",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Bestattung%20Wien",
+      "pubdate": "Thu, 06 Jul 2023 15:00:00 +0200"
+    },
+    {
       "title": "Taylor Swift",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Taylor%20Swift",
       "pubdate": "Wed, 05 Jul 2023 23:00:00 +0200"
@@ -25,6 +40,11 @@
       "title": "Novak Djokovic",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Novak%20Djokovic",
       "pubdate": "Wed, 05 Jul 2023 21:00:00 +0200"
+    },
+    {
+      "title": "Ambra",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Ambra",
+      "pubdate": "Wed, 05 Jul 2023 22:00:00 +0200"
     },
     {
       "title": "Arda Güler",
@@ -47,6 +67,11 @@
       "pubdate": "Wed, 05 Jul 2023 17:00:00 +0200"
     },
     {
+      "title": "Helmut Marko Red-Bull",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Helmut%20Marko%20Red-Bull",
+      "pubdate": "Wed, 05 Jul 2023 20:00:00 +0200"
+    },
+    {
       "title": "Red Bull Salzburg",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Red%20Bull%20Salzburg",
       "pubdate": "Wed, 05 Jul 2023 18:00:00 +0200"
@@ -55,6 +80,11 @@
       "title": "Heute.at",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Heute.at",
       "pubdate": "Wed, 05 Jul 2023 09:00:00 +0200"
+    },
+    {
+      "title": "Zverev",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Zverev",
+      "pubdate": "Wed, 05 Jul 2023 22:00:00 +0200"
     },
     {
       "title": "Annika Ernst",
@@ -70,36 +100,6 @@
       "title": "Unwetter Kärnten",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Unwetter%20K%C3%A4rnten",
       "pubdate": "Wed, 05 Jul 2023 07:00:00 +0200"
-    },
-    {
-      "title": "Mason Mount",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Mason%20Mount",
-      "pubdate": "Wed, 05 Jul 2023 14:00:00 +0200"
-    },
-    {
-      "title": "Einmal Hallig und zurück",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Einmal%20Hallig%20und%20zur%C3%BCck",
-      "pubdate": "Wed, 05 Jul 2023 21:00:00 +0200"
-    },
-    {
-      "title": "Zverev",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Zverev",
-      "pubdate": "Wed, 05 Jul 2023 22:00:00 +0200"
-    },
-    {
-      "title": "Blau-Weiß Linz",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Blau-Wei%C3%9F%20Linz",
-      "pubdate": "Wed, 05 Jul 2023 20:00:00 +0200"
-    },
-    {
-      "title": "Jackie Chan",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Jackie%20Chan",
-      "pubdate": "Wed, 05 Jul 2023 07:00:00 +0200"
-    },
-    {
-      "title": "Orlen",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Orlen",
-      "pubdate": "Wed, 05 Jul 2023 08:00:00 +0200"
     }
   ]
 }

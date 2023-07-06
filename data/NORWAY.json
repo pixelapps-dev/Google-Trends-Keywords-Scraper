@@ -1,10 +1,15 @@
 {
-  "lastUpdate": "06-07-2023 , 14:42:07",
+  "lastUpdate": "06-07-2023 , 14:48:55",
   "data": [
     {
       "title": "Threads",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Threads",
       "pubdate": "Thu, 06 Jul 2023 05:00:00 +0200"
+    },
+    {
+      "title": "Marius Borg Høiby",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Marius%20Borg%20H%C3%B8iby",
+      "pubdate": "Thu, 06 Jul 2023 14:00:00 +0200"
     },
     {
       "title": "Kosovare Asllani",
@@ -17,9 +22,9 @@
       "pubdate": "Thu, 06 Jul 2023 09:00:00 +0200"
     },
     {
-      "title": "Marius Borg Høiby",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Marius%20Borg%20H%C3%B8iby",
-      "pubdate": "Thu, 06 Jul 2023 14:00:00 +0200"
+      "title": "NXIVM",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#NXIVM",
+      "pubdate": "Wed, 05 Jul 2023 11:00:00 +0200"
     },
     {
       "title": "Robyn",
@@ -35,6 +40,11 @@
       "title": "Greta Thunberg",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Greta%20Thunberg",
       "pubdate": "Wed, 05 Jul 2023 18:00:00 +0200"
+    },
+    {
+      "title": "Vevelstad",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Vevelstad",
+      "pubdate": "Wed, 05 Jul 2023 15:00:00 +0200"
     },
     {
       "title": "Brønnøysund",
@@ -90,16 +100,6 @@
       "title": "Nissan Leaf",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Nissan%20Leaf",
       "pubdate": "Tue, 04 Jul 2023 00:00:00 +0200"
-    },
-    {
-      "title": "Sonja",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Sonja",
-      "pubdate": "Tue, 04 Jul 2023 22:00:00 +0200"
-    },
-    {
-      "title": "Jenin",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Jenin",
-      "pubdate": "Tue, 04 Jul 2023 22:00:00 +0200"
     }
   ]
 }

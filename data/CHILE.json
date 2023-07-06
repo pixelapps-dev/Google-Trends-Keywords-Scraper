@@ -1,10 +1,15 @@
 {
-  "lastUpdate": "06-07-2023 , 14:42:01",
+  "lastUpdate": "06-07-2023 , 14:48:48",
   "data": [
     {
       "title": "Coco Lee",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Coco%20Lee",
       "pubdate": "Thu, 06 Jul 2023 00:00:00 -0400"
+    },
+    {
+      "title": "Sex Education",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Sex%20Education",
+      "pubdate": "Thu, 06 Jul 2023 09:00:00 -0400"
     },
     {
       "title": "Threads",
@@ -42,11 +47,6 @@
       "pubdate": "Wed, 05 Jul 2023 11:00:00 -0400"
     },
     {
-      "title": "Coursera",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Coursera",
-      "pubdate": "Wed, 05 Jul 2023 18:00:00 -0400"
-    },
-    {
       "title": "Brad Pitt",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Brad%20Pitt",
       "pubdate": "Wed, 05 Jul 2023 00:00:00 -0400"
@@ -62,9 +62,9 @@
       "pubdate": "Wed, 05 Jul 2023 00:00:00 -0400"
     },
     {
-      "title": "Racing  San Lorenzo",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Racing%20%20San%20Lorenzo",
-      "pubdate": "Wed, 05 Jul 2023 20:00:00 -0400"
+      "title": "River Plate",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#River%20Plate",
+      "pubdate": "Wed, 05 Jul 2023 23:00:00 -0400"
     },
     {
       "title": "Heather Locklear",
@@ -72,9 +72,9 @@
       "pubdate": "Wed, 05 Jul 2023 15:00:00 -0400"
     },
     {
-      "title": "Slam Dunk",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Slam%20Dunk",
-      "pubdate": "Wed, 05 Jul 2023 13:00:00 -0400"
+      "title": "Alcalde de Zapallar",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Alcalde%20de%20Zapallar",
+      "pubdate": "Wed, 05 Jul 2023 21:00:00 -0400"
     },
     {
       "title": "Sound of Freedom",
@@ -82,9 +82,9 @@
       "pubdate": "Wed, 05 Jul 2023 03:00:00 -0400"
     },
     {
-      "title": "Alcalde de Zapallar",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Alcalde%20de%20Zapallar",
-      "pubdate": "Wed, 05 Jul 2023 21:00:00 -0400"
+      "title": "Slam Dunk",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Slam%20Dunk",
+      "pubdate": "Wed, 05 Jul 2023 13:00:00 -0400"
     },
     {
       "title": "Iñigo martinez",
@@ -92,14 +92,14 @@
       "pubdate": "Wed, 05 Jul 2023 16:00:00 -0400"
     },
     {
-      "title": "Carlos Palacios",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Carlos%20Palacios",
-      "pubdate": "Wed, 05 Jul 2023 03:00:00 -0400"
-    },
-    {
       "title": "Kings League",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Kings%20League",
       "pubdate": "Wed, 05 Jul 2023 17:00:00 -0400"
+    },
+    {
+      "title": "Anuel",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Anuel",
+      "pubdate": "Wed, 05 Jul 2023 14:00:00 -0400"
     }
   ]
 }

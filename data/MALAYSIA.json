@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-07-2023 , 14:42:06",
+  "lastUpdate": "06-07-2023 , 14:48:53",
   "data": [
     {
       "title": "Threads",
@@ -27,9 +27,19 @@
       "pubdate": "Thu, 06 Jul 2023 08:00:00 +0800"
     },
     {
+      "title": "My Happy Marriage",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#My%20Happy%20Marriage",
+      "pubdate": "Thu, 06 Jul 2023 14:00:00 +0800"
+    },
+    {
       "title": "Texas",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Texas",
       "pubdate": "Thu, 06 Jul 2023 15:00:00 +0800"
+    },
+    {
+      "title": "Depression",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Depression",
+      "pubdate": "Thu, 06 Jul 2023 09:00:00 +0800"
     },
     {
       "title": "Euro U21",
@@ -40,11 +50,6 @@
       "title": "Jurrien Timber",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Jurrien%20Timber",
       "pubdate": "Thu, 06 Jul 2023 00:00:00 +0800"
-    },
-    {
-      "title": "My Happy Marriage",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#My%20Happy%20Marriage",
-      "pubdate": "Thu, 06 Jul 2023 14:00:00 +0800"
     },
     {
       "title": "Coco Lee passed away",
@@ -82,24 +87,19 @@
       "pubdate": "Wed, 05 Jul 2023 18:00:00 +0800"
     },
     {
-      "title": "Alessia Russo",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Alessia%20Russo",
-      "pubdate": "Wed, 05 Jul 2023 14:00:00 +0800"
-    },
-    {
       "title": "Arda Güler",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Arda%20G%C3%BCler",
       "pubdate": "Wed, 05 Jul 2023 16:00:00 +0800"
     },
     {
+      "title": "Alessia Russo",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Alessia%20Russo",
+      "pubdate": "Wed, 05 Jul 2023 14:00:00 +0800"
+    },
+    {
       "title": "Salmonella",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Salmonella",
       "pubdate": "Wed, 05 Jul 2023 21:00:00 +0800"
-    },
-    {
-      "title": "4D",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#4D",
-      "pubdate": "Tue, 04 Jul 2023 23:00:00 +0800"
     }
   ]
 }

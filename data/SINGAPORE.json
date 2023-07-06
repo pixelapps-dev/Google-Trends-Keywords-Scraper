@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-07-2023 , 14:42:08",
+  "lastUpdate": "06-07-2023 , 14:48:57",
   "data": [
     {
       "title": "Threads",
@@ -7,19 +7,14 @@
       "pubdate": "Thu, 06 Jul 2023 09:00:00 +0800"
     },
     {
-      "title": "Madonna",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Madonna",
-      "pubdate": "Thu, 06 Jul 2023 01:00:00 +0800"
+      "title": "Depression symptoms",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Depression%20symptoms",
+      "pubdate": "Thu, 06 Jul 2023 08:00:00 +0800"
     },
     {
       "title": "Depression",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Depression",
       "pubdate": "Thu, 06 Jul 2023 07:00:00 +0800"
-    },
-    {
-      "title": "Kylian mbappé",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Kylian%20mbapp%C3%A9",
-      "pubdate": "Thu, 06 Jul 2023 18:00:00 +0800"
     },
     {
       "title": "Novak Djokovic",
@@ -40,6 +35,11 @@
       "title": "Mason Mount",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Mason%20Mount",
       "pubdate": "Wed, 05 Jul 2023 20:00:00 +0800"
+    },
+    {
+      "title": "SingPost",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#SingPost",
+      "pubdate": "Wed, 05 Jul 2023 23:00:00 +0800"
     },
     {
       "title": "Taylor Swift songs",
