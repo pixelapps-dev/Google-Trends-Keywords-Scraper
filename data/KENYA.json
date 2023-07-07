@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07-07-2023 , 16:45:29",
+  "lastUpdate": "07-07-2023 , 16:52:21",
   "data": [
     {
       "title": "Onana",
@@ -7,14 +7,14 @@
       "pubdate": "Fri, 07 Jul 2023 13:00:00 +0300"
     },
     {
+      "title": "Citizen news",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Citizen%20news",
+      "pubdate": "Fri, 07 Jul 2023 14:00:00 +0300"
+    },
+    {
       "title": "Cesar Azpilicueta",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Cesar%20Azpilicueta",
       "pubdate": "Fri, 07 Jul 2023 10:00:00 +0300"
-    },
-    {
-      "title": "Lincoln Lawyer",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Lincoln%20Lawyer",
-      "pubdate": "Fri, 07 Jul 2023 04:00:00 +0300"
     },
     {
       "title": "News Kenya",
@@ -22,9 +22,9 @@
       "pubdate": "Fri, 07 Jul 2023 15:00:00 +0300"
     },
     {
-      "title": "Azimio Saba Saba",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Azimio%20Saba%20Saba",
-      "pubdate": "Fri, 07 Jul 2023 13:00:00 +0300"
+      "title": "Lincoln Lawyer",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Lincoln%20Lawyer",
+      "pubdate": "Fri, 07 Jul 2023 04:00:00 +0300"
     },
     {
       "title": "Chicago Fire FC",
@@ -35,6 +35,11 @@
       "title": "Pep Guardiola",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Pep%20Guardiola",
       "pubdate": "Fri, 07 Jul 2023 11:00:00 +0300"
+    },
+    {
+      "title": "Nairobi news",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Nairobi%20news",
+      "pubdate": "Fri, 07 Jul 2023 14:00:00 +0300"
     },
     {
       "title": "News Today",
@@ -62,14 +67,14 @@
       "pubdate": "Thu, 06 Jul 2023 12:00:00 +0300"
     },
     {
-      "title": "Keke Palmer",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Keke%20Palmer",
-      "pubdate": "Thu, 06 Jul 2023 11:00:00 +0300"
-    },
-    {
       "title": "Granit Xhaka",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Granit%20Xhaka",
       "pubdate": "Thu, 06 Jul 2023 21:00:00 +0300"
+    },
+    {
+      "title": "Keke Palmer",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Keke%20Palmer",
+      "pubdate": "Thu, 06 Jul 2023 11:00:00 +0300"
     },
     {
       "title": "Hong Kong singer CoCo Lee",
@@ -82,6 +87,11 @@
       "pubdate": "Thu, 06 Jul 2023 23:00:00 +0300"
     },
     {
+      "title": "Dybala",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Dybala",
+      "pubdate": "Thu, 06 Jul 2023 15:00:00 +0300"
+    },
+    {
       "title": "Jurrien Timber",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Jurrien%20Timber",
       "pubdate": "Thu, 06 Jul 2023 01:00:00 +0300"
@@ -90,16 +100,6 @@
       "title": "Kylian Mbappe PSG",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Kylian%20Mbappe%20PSG",
       "pubdate": "Thu, 06 Jul 2023 10:00:00 +0300"
-    },
-    {
-      "title": "Dybala",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Dybala",
-      "pubdate": "Thu, 06 Jul 2023 21:00:00 +0300"
-    },
-    {
-      "title": "England U21",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#England%20U21",
-      "pubdate": "Thu, 06 Jul 2023 21:00:00 +0300"
     }
   ]
 }
