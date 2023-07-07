@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "07-07-2023 , 09:39:46",
+  "lastUpdate": "07-07-2023 , 09:46:38",
   "data": [
+    {
+      "title": "PSS Sleman",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#PSS%20Sleman",
+      "pubdate": "Fri, 07 Jul 2023 13:00:00 +0700"
+    },
     {
       "title": "Persib Vs Arema",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Persib%20Vs%20Arema",
@@ -22,29 +27,19 @@
       "pubdate": "Fri, 07 Jul 2023 07:00:00 +0700"
     },
     {
+      "title": "Pantai Pangandaran",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Pantai%20Pangandaran",
+      "pubdate": "Fri, 07 Jul 2023 06:00:00 +0700"
+    },
+    {
       "title": "Luka Romero",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Luka%20Romero",
       "pubdate": "Fri, 07 Jul 2023 09:00:00 +0700"
     },
     {
-      "title": "Zion Suzuki",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Zion%20Suzuki",
-      "pubdate": "Fri, 07 Jul 2023 10:00:00 +0700"
-    },
-    {
-      "title": "PSS Sleman",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#PSS%20Sleman",
-      "pubdate": "Fri, 07 Jul 2023 13:00:00 +0700"
-    },
-    {
       "title": "Granit Xhaka",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Granit%20Xhaka",
       "pubdate": "Fri, 07 Jul 2023 11:00:00 +0700"
-    },
-    {
-      "title": "Canada Open Ahsan/Hendra",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Canada%20Open%20Ahsan/Hendra",
-      "pubdate": "Fri, 07 Jul 2023 12:00:00 +0700"
     },
     {
       "title": "The Nun 2",
@@ -72,9 +67,9 @@
       "pubdate": "Thu, 06 Jul 2023 11:00:00 +0700"
     },
     {
-      "title": "Emha Ainun Najib",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Emha%20Ainun%20Najib",
-      "pubdate": "Thu, 06 Jul 2023 22:00:00 +0700"
+      "title": "Cak Nun Emha Ainun Najib",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Cak%20Nun%20Emha%20Ainun%20Najib",
+      "pubdate": "Thu, 06 Jul 2023 23:00:00 +0700"
     },
     {
       "title": "Fireworks of My Heart",
@@ -100,6 +95,11 @@
       "title": "Brigjen Endar Priantoro",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Brigjen%20Endar%20Priantoro",
       "pubdate": "Thu, 06 Jul 2023 07:00:00 +0700"
+    },
+    {
+      "title": "Orang terkaya di Indonesia",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Orang%20terkaya%20di%20Indonesia",
+      "pubdate": "Thu, 06 Jul 2023 00:00:00 +0700"
     }
   ]
 }
