@@ -1,6 +1,21 @@
 {
-  "lastUpdate": "07-07-2023 , 20:46:56",
+  "lastUpdate": "07-07-2023 , 20:53:44",
   "data": [
+    {
+      "title": "Jasper Philipsen",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Jasper%20Philipsen",
+      "pubdate": "Fri, 07 Jul 2023 18:00:00 +0200"
+    },
+    {
+      "title": "Wawrinka",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Wawrinka",
+      "pubdate": "Fri, 07 Jul 2023 21:00:00 +0200"
+    },
+    {
+      "title": "Edwin van der Sar",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Edwin%20van%20der%20Sar",
+      "pubdate": "Fri, 07 Jul 2023 20:00:00 +0200"
+    },
     {
       "title": "Diablo 4",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Diablo%204",
@@ -22,11 +37,6 @@
       "pubdate": "Fri, 07 Jul 2023 07:00:00 +0200"
     },
     {
-      "title": "Edwin van der Sar",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Edwin%20van%20der%20Sar",
-      "pubdate": "Fri, 07 Jul 2023 20:00:00 +0200"
-    },
-    {
       "title": "Nicolas Cage",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Nicolas%20Cage",
       "pubdate": "Fri, 07 Jul 2023 00:00:00 +0200"
@@ -42,9 +52,19 @@
       "pubdate": "Fri, 07 Jul 2023 08:00:00 +0200"
     },
     {
-      "title": "AMC",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#AMC",
-      "pubdate": "Fri, 07 Jul 2023 00:00:00 +0200"
+      "title": "Swiatek",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Swiatek",
+      "pubdate": "Fri, 07 Jul 2023 21:00:00 +0200"
+    },
+    {
+      "title": "Alcaraz",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Alcaraz",
+      "pubdate": "Fri, 07 Jul 2023 18:00:00 +0200"
+    },
+    {
+      "title": "Eurovision 2024",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Eurovision%202024",
+      "pubdate": "Fri, 07 Jul 2023 19:00:00 +0200"
     },
     {
       "title": "Threads",
@@ -62,11 +82,6 @@
       "pubdate": "Thu, 06 Jul 2023 17:00:00 +0200"
     },
     {
-      "title": "Jasper Philipsen",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Jasper%20Philipsen",
-      "pubdate": "Thu, 06 Jul 2023 22:00:00 +0200"
-    },
-    {
       "title": "Tourmalet",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Tourmalet",
       "pubdate": "Thu, 06 Jul 2023 07:00:00 +0200"
@@ -77,29 +92,14 @@
       "pubdate": "Thu, 06 Jul 2023 22:00:00 +0200"
     },
     {
-      "title": "Schengen",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Schengen",
-      "pubdate": "Thu, 06 Jul 2023 01:00:00 +0200"
-    },
-    {
-      "title": "Taylor Swift",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Taylor%20Swift",
-      "pubdate": "Thu, 06 Jul 2023 16:00:00 +0200"
-    },
-    {
-      "title": "Ozempic",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Ozempic",
-      "pubdate": "Thu, 06 Jul 2023 18:00:00 +0200"
-    },
-    {
-      "title": "Paula Badosa",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Paula%20Badosa",
+      "title": "Mark Cavendish",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Mark%20Cavendish",
       "pubdate": "Thu, 06 Jul 2023 22:00:00 +0200"
     },
     {
-      "title": "Margot Robbie",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Margot%20Robbie",
-      "pubdate": "Thu, 06 Jul 2023 17:00:00 +0200"
+      "title": "Schengen",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Schengen",
+      "pubdate": "Thu, 06 Jul 2023 01:00:00 +0200"
     }
   ]
 }
