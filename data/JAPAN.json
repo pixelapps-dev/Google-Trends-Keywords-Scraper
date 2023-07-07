@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07-07-2023 , 22:49:21",
+  "lastUpdate": "07-07-2023 , 22:56:11",
   "data": [
     {
       "title": "君たちはどう生きるか ジブリ",
@@ -37,11 +37,6 @@
       "pubdate": "Fri, 07 Jul 2023 23:00:00 +0900"
     },
     {
-      "title": "平野紫耀 TOBE",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E5%B9%B3%E9%87%8E%E7%B4%AB%E8%80%80%20TOBE",
-      "pubdate": "Fri, 07 Jul 2023 23:00:00 +0900"
-    },
-    {
       "title": "Threads",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#Threads",
       "pubdate": "Thu, 06 Jul 2023 13:00:00 +0900"
@@ -67,6 +62,11 @@
       "pubdate": "Tue, 04 Jul 2023 22:00:00 +0900"
     },
     {
+      "title": "藤井聡太",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E8%97%A4%E4%BA%95%E8%81%A1%E5%A4%AA",
+      "pubdate": "Mon, 03 Jul 2023 21:00:00 +0900"
+    },
+    {
       "title": "RRR",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#RRR",
       "pubdate": "Mon, 03 Jul 2023 21:00:00 +0900"
@@ -87,11 +87,6 @@
       "pubdate": "Sun, 02 Jul 2023 04:00:00 +0900"
     },
     {
-      "title": "Fate/strange Fake",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#Fate/strange%20Fake",
-      "pubdate": "Sun, 02 Jul 2023 19:00:00 +0900"
-    },
-    {
       "title": "API",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#API",
       "pubdate": "Sun, 02 Jul 2023 00:00:00 +0900"
@@ -100,6 +95,11 @@
       "title": "ガンダムSEED",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A0SEED",
       "pubdate": "Sun, 02 Jul 2023 20:00:00 +0900"
+    },
+    {
+      "title": "Fate/strange Fake",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#Fate/strange%20Fake",
+      "pubdate": "Sun, 02 Jul 2023 19:00:00 +0900"
     }
   ]
 }
