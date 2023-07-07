@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07-07-2023 , 04:39:50",
+  "lastUpdate": "07-07-2023 , 04:46:32",
   "data": [
     {
       "title": "Threads",
@@ -15,6 +15,11 @@
       "title": "Zverev",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Zverev",
       "pubdate": "Thu, 06 Jul 2023 16:00:00 +0200"
+    },
+    {
+      "title": "Granit Xhaka",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Granit%20Xhaka",
+      "pubdate": "Thu, 06 Jul 2023 20:00:00 +0200"
     },
     {
       "title": "Arda Güler",
@@ -95,11 +100,6 @@
       "title": "Russland news",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Russland%20news",
       "pubdate": "Sat, 24 Jun 2023 02:00:00 +0200"
-    },
-    {
-      "title": "Wagner-Gruppe",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Wagner-Gruppe",
-      "pubdate": "Sat, 24 Jun 2023 01:00:00 +0200"
     }
   ]
 }
