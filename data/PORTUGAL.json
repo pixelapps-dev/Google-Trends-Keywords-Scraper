@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09-07-2023 , 17:44:11",
+  "lastUpdate": "09-07-2023 , 17:50:48",
   "data": [
     {
       "title": "Palmeiras",
@@ -12,9 +12,24 @@
       "pubdate": "Sun, 09 Jul 2023 12:00:00 +0100"
     },
     {
-      "title": "D americo Aguiar",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#D%20americo%20Aguiar",
+      "title": "Corinthians",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Corinthians",
+      "pubdate": "Sun, 09 Jul 2023 00:00:00 +0100"
+    },
+    {
+      "title": "Americo Aguiar",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Americo%20Aguiar",
       "pubdate": "Sun, 09 Jul 2023 14:00:00 +0100"
+    },
+    {
+      "title": "Puy de dome",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Puy%20de%20dome",
+      "pubdate": "Sun, 09 Jul 2023 12:00:00 +0100"
+    },
+    {
+      "title": "Luis suarez",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Luis%20suarez",
+      "pubdate": "Sun, 09 Jul 2023 12:00:00 +0100"
     },
     {
       "title": "Vasco",
@@ -22,9 +37,9 @@
       "pubdate": "Sun, 09 Jul 2023 14:00:00 +0100"
     },
     {
-      "title": "Luis Suarez",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Luis%20Suarez",
-      "pubdate": "Sun, 09 Jul 2023 12:00:00 +0100"
+      "title": "Jonah Hill",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Jonah%20Hill",
+      "pubdate": "Sun, 09 Jul 2023 02:00:00 +0100"
     },
     {
       "title": "Harry Potter",
@@ -32,19 +47,24 @@
       "pubdate": "Sun, 09 Jul 2023 02:00:00 +0100"
     },
     {
-      "title": "Jonah Hill",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Jonah%20Hill",
-      "pubdate": "Sun, 09 Jul 2023 02:00:00 +0100"
-    },
-    {
-      "title": "Jesus Quisto",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Jesus%20Quisto",
-      "pubdate": "Sun, 09 Jul 2023 00:00:00 +0100"
-    },
-    {
       "title": "Simone Susinna",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Simone%20Susinna",
       "pubdate": "Sun, 09 Jul 2023 10:00:00 +0100"
+    },
+    {
+      "title": "Silverstone",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Silverstone",
+      "pubdate": "Sun, 09 Jul 2023 01:00:00 +0100"
+    },
+    {
+      "title": "Gilberto",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Gilberto",
+      "pubdate": "Sun, 09 Jul 2023 16:00:00 +0100"
+    },
+    {
+      "title": "Santos",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Santos",
+      "pubdate": "Sun, 09 Jul 2023 17:00:00 +0100"
     },
     {
       "title": "Boda Tamara falco",
@@ -57,9 +77,14 @@
       "pubdate": "Sun, 09 Jul 2023 00:00:00 +0100"
     },
     {
-      "title": "Gilberto",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Gilberto",
-      "pubdate": "Sun, 09 Jul 2023 16:00:00 +0100"
+      "title": "King Princess",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#King%20Princess",
+      "pubdate": "Sun, 09 Jul 2023 00:00:00 +0100"
+    },
+    {
+      "title": "Nina Toc Toc",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Nina%20Toc%20Toc",
+      "pubdate": "Sun, 09 Jul 2023 17:00:00 +0100"
     },
     {
       "title": "Sam Smith",
@@ -72,34 +97,9 @@
       "pubdate": "Sat, 08 Jul 2023 12:00:00 +0100"
     },
     {
-      "title": "UFC",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#UFC",
-      "pubdate": "Sat, 08 Jul 2023 21:00:00 +0100"
-    },
-    {
       "title": "De Gea",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#De%20Gea",
       "pubdate": "Sat, 08 Jul 2023 16:00:00 +0100"
-    },
-    {
-      "title": "Atlético-MG  Corinthians",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Atl%C3%A9tico-MG%20%20Corinthians",
-      "pubdate": "Sat, 08 Jul 2023 23:00:00 +0100"
-    },
-    {
-      "title": "Neusa Maria Faro",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Neusa%20Maria%20Faro",
-      "pubdate": "Sat, 08 Jul 2023 15:00:00 +0100"
-    },
-    {
-      "title": "Inglaterra sub-21",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Inglaterra%20sub-21",
-      "pubdate": "Sat, 08 Jul 2023 19:00:00 +0100"
-    },
-    {
-      "title": "Mark Cavendish",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Mark%20Cavendish",
-      "pubdate": "Sat, 08 Jul 2023 18:00:00 +0100"
     }
   ]
 }

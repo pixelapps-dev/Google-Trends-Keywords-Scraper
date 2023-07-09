@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09-07-2023 , 17:44:07",
+  "lastUpdate": "09-07-2023 , 17:50:44",
   "data": [
     {
       "title": "Sri Lanka vs Netherlands",
@@ -12,14 +12,19 @@
       "pubdate": "Sun, 09 Jul 2023 13:30:00 +0530"
     },
     {
-      "title": "West Bengal Panchayat Election",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#West%20Bengal%20Panchayat%20Election",
-      "pubdate": "Sun, 09 Jul 2023 02:30:00 +0530"
+      "title": "West Bengal panchayat election",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#West%20Bengal%20panchayat%20election",
+      "pubdate": "Sun, 09 Jul 2023 00:30:00 +0530"
     },
     {
-      "title": "The kapil sharma show",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#The%20kapil%20sharma%20show",
+      "title": "The Kapil Sharma Show",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#The%20Kapil%20Sharma%20Show",
       "pubdate": "Sun, 09 Jul 2023 15:30:00 +0530"
+    },
+    {
+      "title": "Chris Woakes",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Chris%20Woakes",
+      "pubdate": "Sun, 09 Jul 2023 19:30:00 +0530"
     },
     {
       "title": "Luis Suarez",
@@ -52,19 +57,9 @@
       "pubdate": "Sat, 08 Jul 2023 18:30:00 +0530"
     },
     {
-      "title": "Huma Qureshi",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Huma%20Qureshi",
-      "pubdate": "Sat, 08 Jul 2023 12:30:00 +0530"
-    },
-    {
       "title": "Bawaal Varun Dhawan",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Bawaal%20Varun%20Dhawan",
       "pubdate": "Sat, 08 Jul 2023 19:30:00 +0530"
-    },
-    {
-      "title": "Canada Open Badminton",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Canada%20Open%20Badminton",
-      "pubdate": "Sat, 08 Jul 2023 20:30:00 +0530"
     },
     {
       "title": "David Warner",
@@ -100,6 +95,11 @@
       "title": "Rahul Gandhi",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Rahul%20Gandhi",
       "pubdate": "Fri, 07 Jul 2023 20:30:00 +0530"
+    },
+    {
+      "title": "Ben Stokes",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Ben%20Stokes",
+      "pubdate": "Fri, 07 Jul 2023 22:30:00 +0530"
     }
   ]
 }

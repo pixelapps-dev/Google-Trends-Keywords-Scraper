@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09-07-2023 , 17:44:05",
+  "lastUpdate": "09-07-2023 , 17:50:44",
   "data": [
     {
       "title": "Disparition Emile",
@@ -27,14 +27,14 @@
       "pubdate": "Sun, 09 Jul 2023 14:00:00 +0200"
     },
     {
+      "title": "Pierre Latour",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Pierre%20Latour",
+      "pubdate": "Sun, 09 Jul 2023 19:00:00 +0200"
+    },
+    {
       "title": "Canicule",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Canicule",
       "pubdate": "Sun, 09 Jul 2023 09:00:00 +0200"
-    },
-    {
-      "title": "Zidane",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Zidane",
-      "pubdate": "Sun, 09 Jul 2023 16:00:00 +0200"
     },
     {
       "title": "Puy de dome",
@@ -42,14 +42,14 @@
       "pubdate": "Sat, 08 Jul 2023 20:00:00 +0200"
     },
     {
+      "title": "Raymond Poulidor",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Raymond%20Poulidor",
+      "pubdate": "Sat, 08 Jul 2023 21:00:00 +0200"
+    },
+    {
       "title": "Mark Cavendish",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Mark%20Cavendish",
       "pubdate": "Sat, 08 Jul 2023 13:00:00 +0200"
-    },
-    {
-      "title": "Lee Kang-in",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Lee%20Kang-in",
-      "pubdate": "Sat, 08 Jul 2023 20:00:00 +0200"
     },
     {
       "title": "Patrick Bruel",
@@ -57,14 +57,24 @@
       "pubdate": "Sat, 08 Jul 2023 22:00:00 +0200"
     },
     {
+      "title": "F1 Silverstone",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#F1%20Silverstone",
+      "pubdate": "Sat, 08 Jul 2023 20:00:00 +0200"
+    },
+    {
       "title": "Stade de France",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Stade%20de%20France",
       "pubdate": "Sat, 08 Jul 2023 21:00:00 +0200"
     },
     {
-      "title": "F1 Silverstone",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#F1%20Silverstone",
+      "title": "Kang-in Lee",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Kang-in%20Lee",
       "pubdate": "Sat, 08 Jul 2023 20:00:00 +0200"
+    },
+    {
+      "title": "Patrick Sébastien",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Patrick%20S%C3%A9bastien",
+      "pubdate": "Sat, 08 Jul 2023 13:00:00 +0200"
     },
     {
       "title": "Clara Luciani",
@@ -72,19 +82,14 @@
       "pubdate": "Sat, 08 Jul 2023 23:00:00 +0200"
     },
     {
-      "title": "Armes à sous-munitions",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Armes%20%C3%A0%20sous-munitions",
-      "pubdate": "Sat, 08 Jul 2023 09:00:00 +0200"
-    },
-    {
       "title": "Iggy Pop",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Iggy%20Pop",
       "pubdate": "Sat, 08 Jul 2023 23:00:00 +0200"
     },
     {
-      "title": "Laetitia Milot",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Laetitia%20Milot",
-      "pubdate": "Sat, 08 Jul 2023 19:00:00 +0200"
+      "title": "Armes à sous-munitions",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Armes%20%C3%A0%20sous-munitions",
+      "pubdate": "Sat, 08 Jul 2023 09:00:00 +0200"
     },
     {
       "title": "Izïa Higelin",
@@ -95,11 +100,6 @@
       "title": "Marion Cotillard",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Marion%20Cotillard",
       "pubdate": "Sat, 08 Jul 2023 12:00:00 +0200"
-    },
-    {
-      "title": "Adama traore",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Adama%20traore",
-      "pubdate": "Fri, 07 Jul 2023 21:00:00 +0200"
     }
   ]
 }
