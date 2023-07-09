@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09-07-2023 , 21:38:48",
+  "lastUpdate": "09-07-2023 , 21:45:28",
   "data": [
     {
       "title": "Amazonプライムデー先行セール",
@@ -22,11 +22,6 @@
       "pubdate": "Sun, 09 Jul 2023 19:00:00 +0900"
     },
     {
-      "title": "プライムデー先行セール",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A0%E3%83%87%E3%83%BC%E5%85%88%E8%A1%8C%E3%82%BB%E3%83%BC%E3%83%AB",
-      "pubdate": "Sun, 09 Jul 2023 20:00:00 +0900"
-    },
-    {
       "title": "レベル1だけどユニークスキルで最強です",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%83%AC%E3%83%99%E3%83%AB1%E3%81%A0%E3%81%91%E3%81%A9%E3%83%A6%E3%83%8B%E3%83%BC%E3%82%AF%E3%82%B9%E3%82%AD%E3%83%AB%E3%81%A7%E6%9C%80%E5%BC%B7%E3%81%A7%E3%81%99",
       "pubdate": "Sun, 09 Jul 2023 14:00:00 +0900"
@@ -45,6 +40,11 @@
       "title": "彼女お借りします",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E5%BD%BC%E5%A5%B3%E3%81%8A%E5%80%9F%E3%82%8A%E3%81%97%E3%81%BE%E3%81%99",
       "pubdate": "Fri, 07 Jul 2023 23:00:00 +0900"
+    },
+    {
+      "title": "Threads",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#Threads",
+      "pubdate": "Thu, 06 Jul 2023 14:00:00 +0900"
     },
     {
       "title": "ソシオネクスト",
