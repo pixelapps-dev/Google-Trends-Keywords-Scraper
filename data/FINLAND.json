@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10-07-2023 , 16:47:28",
+  "lastUpdate": "10-07-2023 , 16:54:16",
   "data": [
     {
       "title": "Mirra Andreeva",
@@ -20,6 +20,16 @@
       "title": "NATO",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#NATO",
       "pubdate": "Mon, 10 Jul 2023 15:00:00 +0300"
+    },
+    {
+      "title": "Biden",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Biden",
+      "pubdate": "Mon, 10 Jul 2023 19:00:00 +0300"
+    },
+    {
+      "title": "Cara Delevingne",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Cara%20Delevingne",
+      "pubdate": "Mon, 10 Jul 2023 18:00:00 +0300"
     },
     {
       "title": "Gregg Popovich",
@@ -90,16 +100,6 @@
       "title": "Taylor Lautner",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Taylor%20Lautner",
       "pubdate": "Sun, 09 Jul 2023 16:00:00 +0300"
-    },
-    {
-      "title": "Grand Canyon",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Grand%20Canyon",
-      "pubdate": "Sat, 08 Jul 2023 22:00:00 +0300"
-    },
-    {
-      "title": "Henry Cavill",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Henry%20Cavill",
-      "pubdate": "Sat, 08 Jul 2023 11:00:00 +0300"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10-07-2023 , 16:47:31",
+  "lastUpdate": "10-07-2023 , 16:54:20",
   "data": [
     {
       "title": "Dele Alli",
@@ -22,9 +22,14 @@
       "pubdate": "Mon, 10 Jul 2023 17:00:00 +0300"
     },
     {
-      "title": "CBA",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#CBA",
+      "title": "Cba",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Cba",
       "pubdate": "Mon, 10 Jul 2023 17:00:00 +0300"
+    },
+    {
+      "title": "Cara Delevingne",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Cara%20Delevingne",
+      "pubdate": "Mon, 10 Jul 2023 19:00:00 +0300"
     },
     {
       "title": "Luis Suarez",
@@ -47,18 +52,23 @@
       "pubdate": "Sun, 09 Jul 2023 18:00:00 +0300"
     },
     {
-      "title": "UFC",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#UFC",
-      "pubdate": "Sun, 09 Jul 2023 06:00:00 +0300"
-    },
-    {
       "title": "Trojan",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Trojan",
       "pubdate": "Sun, 09 Jul 2023 22:00:00 +0300"
     },
     {
+      "title": "UFC",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#UFC",
+      "pubdate": "Sun, 09 Jul 2023 06:00:00 +0300"
+    },
+    {
       "title": "British GP",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#British%20GP",
+      "pubdate": "Sun, 09 Jul 2023 19:00:00 +0300"
+    },
+    {
+      "title": "Taylor Lautner",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Taylor%20Lautner",
       "pubdate": "Sun, 09 Jul 2023 19:00:00 +0300"
     },
     {
@@ -90,16 +100,6 @@
       "title": "Tecno Camon 20",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Tecno%20Camon%2020",
       "pubdate": "Sat, 08 Jul 2023 00:00:00 +0300"
-    },
-    {
-      "title": "Cluster munitions",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Cluster%20munitions",
-      "pubdate": "Sat, 08 Jul 2023 15:00:00 +0300"
-    },
-    {
-      "title": "NSL",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#NSL",
-      "pubdate": "Sat, 08 Jul 2023 18:00:00 +0300"
     }
   ]
 }

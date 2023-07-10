@@ -1,10 +1,25 @@
 {
-  "lastUpdate": "10-07-2023 , 16:47:33",
+  "lastUpdate": "10-07-2023 , 16:54:21",
   "data": [
+    {
+      "title": "Radar pogodowy",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Radar%20pogodowy",
+      "pubdate": "Mon, 10 Jul 2023 18:00:00 +0200"
+    },
     {
       "title": "Wta",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Wta",
       "pubdate": "Mon, 10 Jul 2023 06:00:00 +0200"
+    },
+    {
+      "title": "Joe Biden",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Joe%20Biden",
+      "pubdate": "Mon, 10 Jul 2023 16:00:00 +0200"
+    },
+    {
+      "title": "Eubanks",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Eubanks",
+      "pubdate": "Mon, 10 Jul 2023 18:00:00 +0200"
     },
     {
       "title": "Sinice Bałtyk",
@@ -17,9 +32,9 @@
       "pubdate": "Mon, 10 Jul 2023 06:00:00 +0200"
     },
     {
-      "title": "Stanisław Tym",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Stanis%C5%82aw%20Tym",
-      "pubdate": "Mon, 10 Jul 2023 15:00:00 +0200"
+      "title": "Kodak black",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Kodak%20black",
+      "pubdate": "Mon, 10 Jul 2023 14:00:00 +0200"
     },
     {
       "title": "Travis Scott",
@@ -27,9 +42,9 @@
       "pubdate": "Mon, 10 Jul 2023 12:00:00 +0200"
     },
     {
-      "title": "Kodak black",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Kodak%20black",
-      "pubdate": "Mon, 10 Jul 2023 14:00:00 +0200"
+      "title": "Taylor Russell",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Taylor%20Russell",
+      "pubdate": "Mon, 10 Jul 2023 15:00:00 +0200"
     },
     {
       "title": "Sebastian Karpiel-Bułecka",
@@ -37,19 +52,14 @@
       "pubdate": "Mon, 10 Jul 2023 09:00:00 +0200"
     },
     {
-      "title": "Taylor Russell",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Taylor%20Russell",
-      "pubdate": "Mon, 10 Jul 2023 15:00:00 +0200"
-    },
-    {
       "title": "JSW",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#JSW",
       "pubdate": "Mon, 10 Jul 2023 15:00:00 +0200"
     },
     {
-      "title": "Stroj kapielowy",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Stroj%20kapielowy",
-      "pubdate": "Mon, 10 Jul 2023 00:00:00 +0200"
+      "title": "Harry Kane",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Harry%20Kane",
+      "pubdate": "Mon, 10 Jul 2023 13:00:00 +0200"
     },
     {
       "title": "NATO",
@@ -57,9 +67,19 @@
       "pubdate": "Mon, 10 Jul 2023 16:00:00 +0200"
     },
     {
+      "title": "Stroj kapielowy",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Stroj%20kapielowy",
+      "pubdate": "Mon, 10 Jul 2023 00:00:00 +0200"
+    },
+    {
       "title": "Lucas Hernandez",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Lucas%20Hernandez",
       "pubdate": "Mon, 10 Jul 2023 01:00:00 +0200"
+    },
+    {
+      "title": "Hurkacz Djokovic",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Hurkacz%20Djokovic",
+      "pubdate": "Sun, 09 Jul 2023 19:00:00 +0200"
     },
     {
       "title": "Iga Świątek",
@@ -80,26 +100,6 @@
       "title": "Luis Suarez",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Luis%20Suarez",
       "pubdate": "Sun, 09 Jul 2023 12:00:00 +0200"
-    },
-    {
-      "title": "Elton John",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Elton%20John",
-      "pubdate": "Sun, 09 Jul 2023 14:00:00 +0200"
-    },
-    {
-      "title": "Tenis",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Tenis",
-      "pubdate": "Sun, 09 Jul 2023 22:00:00 +0200"
-    },
-    {
-      "title": "Dricus Du Plessis",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Dricus%20Du%20Plessis",
-      "pubdate": "Sun, 09 Jul 2023 10:00:00 +0200"
-    },
-    {
-      "title": "Polsat Box Go",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Polsat%20Box%20Go",
-      "pubdate": "Sun, 09 Jul 2023 21:00:00 +0200"
     }
   ]
 }

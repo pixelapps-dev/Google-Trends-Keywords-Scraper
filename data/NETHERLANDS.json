@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10-07-2023 , 16:47:32",
+  "lastUpdate": "10-07-2023 , 16:54:20",
   "data": [
     {
       "title": "Pieter Omtzigt",
@@ -7,19 +7,14 @@
       "pubdate": "Mon, 10 Jul 2023 16:00:00 +0200"
     },
     {
-      "title": "Salma Hayek",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Salma%20Hayek",
-      "pubdate": "Mon, 10 Jul 2023 09:00:00 +0200"
-    },
-    {
-      "title": "Tom Cruise",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Tom%20Cruise",
+      "title": "Djokovic",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Djokovic",
       "pubdate": "Mon, 10 Jul 2023 00:00:00 +0200"
     },
     {
-      "title": "Wopke Hoekstra",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Wopke%20Hoekstra",
-      "pubdate": "Mon, 10 Jul 2023 13:00:00 +0200"
+      "title": "Salma Hayek",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Salma%20Hayek",
+      "pubdate": "Mon, 10 Jul 2023 09:00:00 +0200"
     },
     {
       "title": "Cara Delevingne",
@@ -27,9 +22,19 @@
       "pubdate": "Mon, 10 Jul 2023 13:00:00 +0200"
     },
     {
-      "title": "Feyenoord",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Feyenoord",
-      "pubdate": "Sun, 09 Jul 2023 11:00:00 +0200"
+      "title": "Tom Cruise",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Tom%20Cruise",
+      "pubdate": "Mon, 10 Jul 2023 00:00:00 +0200"
+    },
+    {
+      "title": "CDA",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#CDA",
+      "pubdate": "Mon, 10 Jul 2023 18:00:00 +0200"
+    },
+    {
+      "title": "Florence Pugh",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Florence%20Pugh",
+      "pubdate": "Sun, 09 Jul 2023 18:00:00 +0200"
     },
     {
       "title": "Svitolina",
@@ -62,6 +67,11 @@
       "pubdate": "Sun, 09 Jul 2023 00:00:00 +0200"
     },
     {
+      "title": "RTV Drenthe",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#RTV%20Drenthe",
+      "pubdate": "Sun, 09 Jul 2023 20:00:00 +0200"
+    },
+    {
       "title": "Storm",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Storm",
       "pubdate": "Sun, 09 Jul 2023 16:00:00 +0200"
@@ -90,16 +100,6 @@
       "title": "Puy de dome",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Puy%20de%20dome",
       "pubdate": "Sat, 08 Jul 2023 15:00:00 +0200"
-    },
-    {
-      "title": "Ajax",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ajax",
-      "pubdate": "Sat, 08 Jul 2023 15:00:00 +0200"
-    },
-    {
-      "title": "Silverstone",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Silverstone",
-      "pubdate": "Sat, 08 Jul 2023 13:00:00 +0200"
     }
   ]
 }

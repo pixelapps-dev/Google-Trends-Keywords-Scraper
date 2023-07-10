@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10-07-2023 , 16:47:33",
+  "lastUpdate": "10-07-2023 , 16:54:22",
   "data": [
     {
       "title": "Djokovic",
@@ -10,6 +10,11 @@
       "title": "Salvatore Ganacci",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Salvatore%20Ganacci",
       "pubdate": "Mon, 10 Jul 2023 02:00:00 +0300"
+    },
+    {
+      "title": "Novak Djokovic",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Novak%20Djokovic",
+      "pubdate": "Mon, 10 Jul 2023 11:00:00 +0300"
     },
     {
       "title": "Iga Swiatek",
@@ -32,6 +37,11 @@
       "pubdate": "Mon, 10 Jul 2023 15:00:00 +0300"
     },
     {
+      "title": "Sofia Vergara",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Sofia%20Vergara",
+      "pubdate": "Mon, 10 Jul 2023 12:00:00 +0300"
+    },
+    {
       "title": "Joe Biden",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Joe%20Biden",
       "pubdate": "Mon, 10 Jul 2023 13:00:00 +0300"
@@ -40,6 +50,11 @@
       "title": "Horoscop 10 iulie 2023",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Horoscop%2010%20iulie%202023",
       "pubdate": "Mon, 10 Jul 2023 06:00:00 +0300"
+    },
+    {
+      "title": "Travis Scott",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Travis%20Scott",
+      "pubdate": "Mon, 10 Jul 2023 18:00:00 +0300"
     },
     {
       "title": "Juventus",
@@ -62,6 +77,11 @@
       "pubdate": "Sun, 09 Jul 2023 13:00:00 +0300"
     },
     {
+      "title": "J Balvin",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#J%20Balvin",
+      "pubdate": "Sun, 09 Jul 2023 17:00:00 +0300"
+    },
+    {
       "title": "Georgiana lobont",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Georgiana%20lobont",
       "pubdate": "Sun, 09 Jul 2023 19:00:00 +0300"
@@ -80,26 +100,6 @@
       "title": "David Popovici",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#David%20Popovici",
       "pubdate": "Sun, 09 Jul 2023 09:00:00 +0300"
-    },
-    {
-      "title": "Deep Purple",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Deep%20Purple",
-      "pubdate": "Sun, 09 Jul 2023 11:00:00 +0300"
-    },
-    {
-      "title": "Vilnius",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Vilnius",
-      "pubdate": "Sun, 09 Jul 2023 13:00:00 +0300"
-    },
-    {
-      "title": "Andreea Antonescu",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Andreea%20Antonescu",
-      "pubdate": "Sun, 09 Jul 2023 23:00:00 +0300"
-    },
-    {
-      "title": "Alexandra Stan",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Alexandra%20Stan",
-      "pubdate": "Sun, 09 Jul 2023 19:00:00 +0300"
     }
   ]
 }
