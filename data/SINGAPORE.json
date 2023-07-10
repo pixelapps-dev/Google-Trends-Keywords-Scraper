@@ -1,11 +1,6 @@
 {
-  "lastUpdate": "10-07-2023 , 04:44:19",
+  "lastUpdate": "10-07-2023 , 04:51:07",
   "data": [
-    {
-      "title": "USA vs Canada",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#USA%20vs%20Canada",
-      "pubdate": "Mon, 10 Jul 2023 10:00:00 +0800"
-    },
     {
       "title": "UFC",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#UFC",
@@ -14,7 +9,7 @@
     {
       "title": "British GP",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#British%20GP",
-      "pubdate": "Sun, 09 Jul 2023 00:00:00 +0800"
+      "pubdate": "Sun, 09 Jul 2023 19:00:00 +0800"
     },
     {
       "title": "Bailey Wright",
@@ -100,6 +95,11 @@
       "title": "Mason Mount",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Mason%20Mount",
       "pubdate": "Wed, 05 Jul 2023 20:00:00 +0800"
+    },
+    {
+      "title": "Klook Taylor Swift Singapore",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Klook%20Taylor%20Swift%20Singapore",
+      "pubdate": "Wed, 05 Jul 2023 18:00:00 +0800"
     }
   ]
 }
