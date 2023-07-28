@@ -1,6 +1,16 @@
 {
-  "lastUpdate": "28-07-2023 , 00:46:52",
+  "lastUpdate": "28-07-2023 , 01:05:26",
   "data": [
+    {
+      "title": "Emmerdale",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Emmerdale",
+      "pubdate": "Fri, 28 Jul 2023 00:00:00 +0100"
+    },
+    {
+      "title": "Australia vs Nigeria",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Australia%20vs%20Nigeria",
+      "pubdate": "Fri, 28 Jul 2023 00:00:00 +0100"
+    },
     {
       "title": "Lesley Manville",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Lesley%20Manville",
@@ -37,19 +47,24 @@
       "pubdate": "Thu, 27 Jul 2023 00:00:00 +0100"
     },
     {
-      "title": "Hibs",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Hibs",
-      "pubdate": "Thu, 27 Jul 2023 19:00:00 +0100"
-    },
-    {
       "title": "Bradley Dack",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Bradley%20Dack",
       "pubdate": "Thu, 27 Jul 2023 20:00:00 +0100"
     },
     {
+      "title": "Hibs",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Hibs",
+      "pubdate": "Thu, 27 Jul 2023 19:00:00 +0100"
+    },
+    {
       "title": "David Silva",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#David%20Silva",
       "pubdate": "Thu, 27 Jul 2023 18:00:00 +0100"
+    },
+    {
+      "title": "Premier League Summer Series",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Premier%20League%20Summer%20Series",
+      "pubdate": "Thu, 27 Jul 2023 03:00:00 +0100"
     },
     {
       "title": "Louis De Zoysa",
@@ -62,14 +77,14 @@
       "pubdate": "Thu, 27 Jul 2023 20:00:00 +0100"
     },
     {
+      "title": "Flying ants",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Flying%20ants",
+      "pubdate": "Thu, 27 Jul 2023 19:00:00 +0100"
+    },
+    {
       "title": "Harry Maguire",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Harry%20Maguire",
       "pubdate": "Thu, 27 Jul 2023 22:00:00 +0100"
-    },
-    {
-      "title": "Nicolas Jackson",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Nicolas%20Jackson",
-      "pubdate": "Thu, 27 Jul 2023 19:00:00 +0100"
     },
     {
       "title": "Billy Porter",
@@ -85,21 +100,6 @@
       "title": "Paul Cattermole",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Paul%20Cattermole",
       "pubdate": "Thu, 27 Jul 2023 06:00:00 +0100"
-    },
-    {
-      "title": "Saw X",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Saw%20X",
-      "pubdate": "Thu, 27 Jul 2023 23:00:00 +0100"
-    },
-    {
-      "title": "Sinead O'Connor",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Sinead%20O'Connor",
-      "pubdate": "Wed, 26 Jul 2023 19:00:00 +0100"
-    },
-    {
-      "title": "Inter Miami",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Inter%20Miami",
-      "pubdate": "Wed, 26 Jul 2023 02:00:00 +0100"
     }
   ]
 }

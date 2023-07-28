@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28-07-2023 , 00:46:48",
+  "lastUpdate": "28-07-2023 , 01:05:22",
   "data": [
     {
       "title": "Australia vs Nigeria",
@@ -7,14 +7,19 @@
       "pubdate": "Fri, 28 Jul 2023 00:00:00 +1200"
     },
     {
+      "title": "Lydia Ko",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Lydia%20Ko",
+      "pubdate": "Fri, 28 Jul 2023 10:00:00 +1200"
+    },
+    {
       "title": "Netball World Cup",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Netball%20World%20Cup",
       "pubdate": "Fri, 28 Jul 2023 08:00:00 +1200"
     },
     {
-      "title": "Lydia Ko",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Lydia%20Ko",
-      "pubdate": "Fri, 28 Jul 2023 10:00:00 +1200"
+      "title": "West Indies vs India",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#West%20Indies%20vs%20India",
+      "pubdate": "Fri, 28 Jul 2023 11:00:00 +1200"
     },
     {
       "title": "Tennis Racket",
@@ -25,6 +30,26 @@
       "title": "Ashes Test 5",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Ashes%20Test%205",
       "pubdate": "Fri, 28 Jul 2023 10:00:00 +1200"
+    },
+    {
+      "title": "Cha",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Cha",
+      "pubdate": "Fri, 28 Jul 2023 12:00:00 +1200"
+    },
+    {
+      "title": "Argentina vs South Africa",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Argentina%20vs%20South%20Africa",
+      "pubdate": "Fri, 28 Jul 2023 12:00:00 +1200"
+    },
+    {
+      "title": "Lucie Blackman",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Lucie%20Blackman",
+      "pubdate": "Fri, 28 Jul 2023 11:00:00 +1200"
+    },
+    {
+      "title": "Takapuna Winter Lights",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Takapuna%20Winter%20Lights",
+      "pubdate": "Fri, 28 Jul 2023 11:00:00 +1200"
     },
     {
       "title": "Sinead O'Connor",
@@ -75,31 +100,6 @@
       "title": "Secret Invasion",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Secret%20Invasion",
       "pubdate": "Thu, 27 Jul 2023 02:00:00 +1200"
-    },
-    {
-      "title": "Talk to Me",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Talk%20to%20Me",
-      "pubdate": "Thu, 27 Jul 2023 20:00:00 +1200"
-    },
-    {
-      "title": "Andrew Tate",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Andrew%20Tate",
-      "pubdate": "Thu, 27 Jul 2023 10:00:00 +1200"
-    },
-    {
-      "title": "Man City",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Man%20City",
-      "pubdate": "Thu, 27 Jul 2023 01:00:00 +1200"
-    },
-    {
-      "title": "Tottenham",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Tottenham",
-      "pubdate": "Thu, 27 Jul 2023 11:00:00 +1200"
-    },
-    {
-      "title": "Niger",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Niger",
-      "pubdate": "Thu, 27 Jul 2023 23:00:00 +1200"
     }
   ]
 }
