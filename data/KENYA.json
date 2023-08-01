@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-08-2023 , 00:53:40",
+  "lastUpdate": "01-08-2023 , 01:21:39",
   "data": [
     {
       "title": "Al Nassr",
@@ -22,11 +22,6 @@
       "pubdate": "Mon, 31 Jul 2023 10:00:00 +0300"
     },
     {
-      "title": "KUCCPS) placement",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#KUCCPS)%20placement",
-      "pubdate": "Mon, 31 Jul 2023 11:00:00 +0300"
-    },
-    {
       "title": "Standard chartered Bank",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Standard%20chartered%20Bank",
       "pubdate": "Mon, 31 Jul 2023 15:00:00 +0300"
@@ -47,14 +42,14 @@
       "pubdate": "Mon, 31 Jul 2023 16:00:00 +0300"
     },
     {
+      "title": "KUCCPS news",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#KUCCPS%20news",
+      "pubdate": "Mon, 31 Jul 2023 14:00:00 +0300"
+    },
+    {
       "title": "Manchester City FC",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Manchester%20City%20FC",
       "pubdate": "Mon, 31 Jul 2023 11:00:00 +0300"
-    },
-    {
-      "title": "Summer Series",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Summer%20Series",
-      "pubdate": "Mon, 31 Jul 2023 10:00:00 +0300"
     },
     {
       "title": "Japan vs Spain",
@@ -100,6 +95,11 @@
       "title": "David Raya",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#David%20Raya",
       "pubdate": "Sun, 30 Jul 2023 19:00:00 +0300"
+    },
+    {
+      "title": "Amrabat",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Amrabat",
+      "pubdate": "Sun, 30 Jul 2023 00:00:00 +0300"
     }
   ]
 }

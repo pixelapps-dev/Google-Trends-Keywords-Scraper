@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-08-2023 , 00:53:41",
+  "lastUpdate": "01-08-2023 , 01:21:41",
   "data": [
     {
       "title": "Angus Cloud",
@@ -12,19 +12,9 @@
       "pubdate": "Tue, 01 Aug 2023 00:00:00 +0200"
     },
     {
-      "title": "Anna Tybor",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Anna%20Tybor",
-      "pubdate": "Tue, 01 Aug 2023 00:00:00 +0200"
-    },
-    {
       "title": "Man utd – Borussia",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Man%20utd%20%E2%80%93%20Borussia",
       "pubdate": "Mon, 31 Jul 2023 03:00:00 +0200"
-    },
-    {
-      "title": "Clout MMA",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Clout%20MMA",
-      "pubdate": "Mon, 31 Jul 2023 23:00:00 +0200"
     },
     {
       "title": "Dembele",
@@ -55,6 +45,11 @@
       "title": "Paul Reubens",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Paul%20Reubens",
       "pubdate": "Mon, 31 Jul 2023 22:00:00 +0200"
+    },
+    {
+      "title": "Edyta Bartosiewicz",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Edyta%20Bartosiewicz",
+      "pubdate": "Mon, 31 Jul 2023 12:00:00 +0200"
     },
     {
       "title": "Inflacja lipiec 2023",
@@ -100,6 +95,11 @@
       "title": "Magdalena stepien",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Magdalena%20stepien",
       "pubdate": "Mon, 31 Jul 2023 12:00:00 +0200"
+    },
+    {
+      "title": "Papryka konserwowa",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Papryka%20konserwowa",
+      "pubdate": "Mon, 31 Jul 2023 21:00:00 +0200"
     }
   ]
 }

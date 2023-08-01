@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-08-2023 , 00:53:43",
+  "lastUpdate": "01-08-2023 , 01:21:43",
   "data": [
     {
       "title": "高錦瑋",
@@ -47,19 +47,24 @@
       "pubdate": "Mon, 31 Jul 2023 13:00:00 +0800"
     },
     {
-      "title": "VOTE WHITE, VOTE RIGHT 民眾黨",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#VOTE%20WHITE,%20VOTE%20RIGHT%20%E6%B0%91%E7%9C%BE%E9%BB%A8",
+      "title": "VOTE WHITE VOTE RIGHT 民眾黨",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#VOTE%20WHITE%20VOTE%20RIGHT%20%E6%B0%91%E7%9C%BE%E9%BB%A8",
       "pubdate": "Mon, 31 Jul 2023 11:00:00 +0800"
     },
     {
-      "title": "地震",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%9C%B0%E9%9C%87",
-      "pubdate": "Mon, 31 Jul 2023 04:00:00 +0800"
+      "title": "黃光國",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E9%BB%83%E5%85%89%E5%9C%8B",
+      "pubdate": "Mon, 31 Jul 2023 01:00:00 +0800"
     },
     {
       "title": "楊德昌",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E6%A5%8A%E5%BE%B7%E6%98%8C",
       "pubdate": "Mon, 31 Jul 2023 14:00:00 +0800"
+    },
+    {
+      "title": "地震",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%9C%B0%E9%9C%87",
+      "pubdate": "Mon, 31 Jul 2023 04:00:00 +0800"
     },
     {
       "title": "創意",
@@ -70,11 +75,6 @@
       "title": "楊植斗",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E6%A5%8A%E6%A4%8D%E6%96%97",
       "pubdate": "Mon, 31 Jul 2023 12:00:00 +0800"
-    },
-    {
-      "title": "麗寶",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E9%BA%97%E5%AF%B6",
-      "pubdate": "Mon, 31 Jul 2023 11:00:00 +0800"
     },
     {
       "title": "光寶科",
@@ -92,13 +92,13 @@
       "pubdate": "Mon, 31 Jul 2023 22:00:00 +0800"
     },
     {
-      "title": "Twitter X",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#Twitter%20X",
+      "title": "華邦電",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E8%8F%AF%E9%82%A6%E9%9B%BB",
       "pubdate": "Mon, 31 Jul 2023 17:00:00 +0800"
     },
     {
-      "title": "卡努颱風動態",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%8D%A1%E5%8A%AA%E9%A2%B1%E9%A2%A8%E5%8B%95%E6%85%8B",
+      "title": "Twitter X",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#Twitter%20X",
       "pubdate": "Mon, 31 Jul 2023 17:00:00 +0800"
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-08-2023 , 00:53:41",
+  "lastUpdate": "01-08-2023 , 01:21:40",
   "data": [
     {
       "title": "Angus Cloud",
@@ -52,14 +52,14 @@
       "pubdate": "Mon, 31 Jul 2023 13:00:00 +0100"
     },
     {
-      "title": "Kanayo O Kanayo",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Kanayo%20O%20Kanayo",
-      "pubdate": "Mon, 31 Jul 2023 13:00:00 +0100"
-    },
-    {
       "title": "Toni Payne",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Toni%20Payne",
       "pubdate": "Mon, 31 Jul 2023 13:00:00 +0100"
+    },
+    {
+      "title": "August",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#August",
+      "pubdate": "Mon, 31 Jul 2023 23:00:00 +0100"
     },
     {
       "title": "Tinubu news",
@@ -82,9 +82,9 @@
       "pubdate": "Mon, 31 Jul 2023 22:00:00 +0100"
     },
     {
-      "title": "August",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#August",
-      "pubdate": "Mon, 31 Jul 2023 23:00:00 +0100"
+      "title": "Wike",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Wike",
+      "pubdate": "Mon, 31 Jul 2023 22:00:00 +0100"
     },
     {
       "title": "Jim Obazee",
@@ -92,14 +92,14 @@
       "pubdate": "Mon, 31 Jul 2023 08:00:00 +0100"
     },
     {
-      "title": "Toyin Lawani",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Toyin%20Lawani",
-      "pubdate": "Mon, 31 Jul 2023 11:00:00 +0100"
-    },
-    {
       "title": "Vlahovic",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Vlahovic",
       "pubdate": "Mon, 31 Jul 2023 23:00:00 +0100"
+    },
+    {
+      "title": "Football Women's World Cup 2023",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Football%20Women's%20World%20Cup%202023",
+      "pubdate": "Sun, 30 Jul 2023 19:00:00 +0100"
     }
   ]
 }

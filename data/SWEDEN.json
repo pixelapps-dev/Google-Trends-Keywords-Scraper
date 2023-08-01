@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-08-2023 , 00:53:43",
+  "lastUpdate": "01-08-2023 , 01:21:43",
   "data": [
     {
       "title": "Angus Cloud",
@@ -10,6 +10,11 @@
       "title": "Looper",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Looper",
       "pubdate": "Tue, 01 Aug 2023 01:00:00 +0200"
+    },
+    {
+      "title": "Pride",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Pride",
+      "pubdate": "Tue, 01 Aug 2023 02:00:00 +0200"
     },
     {
       "title": "Linda Bengtzing",
@@ -24,6 +29,11 @@
     {
       "title": "Malmö FF",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Malm%C3%B6%20FF",
+      "pubdate": "Mon, 31 Jul 2023 20:00:00 +0200"
+    },
+    {
+      "title": "Paul Reubens",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Paul%20Reubens",
       "pubdate": "Mon, 31 Jul 2023 20:00:00 +0200"
     },
     {
@@ -72,11 +82,6 @@
       "pubdate": "Mon, 31 Jul 2023 09:00:00 +0200"
     },
     {
-      "title": "POWER",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#POWER",
-      "pubdate": "Mon, 31 Jul 2023 23:00:00 +0200"
-    },
-    {
       "title": "Hammarby",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Hammarby",
       "pubdate": "Sun, 30 Jul 2023 16:00:00 +0200"
@@ -95,11 +100,6 @@
       "title": "Pride Stockholm",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Pride%20Stockholm",
       "pubdate": "Sun, 30 Jul 2023 21:00:00 +0200"
-    },
-    {
-      "title": "Liverpool",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Liverpool",
-      "pubdate": "Sun, 30 Jul 2023 14:00:00 +0200"
     }
   ]
 }

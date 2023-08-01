@@ -1,6 +1,16 @@
 {
-  "lastUpdate": "01-08-2023 , 00:53:38",
+  "lastUpdate": "01-08-2023 , 01:21:37",
   "data": [
+    {
+      "title": "北京洪水",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E5%8C%97%E4%BA%AC%E6%B4%AA%E6%B0%B4",
+      "pubdate": "Tue, 01 Aug 2023 06:00:00 +0800"
+    },
+    {
+      "title": "Angus Cloud",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#Angus%20Cloud",
+      "pubdate": "Tue, 01 Aug 2023 08:00:00 +0800"
+    },
     {
       "title": "火箭军",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E7%81%AB%E7%AE%AD%E5%86%9B",
@@ -57,6 +67,11 @@
       "pubdate": "Mon, 31 Jul 2023 15:00:00 +0800"
     },
     {
+      "title": "Tesla 減價",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#Tesla%20%E6%B8%9B%E5%83%B9",
+      "pubdate": "Mon, 31 Jul 2023 18:00:00 +0800"
+    },
+    {
       "title": "羅志祥",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E7%BE%85%E5%BF%97%E7%A5%A5",
       "pubdate": "Mon, 31 Jul 2023 15:00:00 +0800"
@@ -65,6 +80,11 @@
       "title": "阿士東維拉",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E9%98%BF%E5%A3%AB%E6%9D%B1%E7%B6%AD%E6%8B%89",
       "pubdate": "Mon, 31 Jul 2023 03:00:00 +0800"
+    },
+    {
+      "title": "張家朗",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E5%BC%B5%E5%AE%B6%E6%9C%97",
+      "pubdate": "Mon, 31 Jul 2023 13:00:00 +0800"
     },
     {
       "title": "西隧收費",
@@ -80,26 +100,6 @@
       "title": "劉馬車",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E5%8A%89%E9%A6%AC%E8%BB%8A",
       "pubdate": "Sun, 30 Jul 2023 22:00:00 +0800"
-    },
-    {
-      "title": "謝雪心",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E8%AC%9D%E9%9B%AA%E5%BF%83",
-      "pubdate": "Sun, 30 Jul 2023 17:00:00 +0800"
-    },
-    {
-      "title": "Cardi B",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#Cardi%20B",
-      "pubdate": "Sun, 30 Jul 2023 15:00:00 +0800"
-    },
-    {
-      "title": "福原愛",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E7%A6%8F%E5%8E%9F%E6%84%9B",
-      "pubdate": "Sun, 30 Jul 2023 22:00:00 +0800"
-    },
-    {
-      "title": "FGO",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#FGO",
-      "pubdate": "Sun, 30 Jul 2023 19:00:00 +0800"
     }
   ]
 }
