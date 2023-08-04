@@ -1,10 +1,15 @@
 {
-  "lastUpdate": "04-08-2023 , 15:48:06",
+  "lastUpdate": "04-08-2023 , 15:54:46",
   "data": [
     {
-      "title": "Altina Schinasi",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Altina%20Schinasi",
-      "pubdate": "Fri, 04 Aug 2023 01:00:00 +0200"
+      "title": "Al Nassr",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Al%20Nassr",
+      "pubdate": "Fri, 04 Aug 2023 17:00:00 +0200"
+    },
+    {
+      "title": "FC Bayern München Harry Kane",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#FC%20Bayern%20M%C3%BCnchen%20Harry%20Kane",
+      "pubdate": "Fri, 04 Aug 2023 09:00:00 +0200"
     },
     {
       "title": "Sven Lemiss",
@@ -27,9 +32,9 @@
       "pubdate": "Thu, 03 Aug 2023 06:00:00 +0200"
     },
     {
-      "title": "Taylor-Swift",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Taylor-Swift",
-      "pubdate": "Thu, 03 Aug 2023 15:00:00 +0200"
+      "title": "Eemshaven",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Eemshaven",
+      "pubdate": "Thu, 03 Aug 2023 07:00:00 +0200"
     },
     {
       "title": "Yves Rocher",
@@ -42,19 +47,24 @@
       "pubdate": "Thu, 03 Aug 2023 21:00:00 +0200"
     },
     {
-      "title": "Waldrapp",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Waldrapp",
-      "pubdate": "Thu, 03 Aug 2023 19:00:00 +0200"
-    },
-    {
       "title": "Sarna Röser",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Sarna%20R%C3%B6ser",
       "pubdate": "Thu, 03 Aug 2023 20:00:00 +0200"
     },
     {
+      "title": "Fussball",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Fussball",
+      "pubdate": "Thu, 03 Aug 2023 15:00:00 +0200"
+    },
+    {
       "title": "Markus Lanz",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Markus%20Lanz",
       "pubdate": "Thu, 03 Aug 2023 06:00:00 +0200"
+    },
+    {
+      "title": "Andrew Tate",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Andrew%20Tate",
+      "pubdate": "Thu, 03 Aug 2023 07:00:00 +0200"
     },
     {
       "title": "WM Frauen",
@@ -90,16 +100,6 @@
       "title": "Niger",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Niger",
       "pubdate": "Tue, 01 Aug 2023 21:00:00 +0200"
-    },
-    {
-      "title": "Voyager 2",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Voyager%202",
-      "pubdate": "Tue, 01 Aug 2023 15:00:00 +0200"
-    },
-    {
-      "title": "Wacken",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Wacken",
-      "pubdate": "Mon, 31 Jul 2023 12:00:00 +0200"
     }
   ]
 }

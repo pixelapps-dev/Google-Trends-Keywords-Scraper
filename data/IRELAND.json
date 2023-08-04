@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-08-2023 , 15:48:08",
+  "lastUpdate": "04-08-2023 , 15:54:48",
   "data": [
     {
       "title": "Altina Schinasi",
@@ -12,14 +12,19 @@
       "pubdate": "Fri, 04 Aug 2023 11:00:00 +0100"
     },
     {
+      "title": "Donald Trump",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Donald%20Trump",
+      "pubdate": "Fri, 04 Aug 2023 16:00:00 +0100"
+    },
+    {
+      "title": "Al-Nassr",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Al-Nassr",
+      "pubdate": "Fri, 04 Aug 2023 15:00:00 +0100"
+    },
+    {
       "title": "Lincoln Lawyer",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Lincoln%20Lawyer",
       "pubdate": "Fri, 04 Aug 2023 00:00:00 +0100"
-    },
-    {
-      "title": "Tino Livramento",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Tino%20Livramento",
-      "pubdate": "Fri, 04 Aug 2023 11:00:00 +0100"
     },
     {
       "title": "Harry Kane transfer Bayern Munich",
@@ -27,9 +32,24 @@
       "pubdate": "Fri, 04 Aug 2023 14:00:00 +0100"
     },
     {
+      "title": "Tino Livramento",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Tino%20Livramento",
+      "pubdate": "Fri, 04 Aug 2023 11:00:00 +0100"
+    },
+    {
       "title": "Derry City",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Derry%20City",
       "pubdate": "Fri, 04 Aug 2023 11:00:00 +0100"
+    },
+    {
+      "title": "Freddie Mercury",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Freddie%20Mercury",
+      "pubdate": "Fri, 04 Aug 2023 16:00:00 +0100"
+    },
+    {
+      "title": "Dogs Trust",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Dogs%20Trust",
+      "pubdate": "Fri, 04 Aug 2023 15:00:00 +0100"
     },
     {
       "title": "Inter Miami",
@@ -47,11 +67,6 @@
       "pubdate": "Thu, 03 Aug 2023 17:00:00 +0100"
     },
     {
-      "title": "Ireland v Italy",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Ireland%20v%20Italy",
-      "pubdate": "Thu, 03 Aug 2023 19:00:00 +0100"
-    },
-    {
       "title": "Shane Lowry",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Shane%20Lowry",
       "pubdate": "Thu, 03 Aug 2023 14:00:00 +0100"
@@ -67,6 +82,11 @@
       "pubdate": "Thu, 03 Aug 2023 02:00:00 +0100"
     },
     {
+      "title": "Ireland v Italy",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Ireland%20v%20Italy",
+      "pubdate": "Thu, 03 Aug 2023 19:00:00 +0100"
+    },
+    {
       "title": "Juventus vs Real Madrid",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Juventus%20vs%20Real%20Madrid",
       "pubdate": "Thu, 03 Aug 2023 01:00:00 +0100"
@@ -80,26 +100,6 @@
       "title": "Monaghan crash victims",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Monaghan%20crash%20victims",
       "pubdate": "Thu, 03 Aug 2023 07:00:00 +0100"
-    },
-    {
-      "title": "Baldur's Gate 3",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Baldur's%20Gate%203",
-      "pubdate": "Thu, 03 Aug 2023 19:00:00 +0100"
-    },
-    {
-      "title": "Will Smith",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Will%20Smith",
-      "pubdate": "Thu, 03 Aug 2023 18:00:00 +0100"
-    },
-    {
-      "title": "Anna Geary",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Anna%20Geary",
-      "pubdate": "Thu, 03 Aug 2023 08:00:00 +0100"
-    },
-    {
-      "title": "Laya Healthcare",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Laya%20Healthcare",
-      "pubdate": "Thu, 03 Aug 2023 23:00:00 +0100"
     }
   ]
 }

@@ -1,9 +1,14 @@
 {
-  "lastUpdate": "04-08-2023 , 15:48:11",
+  "lastUpdate": "04-08-2023 , 15:54:52",
   "data": [
     {
       "title": "Sao Paulo",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Sao%20Paulo",
+      "pubdate": "Fri, 04 Aug 2023 01:00:00 +0100"
+    },
+    {
+      "title": "Minipreço",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Minipre%C3%A7o",
       "pubdate": "Fri, 04 Aug 2023 01:00:00 +0100"
     },
     {
@@ -22,9 +27,24 @@
       "pubdate": "Fri, 04 Aug 2023 02:00:00 +0100"
     },
     {
+      "title": "Daniel Faria",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Daniel%20Faria",
+      "pubdate": "Fri, 04 Aug 2023 15:00:00 +0100"
+    },
+    {
       "title": "CrossFit Games",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#CrossFit%20Games",
       "pubdate": "Fri, 04 Aug 2023 10:00:00 +0100"
+    },
+    {
+      "title": "Miguel Oliveira",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Miguel%20Oliveira",
+      "pubdate": "Fri, 04 Aug 2023 13:00:00 +0100"
+    },
+    {
+      "title": "Andrew Tate",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Andrew%20Tate",
+      "pubdate": "Fri, 04 Aug 2023 15:00:00 +0100"
     },
     {
       "title": "Trump",
@@ -37,14 +57,14 @@
       "pubdate": "Fri, 04 Aug 2023 00:00:00 +0100"
     },
     {
-      "title": "Luis Enrique",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Luis%20Enrique",
-      "pubdate": "Fri, 04 Aug 2023 09:00:00 +0100"
-    },
-    {
       "title": "Zoo Santo inacio",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Zoo%20Santo%20inacio",
       "pubdate": "Fri, 04 Aug 2023 13:00:00 +0100"
+    },
+    {
+      "title": "Luis Enrique",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Luis%20Enrique",
+      "pubdate": "Fri, 04 Aug 2023 09:00:00 +0100"
     },
     {
       "title": "Pedro",
@@ -52,9 +72,24 @@
       "pubdate": "Fri, 04 Aug 2023 12:00:00 +0100"
     },
     {
+      "title": "TDAH",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#TDAH",
+      "pubdate": "Fri, 04 Aug 2023 15:00:00 +0100"
+    },
+    {
+      "title": "Andre Amaro",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Andre%20Amaro",
+      "pubdate": "Fri, 04 Aug 2023 15:00:00 +0100"
+    },
+    {
       "title": "Peregrino",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Peregrino",
       "pubdate": "Fri, 04 Aug 2023 09:00:00 +0100"
+    },
+    {
+      "title": "Preços dos combustíveis",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Pre%C3%A7os%20dos%20combust%C3%ADveis",
+      "pubdate": "Fri, 04 Aug 2023 16:00:00 +0100"
     },
     {
       "title": "Zamalek,  al-nassr",
@@ -65,41 +100,6 @@
       "title": "Inter Miami",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Inter%20Miami",
       "pubdate": "Thu, 03 Aug 2023 01:00:00 +0100"
-    },
-    {
-      "title": "Juventus  Real Madrid",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Juventus%20%20Real%20Madrid",
-      "pubdate": "Thu, 03 Aug 2023 00:00:00 +0100"
-    },
-    {
-      "title": "Palmeiras",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Palmeiras",
-      "pubdate": "Thu, 03 Aug 2023 01:00:00 +0100"
-    },
-    {
-      "title": "Bairro da Serafina",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Bairro%20da%20Serafina",
-      "pubdate": "Thu, 03 Aug 2023 22:00:00 +0100"
-    },
-    {
-      "title": "Vitoria",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Vitoria",
-      "pubdate": "Thu, 03 Aug 2023 14:00:00 +0100"
-    },
-    {
-      "title": "Parque Eduardo VII",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Parque%20Eduardo%20VII",
-      "pubdate": "Thu, 03 Aug 2023 10:00:00 +0100"
-    },
-    {
-      "title": "Peregrina francesa",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Peregrina%20francesa",
-      "pubdate": "Thu, 03 Aug 2023 10:00:00 +0100"
-    },
-    {
-      "title": "Beltran",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Beltran",
-      "pubdate": "Thu, 03 Aug 2023 07:00:00 +0100"
     }
   ]
 }

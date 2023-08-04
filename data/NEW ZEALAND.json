@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "04-08-2023 , 15:48:10",
+  "lastUpdate": "04-08-2023 , 15:54:50",
   "data": [
     {
-      "title": "CHESTER",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#CHESTER",
+      "title": "Chester",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Chester",
       "pubdate": "Sat, 05 Aug 2023 00:00:00 +1200"
     },
     {
@@ -62,11 +62,6 @@
       "pubdate": "Fri, 04 Aug 2023 08:00:00 +1200"
     },
     {
-      "title": "NZ vs Jamaica netball 2023",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#NZ%20vs%20Jamaica%20netball%202023",
-      "pubdate": "Fri, 04 Aug 2023 07:00:00 +1200"
-    },
-    {
       "title": "Celine Dion",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Celine%20Dion",
       "pubdate": "Fri, 04 Aug 2023 22:00:00 +1200"
@@ -87,6 +82,16 @@
       "pubdate": "Thu, 03 Aug 2023 09:00:00 +1200"
     },
     {
+      "title": "Margaret Urlich",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Margaret%20Urlich",
+      "pubdate": "Thu, 03 Aug 2023 20:00:00 +1200"
+    },
+    {
+      "title": "Silver Ferns vs Jamaica",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Silver%20Ferns%20vs%20Jamaica",
+      "pubdate": "Thu, 03 Aug 2023 23:00:00 +1200"
+    },
+    {
       "title": "Ahn Bo-hyun",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Ahn%20Bo-hyun",
       "pubdate": "Thu, 03 Aug 2023 17:00:00 +1200"
@@ -95,11 +100,6 @@
       "title": "Justin Trudeau",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Justin%20Trudeau",
       "pubdate": "Thu, 03 Aug 2023 11:00:00 +1200"
-    },
-    {
-      "title": "Kylie minogue",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Kylie%20minogue",
-      "pubdate": "Thu, 03 Aug 2023 21:00:00 +1200"
     }
   ]
 }
