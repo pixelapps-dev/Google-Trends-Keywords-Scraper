@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11-08-2023 , 08:46:17",
+  "lastUpdate": "11-08-2023 , 08:53:09",
   "data": [
     {
       "title": "Vrouwenvoetbal",
@@ -7,8 +7,13 @@
       "pubdate": "Fri, 11 Aug 2023 05:00:00 +0200"
     },
     {
-      "title": "Nederland - Spanje",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Nederland%20-%20Spanje",
+      "title": "Jerney Kaagman",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Jerney%20Kaagman",
+      "pubdate": "Fri, 11 Aug 2023 10:00:00 +0200"
+    },
+    {
+      "title": "Nederland Spanje",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Nederland%20Spanje",
       "pubdate": "Thu, 10 Aug 2023 08:00:00 +0200"
     },
     {
@@ -37,11 +42,6 @@
       "pubdate": "Thu, 10 Aug 2023 12:00:00 +0200"
     },
     {
-      "title": "Vliegende mieren",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Vliegende%20mieren",
-      "pubdate": "Thu, 10 Aug 2023 16:00:00 +0200"
-    },
-    {
       "title": "Courtois",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Courtois",
       "pubdate": "Thu, 10 Aug 2023 23:00:00 +0200"
@@ -55,11 +55,6 @@
       "title": "PSV",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#PSV",
       "pubdate": "Tue, 08 Aug 2023 17:00:00 +0200"
-    },
-    {
-      "title": "Thijs romer",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Thijs%20romer",
-      "pubdate": "Tue, 08 Aug 2023 14:00:00 +0200"
     },
     {
       "title": "Noorwegen",
@@ -87,11 +82,6 @@
       "pubdate": "Sun, 06 Aug 2023 19:00:00 +0200"
     },
     {
-      "title": "Ajax",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ajax",
-      "pubdate": "Sat, 05 Aug 2023 19:00:00 +0200"
-    },
-    {
       "title": "WK wielrennen",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#WK%20wielrennen",
       "pubdate": "Sat, 05 Aug 2023 17:00:00 +0200"
@@ -100,6 +90,16 @@
       "title": "Jake Paul",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Jake%20Paul",
       "pubdate": "Sat, 05 Aug 2023 06:00:00 +0200"
+    },
+    {
+      "title": "Ajax Dortmund",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ajax%20Dortmund",
+      "pubdate": "Sat, 05 Aug 2023 19:00:00 +0200"
+    },
+    {
+      "title": "Canal Parade",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Canal%20Parade",
+      "pubdate": "Sat, 05 Aug 2023 13:00:00 +0200"
     }
   ]
 }
