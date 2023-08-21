@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "21-08-2023 , 20:00:53",
+  "lastUpdate": "21-08-2023 , 20:10:05",
   "data": [
+    {
+      "title": "Crystal Palace vs Arsenal",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Crystal%20Palace%20vs%20Arsenal",
+      "pubdate": "Tue, 22 Aug 2023 03:00:00 +0800"
+    },
     {
       "title": "Pertussis",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Pertussis",
@@ -27,19 +32,24 @@
       "pubdate": "Mon, 21 Aug 2023 12:00:00 +0800"
     },
     {
+      "title": "Udinese vs Juventus",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Udinese%20vs%20Juventus",
+      "pubdate": "Mon, 21 Aug 2023 05:00:00 +0800"
+    },
+    {
       "title": "Lee Zii Jia",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Lee%20Zii%20Jia",
       "pubdate": "Mon, 21 Aug 2023 19:00:00 +0800"
     },
     {
-      "title": "Tesla Malaysia",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Tesla%20Malaysia",
-      "pubdate": "Mon, 21 Aug 2023 15:00:00 +0800"
-    },
-    {
       "title": "Mason Greenwood",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Mason%20Greenwood",
       "pubdate": "Mon, 21 Aug 2023 23:00:00 +0800"
+    },
+    {
+      "title": "Tesla Malaysia",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Tesla%20Malaysia",
+      "pubdate": "Mon, 21 Aug 2023 15:00:00 +0800"
     },
     {
       "title": "Olga Carmona",
@@ -60,6 +70,11 @@
       "title": "SMEG",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#SMEG",
       "pubdate": "Mon, 21 Aug 2023 16:00:00 +0800"
+    },
+    {
+      "title": "Steve Harvey",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Steve%20Harvey",
+      "pubdate": "Mon, 21 Aug 2023 18:00:00 +0800"
     },
     {
       "title": "Tottenham vs Man United",
@@ -85,21 +100,6 @@
       "title": "BWF World Championships 2023",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#BWF%20World%20Championships%202023",
       "pubdate": "Sun, 20 Aug 2023 19:00:00 +0800"
-    },
-    {
-      "title": "Aston Villa vs Everton",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Aston%20Villa%20vs%20Everton",
-      "pubdate": "Sun, 20 Aug 2023 21:00:00 +0800"
-    },
-    {
-      "title": "Almería vs Real Madrid",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Almer%C3%ADa%20vs%20Real%20Madrid",
-      "pubdate": "Sun, 20 Aug 2023 01:00:00 +0800"
-    },
-    {
-      "title": "UFC",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#UFC",
-      "pubdate": "Sun, 20 Aug 2023 10:00:00 +0800"
     }
   ]
 }
