@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-08-2023 , 19:49:16",
+  "lastUpdate": "24-08-2023 , 19:56:04",
   "data": [
     {
       "title": "Sardar Azmoun Roma",
@@ -32,19 +32,14 @@
       "pubdate": "Thu, 24 Aug 2023 02:00:00 +0200"
     },
     {
-      "title": "Mancini",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Mancini",
-      "pubdate": "Thu, 24 Aug 2023 16:00:00 +0200"
-    },
-    {
       "title": "Vittoria Ceretti",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Vittoria%20Ceretti",
       "pubdate": "Thu, 24 Aug 2023 15:00:00 +0200"
     },
     {
-      "title": "Ema Stokholma",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Ema%20Stokholma",
-      "pubdate": "Thu, 24 Aug 2023 15:00:00 +0200"
+      "title": "Mancini",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Mancini",
+      "pubdate": "Thu, 24 Aug 2023 16:00:00 +0200"
     },
     {
       "title": "Benzema",
@@ -82,6 +77,11 @@
       "pubdate": "Thu, 24 Aug 2023 18:00:00 +0200"
     },
     {
+      "title": "Simone Weil",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Simone%20Weil",
+      "pubdate": "Thu, 24 Aug 2023 14:00:00 +0200"
+    },
+    {
       "title": "Nvidia",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Nvidia",
       "pubdate": "Thu, 24 Aug 2023 07:00:00 +0200"
@@ -92,14 +92,14 @@
       "pubdate": "Thu, 24 Aug 2023 18:00:00 +0200"
     },
     {
-      "title": "Simone Weil",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Simone%20Weil",
+      "title": "Latina",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Latina",
       "pubdate": "Thu, 24 Aug 2023 14:00:00 +0200"
     },
     {
-      "title": "Fukushima",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Fukushima",
-      "pubdate": "Thu, 24 Aug 2023 17:00:00 +0200"
+      "title": "Soverato",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Soverato",
+      "pubdate": "Thu, 24 Aug 2023 15:00:00 +0200"
     }
   ]
 }

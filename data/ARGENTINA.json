@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-08-2023 , 19:49:11",
+  "lastUpdate": "24-08-2023 , 19:55:59",
   "data": [
     {
       "title": "BRICS",
@@ -22,6 +22,11 @@
       "pubdate": "Thu, 24 Aug 2023 08:00:00 -0300"
     },
     {
+      "title": "Almendra Boca",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Almendra%20Boca",
+      "pubdate": "Thu, 24 Aug 2023 00:00:00 -0300"
+    },
+    {
       "title": "Dia del Lector",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Dia%20del%20Lector",
       "pubdate": "Thu, 24 Aug 2023 12:00:00 -0300"
@@ -32,13 +37,13 @@
       "pubdate": "Thu, 24 Aug 2023 13:00:00 -0300"
     },
     {
-      "title": "Carlos Gardel",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Carlos%20Gardel",
+      "title": "Benjamin Cremaschi",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Benjamin%20Cremaschi",
       "pubdate": "Thu, 24 Aug 2023 00:00:00 -0300"
     },
     {
-      "title": "Benjamin Cremaschi",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Benjamin%20Cremaschi",
+      "title": "Carlos Gardel",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Carlos%20Gardel",
       "pubdate": "Thu, 24 Aug 2023 00:00:00 -0300"
     },
     {
@@ -77,11 +82,6 @@
       "pubdate": "Thu, 24 Aug 2023 00:00:00 -0300"
     },
     {
-      "title": "Viernes 25 de agosto feriado",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Viernes%2025%20de%20agosto%20feriado",
-      "pubdate": "Thu, 24 Aug 2023 11:00:00 -0300"
-    },
-    {
       "title": "Boca Juniors partido",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Boca%20Juniors%20partido",
       "pubdate": "Thu, 24 Aug 2023 10:00:00 -0300"
@@ -92,14 +92,14 @@
       "pubdate": "Thu, 24 Aug 2023 14:00:00 -0300"
     },
     {
-      "title": "Agustín Almendra",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Agust%C3%ADn%20Almendra",
-      "pubdate": "Thu, 24 Aug 2023 00:00:00 -0300"
-    },
-    {
       "title": "Boselli",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Boselli",
       "pubdate": "Thu, 24 Aug 2023 11:00:00 -0300"
+    },
+    {
+      "title": "Jennifer Aniston",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Jennifer%20Aniston",
+      "pubdate": "Thu, 24 Aug 2023 02:00:00 -0300"
     }
   ]
 }

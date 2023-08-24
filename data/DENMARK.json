@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-08-2023 , 19:49:13",
+  "lastUpdate": "24-08-2023 , 19:56:01",
   "data": [
     {
       "title": "Inter Miami",
@@ -62,11 +62,6 @@
       "pubdate": "Wed, 23 Aug 2023 21:00:00 +0200"
     },
     {
-      "title": "Viegård Stutteri",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Vieg%C3%A5rd%20Stutteri",
-      "pubdate": "Wed, 23 Aug 2023 12:00:00 +0200"
-    },
-    {
       "title": "CNN",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#CNN",
       "pubdate": "Wed, 23 Aug 2023 23:00:00 +0200"
@@ -95,6 +90,11 @@
       "title": "Bubbles",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Bubbles",
       "pubdate": "Wed, 23 Aug 2023 18:00:00 +0200"
+    },
+    {
+      "title": "Rene Weller",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Rene%20Weller",
+      "pubdate": "Wed, 23 Aug 2023 10:00:00 +0200"
     },
     {
       "title": "Billie Eilish",

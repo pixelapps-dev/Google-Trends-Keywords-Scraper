@@ -1,1 +1,1 @@
-BRICS,Cavani,MLS,Jorge martinez,Dia del Lector,Barco,Carlos Gardel,Benjamin Cremaschi,Numancia  Atlético Madrid,Gabri Veiga,Drew Barrymore,Jordi Alba,Borges,Fiorentina,The Bear,Viernes 25 de agosto feriado,Boca Juniors partido,Maravilla martinez,Agustín Almendra,Boselli
+BRICS,Cavani,MLS,Jorge martinez,Almendra Boca,Dia del Lector,Barco,Benjamin Cremaschi,Carlos Gardel,Numancia  Atlético Madrid,Gabri Veiga,Drew Barrymore,Jordi Alba,Borges,Fiorentina,The Bear,Boca Juniors partido,Maravilla martinez,Boselli,Jennifer Aniston

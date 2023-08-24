@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-08-2023 , 19:49:12",
+  "lastUpdate": "24-08-2023 , 19:56:00",
   "data": [
     {
       "title": "Jordan Peterson",
@@ -27,19 +27,24 @@
       "pubdate": "Thu, 24 Aug 2023 00:00:00 -0400"
     },
     {
+      "title": "Ramaswamy",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Ramaswamy",
+      "pubdate": "Thu, 24 Aug 2023 01:00:00 -0400"
+    },
+    {
       "title": "AMD) stock",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#AMD)%20stock",
+      "pubdate": "Thu, 24 Aug 2023 07:00:00 -0400"
+    },
+    {
+      "title": "Riverdale",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Riverdale",
       "pubdate": "Thu, 24 Aug 2023 07:00:00 -0400"
     },
     {
       "title": "Canada Interest Rates",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Canada%20Interest%20Rates",
       "pubdate": "Thu, 24 Aug 2023 03:00:00 -0400"
-    },
-    {
-      "title": "Riverdale",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Riverdale",
-      "pubdate": "Thu, 24 Aug 2023 07:00:00 -0400"
     },
     {
       "title": "Luis Rubiales",
@@ -55,6 +60,11 @@
       "title": "Trump mugshot",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Trump%20mugshot",
       "pubdate": "Thu, 24 Aug 2023 14:00:00 -0400"
+    },
+    {
+      "title": "Halle Berry",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Halle%20Berry",
+      "pubdate": "Thu, 24 Aug 2023 08:00:00 -0400"
     },
     {
       "title": "Gabri Veiga",
@@ -87,19 +97,9 @@
       "pubdate": "Wed, 23 Aug 2023 10:00:00 -0400"
     },
     {
-      "title": "Nvidia stock",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Nvidia%20stock",
-      "pubdate": "Wed, 23 Aug 2023 17:00:00 -0400"
-    },
-    {
       "title": "Auston Matthews",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Auston%20Matthews",
       "pubdate": "Wed, 23 Aug 2023 18:00:00 -0400"
-    },
-    {
-      "title": "Verve",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Verve",
-      "pubdate": "Wed, 23 Aug 2023 05:00:00 -0400"
     }
   ]
 }

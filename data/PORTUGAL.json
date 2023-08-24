@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-08-2023 , 19:49:19",
+  "lastUpdate": "24-08-2023 , 19:56:07",
   "data": [
     {
       "title": "Inter Miami",
@@ -27,16 +27,6 @@
       "pubdate": "Thu, 24 Aug 2023 05:00:00 +0100"
     },
     {
-      "title": "Schjelderup",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Schjelderup",
-      "pubdate": "Thu, 24 Aug 2023 12:00:00 +0100"
-    },
-    {
-      "title": "Benzema",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Benzema",
-      "pubdate": "Thu, 24 Aug 2023 10:00:00 +0100"
-    },
-    {
       "title": "Incêndio hoje",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Inc%C3%AAndio%20hoje",
       "pubdate": "Thu, 24 Aug 2023 09:00:00 +0100"
@@ -62,11 +52,6 @@
       "pubdate": "Thu, 24 Aug 2023 03:00:00 +0100"
     },
     {
-      "title": "Futsal Sporting",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Futsal%20Sporting",
-      "pubdate": "Thu, 24 Aug 2023 00:00:00 +0100"
-    },
-    {
       "title": "Fogo",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Fogo",
       "pubdate": "Thu, 24 Aug 2023 14:00:00 +0100"
@@ -82,8 +67,8 @@
       "pubdate": "Thu, 24 Aug 2023 09:00:00 +0100"
     },
     {
-      "title": "Agrupamento de escolas",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Agrupamento%20de%20escolas",
+      "title": "Agrupamento de Escolas",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Agrupamento%20de%20Escolas",
       "pubdate": "Thu, 24 Aug 2023 10:00:00 +0100"
     },
     {
@@ -97,9 +82,24 @@
       "pubdate": "Thu, 24 Aug 2023 01:00:00 +0100"
     },
     {
-      "title": "Brics paises",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Brics%20paises",
+      "title": "Andreas Schjelderup",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Andreas%20Schjelderup",
       "pubdate": "Thu, 24 Aug 2023 18:00:00 +0100"
+    },
+    {
+      "title": "Pinhao",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Pinhao",
+      "pubdate": "Thu, 24 Aug 2023 00:00:00 +0100"
+    },
+    {
+      "title": "Nuno Ribeiro",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Nuno%20Ribeiro",
+      "pubdate": "Thu, 24 Aug 2023 00:00:00 +0100"
+    },
+    {
+      "title": "Botafogo fc",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Botafogo%20fc",
+      "pubdate": "Thu, 24 Aug 2023 12:00:00 +0100"
     }
   ]
 }
