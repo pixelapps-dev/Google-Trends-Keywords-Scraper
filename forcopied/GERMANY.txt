@@ -1,1 +1,1 @@
-Zverev Sinner,Olaf Scholz,Steve Harwell,IAA,Füllkrug,Sergio Ramos,China,Günther Jauch,Peter Fox Hamburg,RB Leipzig,Burning Man,FC Köln,Söder Aiwanger,Sigrid Klausmann,Olaf Scholz,Werder Bremen,Borussia Dortmund,Frankfurt Eintracht,Bonucci,Deadline Day
+Zverev Sinner,Olaf Scholz,Steve Harwell,IAA,Füllkrug,Sergio Ramos,China,Günther Jauch,Peter Fox Hamburg,RB Leipzig,Burning Man,FC Köln,Söder Aiwanger,Sigrid Klausmann,Olaf Scholz,BVB,Werder Bremen,Eintracht Frankfurt,Bonucci,Gravenberch
