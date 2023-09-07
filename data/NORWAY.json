@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07-09-2023 , 00:35:52",
+  "lastUpdate": "07-09-2023 , 01:01:18",
   "data": [
     {
       "title": "Joe Jonas",
@@ -52,11 +52,6 @@
       "pubdate": "Wed, 06 Sep 2023 22:00:00 +0200"
     },
     {
-      "title": "Investtech",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Investtech",
-      "pubdate": "Wed, 06 Sep 2023 16:00:00 +0200"
-    },
-    {
       "title": "Justified",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Justified",
       "pubdate": "Wed, 06 Sep 2023 21:00:00 +0200"
@@ -75,6 +70,11 @@
       "title": "Timothée Chalamet",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Timoth%C3%A9e%20Chalamet",
       "pubdate": "Tue, 05 Sep 2023 16:00:00 +0200"
+    },
+    {
+      "title": "Skolevalg 2023",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Skolevalg%202023",
+      "pubdate": "Tue, 05 Sep 2023 11:00:00 +0200"
     },
     {
       "title": "Ola Svenneby",
