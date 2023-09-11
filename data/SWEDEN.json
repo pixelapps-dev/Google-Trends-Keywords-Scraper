@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "10-09-2023 , 23:56:05",
+  "lastUpdate": "11-09-2023 , 00:13:40",
   "data": [
+    {
+      "title": "Änglagård musikal",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#%C3%84nglag%C3%A5rd%20musikal",
+      "pubdate": "Mon, 11 Sep 2023 01:00:00 +0200"
+    },
     {
       "title": "Carola Häggkvist",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Carola%20H%C3%A4ggkvist",
@@ -32,14 +37,14 @@
       "pubdate": "Sun, 10 Sep 2023 20:00:00 +0200"
     },
     {
-      "title": "Hammarby Djurgården",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Hammarby%20Djurg%C3%A5rden",
-      "pubdate": "Sun, 10 Sep 2023 17:00:00 +0200"
-    },
-    {
       "title": "Johan Floderus",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Johan%20Floderus",
       "pubdate": "Sun, 10 Sep 2023 22:00:00 +0200"
+    },
+    {
+      "title": "Hammarby Djurgården",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Hammarby%20Djurg%C3%A5rden",
+      "pubdate": "Sun, 10 Sep 2023 17:00:00 +0200"
     },
     {
       "title": "Elon Musk",
@@ -77,11 +82,6 @@
       "pubdate": "Sat, 09 Sep 2023 01:00:00 +0200"
     },
     {
-      "title": "Stashing",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Stashing",
-      "pubdate": "Sat, 09 Sep 2023 19:00:00 +0200"
-    },
-    {
       "title": "Morocco",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Morocco",
       "pubdate": "Sat, 09 Sep 2023 13:00:00 +0200"
@@ -97,8 +97,8 @@
       "pubdate": "Sat, 09 Sep 2023 16:00:00 +0200"
     },
     {
-      "title": "Robin Olsen",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Robin%20Olsen",
+      "title": "Hien",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Hien",
       "pubdate": "Sat, 09 Sep 2023 19:00:00 +0200"
     }
   ]
