@@ -1,1 +1,1 @@
-Apple Watch,Ios17,木村拓哉,柯美蘭,巴氏量表,CPI,Arm,AAPL,Unity,iPhone 12,李俊昊,高雄地震,MagSafe,Pixel 8,郭家雞肉飯,喬治亞,利比亞,陳嫦芬,巴西蛋,台股
+Apple Watch,Ios17,木村拓哉,柯美蘭,巴氏量表,CPI,Arm,AAPL,Unity,iPhone 12,李俊昊,高雄地震,MagSafe,郭家雞肉飯,Pixel 8,喬治亞,利比亞,陳嫦芬,巴西蛋,台股
