@@ -1,15 +1,10 @@
 {
-  "lastUpdate": "14-09-2023 , 19:54:59",
+  "lastUpdate": "14-09-2023 , 20:02:30",
   "data": [
     {
       "title": "Flamengo",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Flamengo",
       "pubdate": "Thu, 14 Sep 2023 01:00:00 +0100"
-    },
-    {
-      "title": "Sao Paulo",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Sao%20Paulo",
-      "pubdate": "Thu, 14 Sep 2023 00:00:00 +0100"
     },
     {
       "title": "BCE",
@@ -22,11 +17,6 @@
       "pubdate": "Thu, 14 Sep 2023 18:00:00 +0100"
     },
     {
-      "title": "Novo iPhone",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Novo%20iPhone",
-      "pubdate": "Thu, 14 Sep 2023 01:00:00 +0100"
-    },
-    {
       "title": "Peniche",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Peniche",
       "pubdate": "Thu, 14 Sep 2023 15:00:00 +0100"
@@ -35,6 +25,21 @@
       "title": "Nasa",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Nasa",
       "pubdate": "Thu, 14 Sep 2023 03:00:00 +0100"
+    },
+    {
+      "title": "Novo iPhone",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Novo%20iPhone",
+      "pubdate": "Thu, 14 Sep 2023 01:00:00 +0100"
+    },
+    {
+      "title": "Woody Allen",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Woody%20Allen",
+      "pubdate": "Thu, 14 Sep 2023 19:00:00 +0100"
+    },
+    {
+      "title": "Sao Paulo",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Sao%20Paulo",
+      "pubdate": "Thu, 14 Sep 2023 00:00:00 +0100"
     },
     {
       "title": "Campeonato Brasileiro",
@@ -47,6 +52,11 @@
       "pubdate": "Thu, 14 Sep 2023 15:00:00 +0100"
     },
     {
+      "title": "Internacional x São Paulo",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Internacional%20x%20S%C3%A3o%20Paulo",
+      "pubdate": "Thu, 14 Sep 2023 07:00:00 +0100"
+    },
+    {
       "title": "Lionel Messi",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Lionel%20Messi",
       "pubdate": "Thu, 14 Sep 2023 07:00:00 +0100"
@@ -57,9 +67,9 @@
       "pubdate": "Thu, 14 Sep 2023 18:00:00 +0100"
     },
     {
-      "title": "The Crew Motorfest",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#The%20Crew%20Motorfest",
-      "pubdate": "Thu, 14 Sep 2023 15:00:00 +0100"
+      "title": "Internacional  São Paulo",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Internacional%20%20S%C3%A3o%20Paulo",
+      "pubdate": "Thu, 14 Sep 2023 08:00:00 +0100"
     },
     {
       "title": "Camilo Castelo Branco",
@@ -67,14 +77,9 @@
       "pubdate": "Thu, 14 Sep 2023 14:00:00 +0100"
     },
     {
-      "title": "Emoji Kitchen",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Emoji%20Kitchen",
+      "title": "The Crew Motorfest",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#The%20Crew%20Motorfest",
       "pubdate": "Thu, 14 Sep 2023 15:00:00 +0100"
-    },
-    {
-      "title": "Federer",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Federer",
-      "pubdate": "Thu, 14 Sep 2023 17:00:00 +0100"
     },
     {
       "title": "Amy Winehouse",
@@ -82,24 +87,19 @@
       "pubdate": "Thu, 14 Sep 2023 17:00:00 +0100"
     },
     {
-      "title": "Snapdragon",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Snapdragon",
+      "title": "Jogo Benfica",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Jogo%20Benfica",
       "pubdate": "Thu, 14 Sep 2023 00:00:00 +0100"
     },
     {
-      "title": "Cruzeiro",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Cruzeiro",
+      "title": "Mortal Kombat 1",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Mortal%20Kombat%201",
       "pubdate": "Thu, 14 Sep 2023 16:00:00 +0100"
     },
     {
-      "title": "Madeleine McCann",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Madeleine%20McCann",
-      "pubdate": "Thu, 14 Sep 2023 01:00:00 +0100"
-    },
-    {
-      "title": "Benfica feminino",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Benfica%20feminino",
-      "pubdate": "Wed, 13 Sep 2023 08:00:00 +0100"
+      "title": "Federer",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Federer",
+      "pubdate": "Thu, 14 Sep 2023 17:00:00 +0100"
     }
   ]
 }
