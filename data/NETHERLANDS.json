@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-10-2023 , 14:52:57",
+  "lastUpdate": "03-10-2023 , 14:59:44",
   "data": [
     {
       "title": "Wopke Hoekstra",
@@ -32,6 +32,11 @@
       "pubdate": "Sun, 01 Oct 2023 18:00:00 +0200"
     },
     {
+      "title": "AZ Fortuna",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#AZ%20Fortuna",
+      "pubdate": "Sun, 01 Oct 2023 18:00:00 +0200"
+    },
+    {
       "title": "Excelsior",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Excelsior",
       "pubdate": "Sun, 01 Oct 2023 20:00:00 +0200"
@@ -40,11 +45,6 @@
       "title": "Klaus makela",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Klaus%20makela",
       "pubdate": "Sun, 01 Oct 2023 21:00:00 +0200"
-    },
-    {
-      "title": "Fortuna Sittard",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Fortuna%20Sittard",
-      "pubdate": "Sun, 01 Oct 2023 18:00:00 +0200"
     },
     {
       "title": "Ajax",
