@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27-10-2023 , 12:48:52",
+  "lastUpdate": "27-10-2023 , 12:57:56",
   "data": [
     {
       "title": "水城夢子",
@@ -7,19 +7,19 @@
       "pubdate": "Fri, 27 Oct 2023 00:00:00 +0900"
     },
     {
-      "title": "李克強",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E6%9D%8E%E5%85%8B%E5%BC%B7",
-      "pubdate": "Fri, 27 Oct 2023 10:00:00 +0900"
-    },
-    {
       "title": "犬塚弘",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E7%8A%AC%E5%A1%9A%E5%BC%98",
       "pubdate": "Fri, 27 Oct 2023 12:00:00 +0900"
     },
     {
-      "title": "坂上忍",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E5%9D%82%E4%B8%8A%E5%BF%8D",
-      "pubdate": "Fri, 27 Oct 2023 09:00:00 +0900"
+      "title": "ハロウィンジャンボ",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%83%8F%E3%83%AD%E3%82%A6%E3%82%A3%E3%83%B3%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%9C",
+      "pubdate": "Fri, 27 Oct 2023 14:00:00 +0900"
+    },
+    {
+      "title": "李克強",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E6%9D%8E%E5%85%8B%E5%BC%B7",
+      "pubdate": "Fri, 27 Oct 2023 10:00:00 +0900"
     },
     {
       "title": "ブライトン",
@@ -32,6 +32,11 @@
       "pubdate": "Fri, 27 Oct 2023 15:00:00 +0900"
     },
     {
+      "title": "巨人 ドラフト",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E5%B7%A8%E4%BA%BA%20%E3%83%89%E3%83%A9%E3%83%95%E3%83%88",
+      "pubdate": "Fri, 27 Oct 2023 00:00:00 +0900"
+    },
+    {
       "title": "藤井聡太 竜王戦",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E8%97%A4%E4%BA%95%E8%81%A1%E5%A4%AA%20%E7%AB%9C%E7%8E%8B%E6%88%A6",
       "pubdate": "Fri, 27 Oct 2023 00:00:00 +0900"
@@ -42,9 +47,9 @@
       "pubdate": "Fri, 27 Oct 2023 11:00:00 +0900"
     },
     {
-      "title": "西舘勇陽",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E8%A5%BF%E8%88%98%E5%8B%87%E9%99%BD",
-      "pubdate": "Thu, 26 Oct 2023 18:00:00 +0900"
+      "title": "矢野謙次",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E7%9F%A2%E9%87%8E%E8%AC%99%E6%AC%A1",
+      "pubdate": "Fri, 27 Oct 2023 21:00:00 +0900"
     },
     {
       "title": "横山聖哉",
@@ -62,6 +67,11 @@
       "pubdate": "Thu, 26 Oct 2023 22:00:00 +0900"
     },
     {
+      "title": "JUJU",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#JUJU",
+      "pubdate": "Thu, 26 Oct 2023 23:00:00 +0900"
+    },
+    {
       "title": "ジブリパーク",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%82%B8%E3%83%96%E3%83%AA%E3%83%91%E3%83%BC%E3%82%AF",
       "pubdate": "Thu, 26 Oct 2023 02:00:00 +0900"
@@ -72,19 +82,9 @@
       "pubdate": "Thu, 26 Oct 2023 20:00:00 +0900"
     },
     {
-      "title": "細野晴希",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E7%B4%B0%E9%87%8E%E6%99%B4%E5%B8%8C",
-      "pubdate": "Thu, 26 Oct 2023 18:00:00 +0900"
-    },
-    {
       "title": "メーン州",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%83%A1%E3%83%BC%E3%83%B3%E5%B7%9E",
       "pubdate": "Thu, 26 Oct 2023 14:00:00 +0900"
-    },
-    {
-      "title": "上田希由翔",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E4%B8%8A%E7%94%B0%E5%B8%8C%E7%94%B1%E7%BF%94",
-      "pubdate": "Thu, 26 Oct 2023 20:00:00 +0900"
     },
     {
       "title": "中日ドラゴンズ",
@@ -97,9 +97,9 @@
       "pubdate": "Wed, 25 Oct 2023 23:00:00 +0900"
     },
     {
-      "title": "度会隆輝",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E5%BA%A6%E4%BC%9A%E9%9A%86%E8%BC%9D",
-      "pubdate": "Wed, 25 Oct 2023 20:00:00 +0900"
+      "title": "ドラフト",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%83%89%E3%83%A9%E3%83%95%E3%83%88",
+      "pubdate": "Wed, 25 Oct 2023 23:00:00 +0900"
     }
   ]
 }

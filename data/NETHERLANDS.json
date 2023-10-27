@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27-10-2023 , 12:48:53",
+  "lastUpdate": "27-10-2023 , 12:57:57",
   "data": [
     {
       "title": "Caroline van der Plas",
@@ -22,6 +22,11 @@
       "pubdate": "Thu, 26 Oct 2023 21:00:00 +0200"
     },
     {
+      "title": "Van Hecke",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Van%20Hecke",
+      "pubdate": "Thu, 26 Oct 2023 22:00:00 +0200"
+    },
+    {
       "title": "Acda en De Munnik",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Acda%20en%20De%20Munnik",
       "pubdate": "Thu, 26 Oct 2023 20:00:00 +0200"
@@ -35,11 +40,6 @@
       "title": "Ajax",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ajax",
       "pubdate": "Wed, 25 Oct 2023 20:00:00 +0200"
-    },
-    {
-      "title": "Feyenoord",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Feyenoord",
-      "pubdate": "Wed, 25 Oct 2023 11:00:00 +0200"
     },
     {
       "title": "Kieswijzer",
