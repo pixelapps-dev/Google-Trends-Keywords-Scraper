@@ -1,10 +1,15 @@
 {
-  "lastUpdate": "02-11-2023 , 03:51:41",
+  "lastUpdate": "02-11-2023 , 03:58:38",
   "data": [
     {
       "title": "Carmen Amaya",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Carmen%20Amaya",
       "pubdate": "Thu, 02 Nov 2023 01:00:00 +0000"
+    },
+    {
+      "title": "Sharon Osbourne",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Sharon%20Osbourne",
+      "pubdate": "Thu, 02 Nov 2023 00:00:00 +0000"
     },
     {
       "title": "Day of the Dead",
@@ -19,7 +24,7 @@
     {
       "title": "Storm Ciaran",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Storm%20Ciaran",
-      "pubdate": "Wed, 01 Nov 2023 12:00:00 +0000"
+      "pubdate": "Wed, 01 Nov 2023 15:00:00 +0000"
     },
     {
       "title": "Bournemouth vs Liverpool",
@@ -49,6 +54,11 @@
     {
       "title": "Dundee vs Rangers",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Dundee%20vs%20Rangers",
+      "pubdate": "Wed, 01 Nov 2023 20:00:00 +0000"
+    },
+    {
+      "title": "Rangers",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Rangers",
       "pubdate": "Wed, 01 Nov 2023 20:00:00 +0000"
     },
     {
@@ -90,16 +100,6 @@
       "title": "Celtic vs St Mirren",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Celtic%20vs%20St%20Mirren",
       "pubdate": "Wed, 01 Nov 2023 20:00:00 +0000"
-    },
-    {
-      "title": "Hannah Waddingham",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Hannah%20Waddingham",
-      "pubdate": "Wed, 01 Nov 2023 21:00:00 +0000"
-    },
-    {
-      "title": "Tyler Christopher",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Tyler%20Christopher",
-      "pubdate": "Wed, 01 Nov 2023 10:00:00 +0000"
     }
   ]
 }
