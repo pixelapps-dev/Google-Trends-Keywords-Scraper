@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-11-2023 , 06:57:24",
+  "lastUpdate": "20-11-2023 , 07:06:14",
   "data": [
     {
       "title": "Katrin Sass",
@@ -19,7 +19,7 @@
     {
       "title": "DFB",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#DFB",
-      "pubdate": "Sat, 18 Nov 2023 14:00:00 +0100"
+      "pubdate": "Sat, 18 Nov 2023 19:00:00 +0100"
     },
     {
       "title": "Fussball",
@@ -40,11 +40,6 @@
       "title": "Rosalynn Carter",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Rosalynn%20Carter",
       "pubdate": "Sat, 18 Nov 2023 23:00:00 +0100"
-    },
-    {
-      "title": "Italien",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Italien",
-      "pubdate": "Sat, 18 Nov 2023 13:00:00 +0100"
     },
     {
       "title": "Deutschland Türkei",
@@ -85,6 +80,11 @@
       "title": "Bundesverfassungsgericht",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bundesverfassungsgericht",
       "pubdate": "Wed, 15 Nov 2023 12:00:00 +0100"
+    },
+    {
+      "title": "Bahnstreik",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bahnstreik",
+      "pubdate": "Tue, 14 Nov 2023 18:00:00 +0100"
     },
     {
       "title": "Hubert Seipel",
