@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11-12-2023 , 21:52:44",
+  "lastUpdate": "11-12-2023 , 21:59:34",
   "data": [
     {
       "title": "Zara campaign",
@@ -67,11 +67,6 @@
       "pubdate": "Mon, 11 Dec 2023 21:00:00 +0800"
     },
     {
-      "title": "Dec 11 holiday",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Dec%2011%20holiday",
-      "pubdate": "Mon, 11 Dec 2023 00:00:00 +0800"
-    },
-    {
       "title": "Zeus Collins",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Zeus%20Collins",
       "pubdate": "Mon, 11 Dec 2023 22:00:00 +0800"
@@ -100,6 +95,11 @@
       "title": "Gone Girl",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Gone%20Girl",
       "pubdate": "Sun, 10 Dec 2023 19:00:00 +0800"
+    },
+    {
+      "title": "Shohei Ohtani",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Shohei%20Ohtani",
+      "pubdate": "Sun, 10 Dec 2023 08:00:00 +0800"
     }
   ]
 }
