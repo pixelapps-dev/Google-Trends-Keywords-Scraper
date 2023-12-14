@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14-12-2023 , 00:35:25",
+  "lastUpdate": "14-12-2023 , 01:00:48",
   "data": [
     {
       "title": "Captain Holt",
@@ -37,14 +37,19 @@
       "pubdate": "Wed, 13 Dec 2023 11:00:00 +0800"
     },
     {
+      "title": "Taylor Swift birthday",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Taylor%20Swift%20birthday",
+      "pubdate": "Wed, 13 Dec 2023 17:00:00 +0800"
+    },
+    {
       "title": "Virat Kohli",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Virat%20Kohli",
       "pubdate": "Wed, 13 Dec 2023 16:00:00 +0800"
     },
     {
-      "title": "Taylor Swift birthday",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Taylor%20Swift%20birthday",
-      "pubdate": "Wed, 13 Dec 2023 17:00:00 +0800"
+      "title": "Kung Fu Panda 4",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Kung%20Fu%20Panda%204",
+      "pubdate": "Wed, 13 Dec 2023 19:00:00 +0800"
     },
     {
       "title": "CPI",
@@ -52,9 +57,9 @@
       "pubdate": "Wed, 13 Dec 2023 08:00:00 +0800"
     },
     {
-      "title": "Kung Fu Panda 4",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Kung%20Fu%20Panda%204",
-      "pubdate": "Wed, 13 Dec 2023 19:00:00 +0800"
+      "title": "BWF World Tour Finals",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#BWF%20World%20Tour%20Finals",
+      "pubdate": "Wed, 13 Dec 2023 17:00:00 +0800"
     },
     {
       "title": "Champions League",
@@ -95,11 +100,6 @@
       "title": "Shohei Ohtani",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Shohei%20Ohtani",
       "pubdate": "Sun, 10 Dec 2023 09:00:00 +0800"
-    },
-    {
-      "title": "Aston Villa",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Aston%20Villa",
-      "pubdate": "Sun, 10 Dec 2023 04:00:00 +0800"
     }
   ]
 }

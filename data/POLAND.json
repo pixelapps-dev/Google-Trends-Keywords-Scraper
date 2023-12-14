@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14-12-2023 , 00:35:24",
+  "lastUpdate": "14-12-2023 , 01:00:47",
   "data": [
     {
       "title": "Andre Braugher",
@@ -7,9 +7,19 @@
       "pubdate": "Wed, 13 Dec 2023 07:00:00 +0100"
     },
     {
+      "title": "Wojciech Łazarek",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Wojciech%20%C5%81azarek",
+      "pubdate": "Wed, 13 Dec 2023 14:00:00 +0100"
+    },
+    {
       "title": "Liga Mistrzów wyniki",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Liga%20Mistrz%C3%B3w%20wyniki",
       "pubdate": "Wed, 13 Dec 2023 06:00:00 +0100"
+    },
+    {
+      "title": "Chanuka świecznik",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Chanuka%20%C5%9Bwiecznik",
+      "pubdate": "Wed, 13 Dec 2023 10:00:00 +0100"
     },
     {
       "title": "Kopenhaga FC",
@@ -20,6 +30,11 @@
       "title": "Tobiasz Bocheński",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Tobiasz%20Boche%C5%84ski",
       "pubdate": "Wed, 13 Dec 2023 13:00:00 +0100"
+    },
+    {
+      "title": "Hilary Duff",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Hilary%20Duff",
+      "pubdate": "Wed, 13 Dec 2023 12:00:00 +0100"
     },
     {
       "title": "Kwaśniewski",
@@ -57,14 +72,14 @@
       "pubdate": "Tue, 12 Dec 2023 22:00:00 +0100"
     },
     {
-      "title": "Oman",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Oman",
-      "pubdate": "Tue, 12 Dec 2023 22:00:00 +0100"
-    },
-    {
       "title": "Andrzej Domański",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Andrzej%20Doma%C5%84ski",
       "pubdate": "Tue, 12 Dec 2023 07:00:00 +0100"
+    },
+    {
+      "title": "Oman",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Oman",
+      "pubdate": "Tue, 12 Dec 2023 22:00:00 +0100"
     },
     {
       "title": "Dariusz Wieczorek",
@@ -85,21 +100,6 @@
       "title": "Sławomir Nitras",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#S%C5%82awomir%20Nitras",
       "pubdate": "Tue, 12 Dec 2023 13:00:00 +0100"
-    },
-    {
-      "title": "Marzena Czarnecka",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Marzena%20Czarnecka",
-      "pubdate": "Tue, 12 Dec 2023 12:00:00 +0100"
-    },
-    {
-      "title": "Lens – Sevilla",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Lens%20%E2%80%93%20Sevilla",
-      "pubdate": "Tue, 12 Dec 2023 20:00:00 +0100"
-    },
-    {
-      "title": "PSV – Arsenal",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#PSV%20%E2%80%93%20Arsenal",
-      "pubdate": "Tue, 12 Dec 2023 19:00:00 +0100"
     }
   ]
 }

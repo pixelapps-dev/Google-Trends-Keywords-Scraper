@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14-12-2023 , 00:35:26",
+  "lastUpdate": "14-12-2023 , 01:00:50",
   "data": [
     {
       "title": "熊霓",
@@ -92,14 +92,14 @@
       "pubdate": "Wed, 13 Dec 2023 13:00:00 +0800"
     },
     {
+      "title": "TVBS民調",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#TVBS%E6%B0%91%E8%AA%BF",
+      "pubdate": "Wed, 13 Dec 2023 20:00:00 +0800"
+    },
+    {
       "title": "耀華玻璃",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E8%80%80%E8%8F%AF%E7%8E%BB%E7%92%83",
       "pubdate": "Wed, 13 Dec 2023 15:00:00 +0800"
-    },
-    {
-      "title": "漢翔",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E6%BC%A2%E7%BF%94",
-      "pubdate": "Wed, 13 Dec 2023 10:00:00 +0800"
     }
   ]
 }
