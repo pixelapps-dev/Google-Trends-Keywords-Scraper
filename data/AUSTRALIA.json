@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14-12-2023 , 01:31:39",
+  "lastUpdate": "14-12-2023 , 01:54:53",
   "data": [
     {
       "title": "Rex Hunt",
@@ -45,11 +45,6 @@
       "title": "Dante Exum",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Dante%20Exum",
       "pubdate": "Wed, 13 Dec 2023 13:00:00 +1100"
-    },
-    {
-      "title": "Theo Von",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Theo%20Von",
-      "pubdate": "Wed, 13 Dec 2023 07:00:00 +1100"
     },
     {
       "title": "Meteor shower",
@@ -99,6 +94,11 @@
     {
       "title": "E3",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#E3",
+      "pubdate": "Wed, 13 Dec 2023 14:00:00 +1100"
+    },
+    {
+      "title": "MYEFO",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#MYEFO",
       "pubdate": "Wed, 13 Dec 2023 14:00:00 +1100"
     }
   ]

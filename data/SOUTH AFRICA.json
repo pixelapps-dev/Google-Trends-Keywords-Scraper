@@ -1,25 +1,25 @@
 {
-  "lastUpdate": "14-12-2023 , 01:31:47",
+  "lastUpdate": "14-12-2023 , 01:55:03",
   "data": [
+    {
+      "title": "UEFA Champions League",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#UEFA%20Champions%20League",
+      "pubdate": "Wed, 13 Dec 2023 18:00:00 +0200"
+    },
     {
       "title": "Brooklyn 99",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Brooklyn%2099",
       "pubdate": "Wed, 13 Dec 2023 07:00:00 +0200"
     },
     {
-      "title": "Newcastle",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Newcastle",
-      "pubdate": "Wed, 13 Dec 2023 11:00:00 +0200"
+      "title": "PSG",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#PSG",
+      "pubdate": "Wed, 13 Dec 2023 14:00:00 +0200"
     },
     {
       "title": "England vs West Indies",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#England%20vs%20West%20Indies",
       "pubdate": "Wed, 13 Dec 2023 06:00:00 +0200"
-    },
-    {
-      "title": "PSG",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#PSG",
-      "pubdate": "Wed, 13 Dec 2023 14:00:00 +0200"
     },
     {
       "title": "Atletico Madrid",
@@ -40,6 +40,11 @@
       "title": "Fatima Sydow",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Fatima%20Sydow",
       "pubdate": "Wed, 13 Dec 2023 01:00:00 +0200"
+    },
+    {
+      "title": "Celtic vs Feyenoord",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Celtic%20vs%20Feyenoord",
+      "pubdate": "Wed, 13 Dec 2023 18:00:00 +0200"
     },
     {
       "title": "PSV vs Arsenal",
@@ -95,11 +100,6 @@
       "title": "Leeds United",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Leeds%20United",
       "pubdate": "Tue, 12 Dec 2023 14:00:00 +0200"
-    },
-    {
-      "title": "Cricket",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Cricket",
-      "pubdate": "Tue, 12 Dec 2023 20:00:00 +0200"
     }
   ]
 }

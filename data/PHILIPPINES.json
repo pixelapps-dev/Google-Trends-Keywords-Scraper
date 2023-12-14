@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "14-12-2023 , 01:31:46",
+  "lastUpdate": "14-12-2023 , 01:55:02",
   "data": [
+    {
+      "title": "Klay Thompson",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Klay%20Thompson",
+      "pubdate": "Thu, 14 Dec 2023 00:00:00 +0800"
+    },
     {
       "title": "Captain Holt",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Captain%20Holt",
@@ -17,19 +22,19 @@
       "pubdate": "Wed, 13 Dec 2023 01:00:00 +0800"
     },
     {
-      "title": "Jam Magno",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Jam%20Magno",
-      "pubdate": "Wed, 13 Dec 2023 03:00:00 +0800"
-    },
-    {
       "title": "PVL",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#PVL",
       "pubdate": "Wed, 13 Dec 2023 17:00:00 +0800"
     },
     {
-      "title": "Warriors",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Warriors",
+      "title": "Golden State Warriors",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Golden%20State%20Warriors",
       "pubdate": "Wed, 13 Dec 2023 14:00:00 +0800"
+    },
+    {
+      "title": "Psychological violence",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Psychological%20violence",
+      "pubdate": "Wed, 13 Dec 2023 08:00:00 +0800"
     },
     {
       "title": "Celtics vs Cavaliers",
@@ -40,11 +45,6 @@
       "title": "GSW",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#GSW",
       "pubdate": "Wed, 13 Dec 2023 14:00:00 +0800"
-    },
-    {
-      "title": "Golden State Warriors",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Golden%20State%20Warriors",
-      "pubdate": "Wed, 13 Dec 2023 17:00:00 +0800"
     },
     {
       "title": "Bulls vs Nuggets",
@@ -72,14 +72,14 @@
       "pubdate": "Wed, 13 Dec 2023 04:00:00 +0800"
     },
     {
-      "title": "Stephen Curry",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Stephen%20Curry",
-      "pubdate": "Wed, 13 Dec 2023 14:00:00 +0800"
-    },
-    {
       "title": "Kung Fu Panda 4",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Kung%20Fu%20Panda%204",
       "pubdate": "Wed, 13 Dec 2023 20:00:00 +0800"
+    },
+    {
+      "title": "Stephen Curry",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Stephen%20Curry",
+      "pubdate": "Wed, 13 Dec 2023 14:00:00 +0800"
     },
     {
       "title": "North Orillan",

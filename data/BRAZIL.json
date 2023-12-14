@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14-12-2023 , 01:31:39",
+  "lastUpdate": "14-12-2023 , 01:54:54",
   "data": [
     {
       "title": "Manchester City",
@@ -62,6 +62,11 @@
       "pubdate": "Wed, 13 Dec 2023 08:00:00 -0500"
     },
     {
+      "title": "Dia do Marinheiro",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Dia%20do%20Marinheiro",
+      "pubdate": "Wed, 13 Dec 2023 10:00:00 -0500"
+    },
+    {
       "title": "Imagem de Santa Luzia",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Imagem%20de%20Santa%20Luzia",
       "pubdate": "Wed, 13 Dec 2023 09:00:00 -0500"
@@ -72,19 +77,19 @@
       "pubdate": "Wed, 13 Dec 2023 09:00:00 -0500"
     },
     {
-      "title": "Dia do Marinheiro",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Dia%20do%20Marinheiro",
-      "pubdate": "Wed, 13 Dec 2023 10:00:00 -0500"
-    },
-    {
       "title": "Popo",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Popo",
       "pubdate": "Wed, 13 Dec 2023 10:00:00 -0500"
     },
     {
-      "title": "Cariani",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Cariani",
-      "pubdate": "Tue, 12 Dec 2023 07:00:00 -0500"
+      "title": "Luisa Sonza",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Luisa%20Sonza",
+      "pubdate": "Wed, 13 Dec 2023 11:00:00 -0500"
+    },
+    {
+      "title": "Kung Fu Panda 4",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Kung%20Fu%20Panda%204",
+      "pubdate": "Wed, 13 Dec 2023 11:00:00 -0500"
     },
     {
       "title": "Mundial de Clubes",
@@ -92,14 +97,9 @@
       "pubdate": "Tue, 12 Dec 2023 10:00:00 -0500"
     },
     {
-      "title": "Real Madrid",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Real%20Madrid",
-      "pubdate": "Tue, 12 Dec 2023 10:00:00 -0500"
-    },
-    {
-      "title": "Brooklyn 99",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Brooklyn%2099",
-      "pubdate": "Tue, 12 Dec 2023 21:00:00 -0500"
+      "title": "Renato Cariani drogas",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Renato%20Cariani%20drogas",
+      "pubdate": "Tue, 12 Dec 2023 07:00:00 -0500"
     }
   ]
 }
