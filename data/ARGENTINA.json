@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13-12-2023 , 23:56:28",
+  "lastUpdate": "14-12-2023 , 00:17:12",
   "data": [
     {
       "title": "Agnès Varda",
@@ -42,9 +42,19 @@
       "pubdate": "Tue, 12 Dec 2023 17:00:00 -0300"
     },
     {
+      "title": "Que es la pauta oficial",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Que%20es%20la%20pauta%20oficial",
+      "pubdate": "Tue, 12 Dec 2023 10:00:00 -0300"
+    },
+    {
       "title": "Brooklyn 99",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Brooklyn%2099",
       "pubdate": "Tue, 12 Dec 2023 23:00:00 -0300"
+    },
+    {
+      "title": "Dolar tarjeta",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Dolar%20tarjeta",
+      "pubdate": "Tue, 12 Dec 2023 21:00:00 -0300"
     },
     {
       "title": "DIRECTV",
@@ -67,9 +77,9 @@
       "pubdate": "Tue, 12 Dec 2023 13:00:00 -0300"
     },
     {
-      "title": "Dolar tarjeta",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Dolar%20tarjeta",
-      "pubdate": "Tue, 12 Dec 2023 21:00:00 -0300"
+      "title": "Tarjeta Alimentar",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Tarjeta%20Alimentar",
+      "pubdate": "Tue, 12 Dec 2023 20:00:00 -0300"
     },
     {
       "title": "SIRA",
@@ -82,11 +92,6 @@
       "pubdate": "Tue, 12 Dec 2023 13:00:00 -0300"
     },
     {
-      "title": "Tarjeta Alimentar",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Tarjeta%20Alimentar",
-      "pubdate": "Tue, 12 Dec 2023 20:00:00 -0300"
-    },
-    {
       "title": "Inter",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Inter",
       "pubdate": "Tue, 12 Dec 2023 17:00:00 -0300"
@@ -95,11 +100,6 @@
       "title": "Dia del Hincha de Boca",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Dia%20del%20Hincha%20de%20Boca",
       "pubdate": "Tue, 12 Dec 2023 01:00:00 -0300"
-    },
-    {
-      "title": "Sevilla",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Sevilla",
-      "pubdate": "Tue, 12 Dec 2023 16:00:00 -0300"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13-12-2023 , 23:56:35",
+  "lastUpdate": "14-12-2023 , 00:17:19",
   "data": [
     {
       "title": "Captain Holt",
@@ -15,6 +15,11 @@
       "title": "Taylor Swift",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Taylor%20Swift",
       "pubdate": "Wed, 13 Dec 2023 01:00:00 +0800"
+    },
+    {
+      "title": "Jam Magno",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Jam%20Magno",
+      "pubdate": "Wed, 13 Dec 2023 03:00:00 +0800"
     },
     {
       "title": "PVL",
@@ -35,11 +40,6 @@
       "title": "GSW",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#GSW",
       "pubdate": "Wed, 13 Dec 2023 14:00:00 +0800"
-    },
-    {
-      "title": "Psychological violence",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Psychological%20violence",
-      "pubdate": "Wed, 13 Dec 2023 09:00:00 +0800"
     },
     {
       "title": "Bulls vs Nuggets",
@@ -87,6 +87,11 @@
       "pubdate": "Wed, 13 Dec 2023 13:00:00 +0800"
     },
     {
+      "title": "Kung Fu Panda 4",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Kung%20Fu%20Panda%204",
+      "pubdate": "Wed, 13 Dec 2023 20:00:00 +0800"
+    },
+    {
       "title": "Yoshinobu Yamamoto",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Yoshinobu%20Yamamoto",
       "pubdate": "Wed, 13 Dec 2023 16:00:00 +0800"
@@ -95,11 +100,6 @@
       "title": "AAA",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#AAA",
       "pubdate": "Wed, 13 Dec 2023 19:00:00 +0800"
-    },
-    {
-      "title": "December 26 holiday",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#December%2026%20holiday",
-      "pubdate": "Tue, 12 Dec 2023 20:00:00 +0800"
     }
   ]
 }

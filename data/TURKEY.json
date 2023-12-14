@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13-12-2023 , 23:56:38",
+  "lastUpdate": "14-12-2023 , 00:17:22",
   "data": [
     {
       "title": "Real Madrid",
@@ -82,14 +82,14 @@
       "pubdate": "Tue, 12 Dec 2023 22:00:00 +0300"
     },
     {
+      "title": "Hasan Bitmez",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Hasan%20Bitmez",
+      "pubdate": "Tue, 12 Dec 2023 12:00:00 +0300"
+    },
+    {
       "title": "Arsenal",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Arsenal",
       "pubdate": "Tue, 12 Dec 2023 19:00:00 +0300"
-    },
-    {
-      "title": "Hasan Bitmez",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Hasan%20Bitmez",
-      "pubdate": "Tue, 12 Dec 2023 14:00:00 +0300"
     },
     {
       "title": "Sevilla",
@@ -97,8 +97,8 @@
       "pubdate": "Tue, 12 Dec 2023 19:00:00 +0300"
     },
     {
-      "title": "Union Berlin  Real Madrid",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Union%20Berlin%20%20Real%20Madrid",
+      "title": "Union Berlin - Real Madrid",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Union%20Berlin%20-%20Real%20Madrid",
       "pubdate": "Tue, 12 Dec 2023 23:00:00 +0300"
     }
   ]

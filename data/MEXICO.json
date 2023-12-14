@@ -1,15 +1,10 @@
 {
-  "lastUpdate": "13-12-2023 , 23:56:34",
+  "lastUpdate": "14-12-2023 , 00:17:18",
   "data": [
     {
       "title": "Agnès Varda",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Agn%C3%A8s%20Varda",
       "pubdate": "Wed, 13 Dec 2023 01:00:00 -0600"
-    },
-    {
-      "title": "Andrés Manuel López Obrador",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Andr%C3%A9s%20Manuel%20L%C3%B3pez%20Obrador",
-      "pubdate": "Wed, 13 Dec 2023 00:00:00 -0600"
     },
     {
       "title": "Brunetta",
@@ -22,6 +17,11 @@
       "pubdate": "Wed, 13 Dec 2023 02:00:00 -0600"
     },
     {
+      "title": "LOTERIA Nacional 12 de Diciembre 2023",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#LOTERIA%20Nacional%2012%20de%20Diciembre%202023",
+      "pubdate": "Wed, 13 Dec 2023 06:00:00 -0600"
+    },
+    {
       "title": "Temblor hoy",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Temblor%20hoy",
       "pubdate": "Tue, 12 Dec 2023 12:00:00 -0600"
@@ -30,11 +30,6 @@
       "title": "FC Union Berlin  Real Madrid",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#FC%20Union%20Berlin%20%20Real%20Madrid",
       "pubdate": "Tue, 12 Dec 2023 14:00:00 -0600"
-    },
-    {
-      "title": "Champions",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Champions",
-      "pubdate": "Tue, 12 Dec 2023 02:00:00 -0600"
     },
     {
       "title": "Manchester United - Bayern",
@@ -62,6 +57,11 @@
       "pubdate": "Tue, 12 Dec 2023 12:00:00 -0600"
     },
     {
+      "title": "Lens - Sevilla",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Lens%20-%20Sevilla",
+      "pubdate": "Tue, 12 Dec 2023 12:00:00 -0600"
+    },
+    {
       "title": "Gustavo Lema",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Gustavo%20Lema",
       "pubdate": "Tue, 12 Dec 2023 14:00:00 -0600"
@@ -70,11 +70,6 @@
       "title": "Taylor Swift",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Taylor%20Swift",
       "pubdate": "Tue, 12 Dec 2023 21:00:00 -0600"
-    },
-    {
-      "title": "Lens vs Sevilla",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Lens%20vs%20Sevilla",
-      "pubdate": "Tue, 12 Dec 2023 13:00:00 -0600"
     },
     {
       "title": "Inter  Real Sociedad",
@@ -97,9 +92,14 @@
       "pubdate": "Tue, 12 Dec 2023 20:00:00 -0600"
     },
     {
-      "title": "Galatasaray",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Galatasaray",
-      "pubdate": "Tue, 12 Dec 2023 15:00:00 -0600"
+      "title": "Itati Cantoral",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Itati%20Cantoral",
+      "pubdate": "Tue, 12 Dec 2023 00:00:00 -0600"
+    },
+    {
+      "title": "Champions hoy",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Champions%20hoy",
+      "pubdate": "Tue, 12 Dec 2023 13:00:00 -0600"
     }
   ]
 }

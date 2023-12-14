@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13-12-2023 , 23:56:28",
+  "lastUpdate": "14-12-2023 , 00:17:13",
   "data": [
     {
       "title": "Agnès Varda",
@@ -12,6 +12,11 @@
       "pubdate": "Wed, 13 Dec 2023 06:00:00 +0100"
     },
     {
+      "title": "Malaga",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Malaga",
+      "pubdate": "Wed, 13 Dec 2023 13:00:00 +0100"
+    },
+    {
       "title": "Acteur Dylan Robert",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Acteur%20Dylan%20Robert",
       "pubdate": "Wed, 13 Dec 2023 07:00:00 +0100"
@@ -22,14 +27,14 @@
       "pubdate": "Wed, 13 Dec 2023 11:00:00 +0100"
     },
     {
-      "title": "Napoli",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Napoli",
-      "pubdate": "Wed, 13 Dec 2023 00:00:00 +0100"
-    },
-    {
       "title": "The Night Agent",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#The%20Night%20Agent",
       "pubdate": "Wed, 13 Dec 2023 12:00:00 +0100"
+    },
+    {
+      "title": "Napoli",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Napoli",
+      "pubdate": "Wed, 13 Dec 2023 00:00:00 +0100"
     },
     {
       "title": "AC Milan",
@@ -95,11 +100,6 @@
       "title": "Alexeï Navalny",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Alexe%C3%AF%20Navalny",
       "pubdate": "Tue, 12 Dec 2023 09:00:00 +0100"
-    },
-    {
-      "title": "Evy Gruyaert",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Evy%20Gruyaert",
-      "pubdate": "Tue, 12 Dec 2023 21:00:00 +0100"
     }
   ]
 }
