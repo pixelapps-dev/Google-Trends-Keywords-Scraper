@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-12-2023 , 04:50:57",
+  "lastUpdate": "20-12-2023 , 04:57:37",
   "data": [
     {
       "title": "Island Vulkanausbruch",
@@ -9,17 +9,12 @@
     {
       "title": "BVB",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#BVB",
-      "pubdate": "Tue, 19 Dec 2023 20:00:00 +0100"
+      "pubdate": "Tue, 19 Dec 2023 19:00:00 +0100"
     },
     {
       "title": "Werder Bremen",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Werder%20Bremen",
       "pubdate": "Tue, 19 Dec 2023 19:00:00 +0100"
-    },
-    {
-      "title": "Dalli Dalli",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Dalli%20Dalli",
-      "pubdate": "Tue, 19 Dec 2023 21:00:00 +0100"
     },
     {
       "title": "Thomas Müller",
@@ -29,6 +24,11 @@
     {
       "title": "Deutsche Bahn streiks",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Deutsche%20Bahn%20streiks",
+      "pubdate": "Tue, 19 Dec 2023 21:00:00 +0100"
+    },
+    {
+      "title": "Dalli Dalli",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Dalli%20Dalli",
       "pubdate": "Tue, 19 Dec 2023 21:00:00 +0100"
     },
     {
@@ -97,9 +97,9 @@
       "pubdate": "Fri, 15 Dec 2023 22:00:00 +0100"
     },
     {
-      "title": "Sternstunden",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Sternstunden",
-      "pubdate": "Fri, 15 Dec 2023 15:00:00 +0100"
+      "title": "Darts-WM 2024",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Darts-WM%202024",
+      "pubdate": "Fri, 15 Dec 2023 10:00:00 +0100"
     }
   ]
 }
