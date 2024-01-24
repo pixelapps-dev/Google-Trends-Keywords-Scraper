@@ -1,6 +1,16 @@
 {
-  "lastUpdate": "24-01-2024 , 18:45:38",
+  "lastUpdate": "24-01-2024 , 18:52:35",
   "data": [
+    {
+      "title": "Heinz hönig",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Heinz%20h%C3%B6nig",
+      "pubdate": "Wed, 24 Jan 2024 17:00:00 +0100"
+    },
+    {
+      "title": "Flugzeugabsturz",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Flugzeugabsturz",
+      "pubdate": "Wed, 24 Jan 2024 15:00:00 +0100"
+    },
     {
       "title": "Enshrouded",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Enshrouded",
@@ -17,24 +27,44 @@
       "pubdate": "Wed, 24 Jan 2024 08:00:00 +0100"
     },
     {
+      "title": "Helene Fischer",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Helene%20Fischer",
+      "pubdate": "Wed, 24 Jan 2024 18:00:00 +0100"
+    },
+    {
+      "title": "Greta Gerwig",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Greta%20Gerwig",
+      "pubdate": "Wed, 24 Jan 2024 13:00:00 +0100"
+    },
+    {
       "title": "Frank Farian",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Frank%20Farian",
       "pubdate": "Tue, 23 Jan 2024 13:00:00 +0100"
     },
     {
-      "title": "Sandra Hüller",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Sandra%20H%C3%BCller",
+      "title": "Oscar-Nominierungen 2024",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Oscar-Nominierungen%202024",
       "pubdate": "Tue, 23 Jan 2024 09:00:00 +0100"
     },
     {
-      "title": "3. Liga",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#3.%20Liga",
-      "pubdate": "Tue, 23 Jan 2024 21:00:00 +0100"
+      "title": "Bayern Union",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bayern%20Union",
+      "pubdate": "Tue, 23 Jan 2024 20:00:00 +0100"
     },
     {
       "title": "Galettes",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Galettes",
       "pubdate": "Tue, 23 Jan 2024 19:00:00 +0100"
+    },
+    {
+      "title": "Oscars 2024",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Oscars%202024",
+      "pubdate": "Tue, 23 Jan 2024 16:00:00 +0100"
+    },
+    {
+      "title": "3. Liga",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#3.%20Liga",
+      "pubdate": "Tue, 23 Jan 2024 21:00:00 +0100"
     },
     {
       "title": "NPD",
@@ -47,9 +77,14 @@
       "pubdate": "Tue, 23 Jan 2024 18:00:00 +0100"
     },
     {
-      "title": "Notfahrplan Bahn",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Notfahrplan%20Bahn",
-      "pubdate": "Tue, 23 Jan 2024 16:00:00 +0100"
+      "title": "Unterkirnach",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Unterkirnach",
+      "pubdate": "Tue, 23 Jan 2024 19:00:00 +0100"
+    },
+    {
+      "title": "Mühlhausen",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#M%C3%BChlhausen",
+      "pubdate": "Tue, 23 Jan 2024 22:00:00 +0100"
     },
     {
       "title": "Elke Erb",
@@ -65,41 +100,6 @@
       "title": "Bahnstreik",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bahnstreik",
       "pubdate": "Mon, 22 Jan 2024 08:00:00 +0100"
-    },
-    {
-      "title": "Zverev",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Zverev",
-      "pubdate": "Mon, 22 Jan 2024 20:00:00 +0100"
-    },
-    {
-      "title": "Zverev",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Zverev",
-      "pubdate": "Mon, 22 Jan 2024 17:00:00 +0100"
-    },
-    {
-      "title": "New Hampshire",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#New%20Hampshire",
-      "pubdate": "Mon, 22 Jan 2024 18:00:00 +0100"
-    },
-    {
-      "title": "Philipp Sandner",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Philipp%20Sandner",
-      "pubdate": "Mon, 22 Jan 2024 15:00:00 +0100"
-    },
-    {
-      "title": "Dietmar Bär",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Dietmar%20B%C3%A4r",
-      "pubdate": "Mon, 22 Jan 2024 20:00:00 +0100"
-    },
-    {
-      "title": "Deutschlandticket",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Deutschlandticket",
-      "pubdate": "Mon, 22 Jan 2024 22:00:00 +0100"
-    },
-    {
-      "title": "Northvolt",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Northvolt",
-      "pubdate": "Mon, 22 Jan 2024 21:00:00 +0100"
     }
   ]
 }
