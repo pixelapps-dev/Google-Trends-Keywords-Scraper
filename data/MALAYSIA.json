@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31-01-2024 , 04:48:47",
+  "lastUpdate": "31-01-2024 , 04:55:41",
   "data": [
     {
       "title": "Premier League",
@@ -27,19 +27,34 @@
       "pubdate": "Wed, 31 Jan 2024 05:00:00 +0800"
     },
     {
-      "title": "Crystal Palace vs Sheffield United",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Crystal%20Palace%20vs%20Sheffield%20United",
-      "pubdate": "Wed, 31 Jan 2024 06:00:00 +0800"
-    },
-    {
       "title": "Georgie Purcell",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Georgie%20Purcell",
       "pubdate": "Wed, 31 Jan 2024 00:00:00 +0800"
     },
     {
+      "title": "Crystal Palace vs Sheffield United",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Crystal%20Palace%20vs%20Sheffield%20United",
+      "pubdate": "Wed, 31 Jan 2024 06:00:00 +0800"
+    },
+    {
+      "title": "Sultan Nazrin",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Sultan%20Nazrin",
+      "pubdate": "Wed, 31 Jan 2024 10:00:00 +0800"
+    },
+    {
       "title": "Marcus Rashford",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Marcus%20Rashford",
       "pubdate": "Wed, 31 Jan 2024 01:00:00 +0800"
+    },
+    {
+      "title": "Review",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Review",
+      "pubdate": "Wed, 31 Jan 2024 08:00:00 +0800"
+    },
+    {
+      "title": "Article",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Article",
+      "pubdate": "Wed, 31 Jan 2024 08:00:00 +0800"
     },
     {
       "title": "Najib",
@@ -85,21 +100,6 @@
       "title": "Maldives President Mohamed Muizzu",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Maldives%20President%20Mohamed%20Muizzu",
       "pubdate": "Tue, 30 Jan 2024 15:00:00 +0800"
-    },
-    {
-      "title": "Ferdinand Marcos Jr",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Ferdinand%20Marcos%20Jr",
-      "pubdate": "Tue, 30 Jan 2024 00:00:00 +0800"
-    },
-    {
-      "title": "Amy Jackson",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Amy%20Jackson",
-      "pubdate": "Tue, 30 Jan 2024 00:00:00 +0800"
-    },
-    {
-      "title": "Senegal vs Ivory Coast",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Senegal%20vs%20Ivory%20Coast",
-      "pubdate": "Tue, 30 Jan 2024 08:00:00 +0800"
     }
   ]
 }
