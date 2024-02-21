@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-02-2024 , 09:39:33",
+  "lastUpdate": "21-02-2024 , 09:46:39",
   "data": [
     {
       "title": "Nvidia",
@@ -25,11 +25,6 @@
       "title": "Baumgart",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Baumgart",
       "pubdate": "Tue, 20 Feb 2024 07:00:00 +0100"
-    },
-    {
-      "title": "Inter Mailand",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Inter%20Mailand",
-      "pubdate": "Tue, 20 Feb 2024 18:00:00 +0100"
     },
     {
       "title": "Martin Scorsese",
@@ -100,6 +95,11 @@
       "title": "Hertha BSC",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hertha%20BSC",
       "pubdate": "Fri, 16 Feb 2024 19:00:00 +0100"
+    },
+    {
+      "title": "Wiesbaden",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Wiesbaden",
+      "pubdate": "Fri, 16 Feb 2024 22:00:00 +0100"
     }
   ]
 }
