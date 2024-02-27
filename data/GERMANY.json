@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27-02-2024 , 03:47:30",
+  "lastUpdate": "27-02-2024 , 03:54:28",
   "data": [
     {
       "title": "Cholera",
@@ -42,11 +42,6 @@
       "pubdate": "Mon, 26 Feb 2024 20:00:00 +0100"
     },
     {
-      "title": "BVB",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#BVB",
-      "pubdate": "Sun, 25 Feb 2024 19:00:00 +0100"
-    },
-    {
       "title": "Streik ÖPNV",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Streik%20%C3%96PNV",
       "pubdate": "Sun, 25 Feb 2024 21:00:00 +0100"
@@ -55,6 +50,11 @@
       "title": "Hertha BSC",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hertha%20BSC",
       "pubdate": "Sun, 25 Feb 2024 01:00:00 +0100"
+    },
+    {
+      "title": "Xiaomi 14 Ultra",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Xiaomi%2014%20Ultra",
+      "pubdate": "Sun, 25 Feb 2024 20:00:00 +0100"
     },
     {
       "title": "Mathias Mester",
@@ -67,11 +67,6 @@
       "pubdate": "Sun, 25 Feb 2024 22:00:00 +0100"
     },
     {
-      "title": "Xiaomi 14",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Xiaomi%2014",
-      "pubdate": "Sun, 25 Feb 2024 20:00:00 +0100"
-    },
-    {
       "title": "The Zone of Interest",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#The%20Zone%20of%20Interest",
       "pubdate": "Sat, 24 Feb 2024 09:00:00 +0100"
@@ -80,11 +75,6 @@
       "title": "Roland Kaiser",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Roland%20Kaiser",
       "pubdate": "Fri, 23 Feb 2024 18:00:00 +0100"
-    },
-    {
-      "title": "Eintracht Frankfurt",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Eintracht%20Frankfurt",
-      "pubdate": "Fri, 23 Feb 2024 02:00:00 +0100"
     },
     {
       "title": "Cannabis",
@@ -97,9 +87,19 @@
       "pubdate": "Fri, 23 Feb 2024 09:00:00 +0100"
     },
     {
+      "title": "Frankfurt Eintracht",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Frankfurt%20Eintracht",
+      "pubdate": "Fri, 23 Feb 2024 02:00:00 +0100"
+    },
+    {
       "title": "Venezuela",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Venezuela",
       "pubdate": "Fri, 23 Feb 2024 22:00:00 +0100"
+    },
+    {
+      "title": "Wuppertal",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Wuppertal",
+      "pubdate": "Thu, 22 Feb 2024 12:00:00 +0100"
     }
   ]
 }
