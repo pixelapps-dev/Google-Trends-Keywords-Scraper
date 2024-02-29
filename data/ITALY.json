@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "29-02-2024 , 23:49:03",
+  "lastUpdate": "29-02-2024 , 23:56:00",
   "data": [
+    {
+      "title": "Helen Mirren",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Helen%20Mirren",
+      "pubdate": "Fri, 01 Mar 2024 00:00:00 +0100"
+    },
     {
       "title": "Anno bisestile 2024",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Anno%20bisestile%202024",
@@ -72,6 +77,11 @@
       "pubdate": "Thu, 29 Feb 2024 19:00:00 +0100"
     },
     {
+      "title": "Andreas Caminada",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Andreas%20Caminada",
+      "pubdate": "Thu, 29 Feb 2024 22:00:00 +0100"
+    },
+    {
       "title": "Re Carlo",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Re%20Carlo",
       "pubdate": "Thu, 29 Feb 2024 14:00:00 +0100"
@@ -89,16 +99,6 @@
     {
       "title": "Classifica marcatori Serie a",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Classifica%20marcatori%20Serie%20a",
-      "pubdate": "Thu, 29 Feb 2024 01:00:00 +0100"
-    },
-    {
-      "title": "Partite di Serie a",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Partite%20di%20Serie%20a",
-      "pubdate": "Thu, 29 Feb 2024 00:00:00 +0100"
-    },
-    {
-      "title": "Magalli",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Magalli",
       "pubdate": "Thu, 29 Feb 2024 01:00:00 +0100"
     }
   ]

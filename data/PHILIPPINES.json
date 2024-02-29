@@ -1,15 +1,20 @@
 {
-  "lastUpdate": "29-02-2024 , 23:49:05",
+  "lastUpdate": "29-02-2024 , 23:56:02",
   "data": [
     {
-      "title": "Tyrese Haliburton",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Tyrese%20Haliburton",
-      "pubdate": "Fri, 01 Mar 2024 00:00:00 +0800"
+      "title": "F1",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#F1",
+      "pubdate": "Fri, 01 Mar 2024 07:00:00 +0800"
     },
     {
       "title": "Shohei Ohtani",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Shohei%20Ohtani",
       "pubdate": "Fri, 01 Mar 2024 03:00:00 +0800"
+    },
+    {
+      "title": "Tyrese Haliburton",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Tyrese%20Haliburton",
+      "pubdate": "Fri, 01 Mar 2024 00:00:00 +0800"
     },
     {
       "title": "Women's Month",
@@ -20,6 +25,11 @@
       "title": "March",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#March",
       "pubdate": "Fri, 01 Mar 2024 06:00:00 +0800"
+    },
+    {
+      "title": "Chocobo",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Chocobo",
+      "pubdate": "Fri, 01 Mar 2024 07:00:00 +0800"
     },
     {
       "title": "Clippers vs Lakers",
@@ -62,11 +72,6 @@
       "pubdate": "Thu, 29 Feb 2024 12:00:00 +0800"
     },
     {
-      "title": "Krispy Kreme",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Krispy%20Kreme",
-      "pubdate": "Thu, 29 Feb 2024 15:00:00 +0800"
-    },
-    {
       "title": "Taylor Swift Singapore",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Taylor%20Swift%20Singapore",
       "pubdate": "Thu, 29 Feb 2024 10:00:00 +0800"
@@ -95,11 +100,6 @@
       "title": "Earthquake. Today",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Earthquake.%20Today",
       "pubdate": "Thu, 29 Feb 2024 09:00:00 +0800"
-    },
-    {
-      "title": "Sonic",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Sonic",
-      "pubdate": "Thu, 29 Feb 2024 00:00:00 +0800"
     }
   ]
 }

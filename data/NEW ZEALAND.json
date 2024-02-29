@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29-02-2024 , 23:49:04",
+  "lastUpdate": "29-02-2024 , 23:56:01",
   "data": [
     {
       "title": "TVNZ",
@@ -22,14 +22,14 @@
       "pubdate": "Fri, 01 Mar 2024 06:00:00 +1300"
     },
     {
-      "title": "ICC",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#ICC",
-      "pubdate": "Fri, 01 Mar 2024 06:00:00 +1300"
-    },
-    {
       "title": "Dave Myers",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Dave%20Myers",
       "pubdate": "Fri, 01 Mar 2024 10:00:00 +1300"
+    },
+    {
+      "title": "ICC",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#ICC",
+      "pubdate": "Fri, 01 Mar 2024 06:00:00 +1300"
     },
     {
       "title": "Leap day 2024",
@@ -72,11 +72,6 @@
       "pubdate": "Thu, 29 Feb 2024 17:00:00 +1300"
     },
     {
-      "title": "Leap year",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Leap%20year",
-      "pubdate": "Thu, 29 Feb 2024 01:00:00 +1300"
-    },
-    {
       "title": "NZ cricket",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#NZ%20cricket",
       "pubdate": "Thu, 29 Feb 2024 23:00:00 +1300"
@@ -100,6 +95,11 @@
       "title": "NZ Open",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#NZ%20Open",
       "pubdate": "Thu, 29 Feb 2024 11:00:00 +1300"
+    },
+    {
+      "title": "Earthquake",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Earthquake",
+      "pubdate": "Thu, 29 Feb 2024 07:00:00 +1300"
     }
   ]
 }

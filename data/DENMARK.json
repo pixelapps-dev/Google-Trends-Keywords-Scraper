@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29-02-2024 , 23:49:00",
+  "lastUpdate": "29-02-2024 , 23:55:57",
   "data": [
     {
       "title": "Leap day 2024",
@@ -47,19 +47,24 @@
       "pubdate": "Thu, 29 Feb 2024 00:00:00 +0100"
     },
     {
-      "title": "Green Hydrogen Systems",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Green%20Hydrogen%20Systems",
-      "pubdate": "Thu, 29 Feb 2024 14:00:00 +0100"
-    },
-    {
       "title": "DSV",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#DSV",
       "pubdate": "Thu, 29 Feb 2024 23:00:00 +0100"
     },
     {
+      "title": "Green Hydrogen Systems",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Green%20Hydrogen%20Systems",
+      "pubdate": "Thu, 29 Feb 2024 14:00:00 +0100"
+    },
+    {
       "title": "Drea de Matteo",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Drea%20de%20Matteo",
       "pubdate": "Thu, 29 Feb 2024 10:00:00 +0100"
+    },
+    {
+      "title": "Freddie Mercury",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Freddie%20Mercury",
+      "pubdate": "Thu, 29 Feb 2024 11:00:00 +0100"
     },
     {
       "title": "Nottingham Forest  Man utd",
@@ -95,11 +100,6 @@
       "title": "Alchemist",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Alchemist",
       "pubdate": "Wed, 28 Feb 2024 12:00:00 +0100"
-    },
-    {
-      "title": "Gary Sinise",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Gary%20Sinise",
-      "pubdate": "Wed, 28 Feb 2024 00:00:00 +0100"
     }
   ]
 }

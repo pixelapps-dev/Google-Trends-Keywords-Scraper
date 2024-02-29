@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "29-02-2024 , 23:48:58",
+  "lastUpdate": "29-02-2024 , 23:55:55",
   "data": [
+    {
+      "title": "Atletico Madrid",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Atletico%20Madrid",
+      "pubdate": "Fri, 01 Mar 2024 00:00:00 +0100"
+    },
     {
       "title": "Josef Fritzl",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Josef%20Fritzl",
@@ -87,19 +92,14 @@
       "pubdate": "Thu, 29 Feb 2024 18:00:00 +0100"
     },
     {
-      "title": "Biathlon heute",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Biathlon%20heute",
-      "pubdate": "Thu, 29 Feb 2024 16:00:00 +0100"
-    },
-    {
       "title": "Lena Gercke",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Lena%20Gercke",
       "pubdate": "Thu, 29 Feb 2024 18:00:00 +0100"
     },
     {
-      "title": "Adele",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Adele",
-      "pubdate": "Thu, 29 Feb 2024 04:00:00 +0100"
+      "title": "Biathlon heute",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Biathlon%20heute",
+      "pubdate": "Thu, 29 Feb 2024 16:00:00 +0100"
     }
   ]
 }

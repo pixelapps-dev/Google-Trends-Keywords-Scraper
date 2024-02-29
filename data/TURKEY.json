@@ -1,11 +1,6 @@
 {
-  "lastUpdate": "29-02-2024 , 23:49:08",
+  "lastUpdate": "29-02-2024 , 23:56:05",
   "data": [
-    {
-      "title": "Spotify Şarkı Falı",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Spotify%20%C5%9Eark%C4%B1%20Fal%C4%B1",
-      "pubdate": "Fri, 01 Mar 2024 00:00:00 +0300"
-    },
     {
       "title": "Feyenoord",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Feyenoord",
@@ -34,7 +29,7 @@
     {
       "title": "Bitcoin",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Bitcoin",
-      "pubdate": "Thu, 29 Feb 2024 11:00:00 +0300"
+      "pubdate": "Thu, 29 Feb 2024 16:00:00 +0300"
     },
     {
       "title": "Pogba",
@@ -42,14 +37,14 @@
       "pubdate": "Thu, 29 Feb 2024 16:00:00 +0300"
     },
     {
-      "title": "Belçim Bilgin",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Bel%C3%A7im%20Bilgin",
-      "pubdate": "Thu, 29 Feb 2024 00:00:00 +0300"
-    },
-    {
       "title": "EuroLeague",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#EuroLeague",
       "pubdate": "Thu, 29 Feb 2024 01:00:00 +0300"
+    },
+    {
+      "title": "Belçim Bilgin",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Bel%C3%A7im%20Bilgin",
+      "pubdate": "Thu, 29 Feb 2024 00:00:00 +0300"
     },
     {
       "title": "Manchester United",
@@ -100,6 +95,11 @@
       "title": "Serie A",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Serie%20A",
       "pubdate": "Thu, 29 Feb 2024 12:00:00 +0300"
+    },
+    {
+      "title": "Aldatmak",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Aldatmak",
+      "pubdate": "Thu, 29 Feb 2024 21:00:00 +0300"
     }
   ]
 }
