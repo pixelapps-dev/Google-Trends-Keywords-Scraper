@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-03-2024 , 17:29:12",
+  "lastUpdate": "06-03-2024 , 17:36:34",
   "data": [
     {
       "title": "California election results",
@@ -15,6 +15,11 @@
       "title": "California primary results",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#California%20primary%20results",
       "pubdate": "Wed, 06 Mar 2024 07:00:00 -0800"
+    },
+    {
+      "title": "Texas election results",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Texas%20election%20results",
+      "pubdate": "Wed, 06 Mar 2024 08:00:00 -0800"
     },
     {
       "title": "Facebook",
@@ -52,6 +57,11 @@
       "pubdate": "Tue, 05 Mar 2024 16:00:00 -0800"
     },
     {
+      "title": "Suns",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Suns",
+      "pubdate": "Tue, 05 Mar 2024 21:00:00 -0800"
+    },
+    {
       "title": "Kyrsten Sinema",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Kyrsten%20Sinema",
       "pubdate": "Tue, 05 Mar 2024 13:00:00 -0800"
@@ -62,19 +72,9 @@
       "pubdate": "Tue, 05 Mar 2024 10:00:00 -0800"
     },
     {
-      "title": "Suns",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Suns",
-      "pubdate": "Tue, 05 Mar 2024 21:00:00 -0800"
-    },
-    {
       "title": "UEFA Champions League",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#UEFA%20Champions%20League",
       "pubdate": "Tue, 05 Mar 2024 07:00:00 -0800"
-    },
-    {
-      "title": "American Samoa",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#American%20Samoa",
-      "pubdate": "Tue, 05 Mar 2024 20:00:00 -0800"
     },
     {
       "title": "Election Day 2024",
