@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-04-2024 , 22:22:35",
+  "lastUpdate": "02-04-2024 , 22:30:52",
   "data": [
     {
       "title": "Cupa Romaniei",
@@ -17,6 +17,11 @@
       "pubdate": "Tue, 02 Apr 2024 19:00:00 +0300"
     },
     {
+      "title": "Cristi Pascu",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Cristi%20Pascu",
+      "pubdate": "Tue, 02 Apr 2024 16:00:00 +0300"
+    },
+    {
       "title": "Carmen Trandafir",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Carmen%20Trandafir",
       "pubdate": "Tue, 02 Apr 2024 09:00:00 +0300"
@@ -27,24 +32,19 @@
       "pubdate": "Tue, 02 Apr 2024 18:00:00 +0300"
     },
     {
-      "title": "Cristi Pascu",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Cristi%20Pascu",
-      "pubdate": "Tue, 02 Apr 2024 16:00:00 +0300"
-    },
-    {
       "title": "Incendiu Iasi",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Incendiu%20Iasi",
       "pubdate": "Tue, 02 Apr 2024 01:00:00 +0300"
     },
     {
-      "title": "Otilia Bilionera!",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Otilia%20Bilionera!",
-      "pubdate": "Tue, 02 Apr 2024 22:00:00 +0300"
-    },
-    {
       "title": "Tatarstan",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Tatarstan",
       "pubdate": "Tue, 02 Apr 2024 15:00:00 +0300"
+    },
+    {
+      "title": "Otilia Bilionera!",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Otilia%20Bilionera!",
+      "pubdate": "Tue, 02 Apr 2024 22:00:00 +0300"
     },
     {
       "title": "Ana Bogdan",
@@ -60,6 +60,11 @@
       "title": "Aura Urziceanu",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Aura%20Urziceanu",
       "pubdate": "Tue, 02 Apr 2024 10:00:00 +0300"
+    },
+    {
+      "title": "Horoscop 2 aprilie 2024",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Horoscop%202%20aprilie%202024",
+      "pubdate": "Tue, 02 Apr 2024 08:00:00 +0300"
     },
     {
       "title": "Analia Selis",
@@ -95,11 +100,6 @@
       "title": "Cod portocaliu",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Cod%20portocaliu",
       "pubdate": "Mon, 01 Apr 2024 23:00:00 +0300"
-    },
-    {
-      "title": "Greva posta romana",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Greva%20posta%20romana",
-      "pubdate": "Mon, 01 Apr 2024 11:00:00 +0300"
     }
   ]
 }

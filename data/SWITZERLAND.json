@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-04-2024 , 22:22:36",
+  "lastUpdate": "02-04-2024 , 22:30:53",
   "data": [
     {
       "title": "Super League",
@@ -17,19 +17,19 @@
       "pubdate": "Tue, 02 Apr 2024 11:00:00 +0200"
     },
     {
-      "title": "Challenge League",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Challenge%20League",
+      "title": "FC Sion",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20Sion",
       "pubdate": "Tue, 02 Apr 2024 01:00:00 +0200"
-    },
-    {
-      "title": "Lugano gegen FCB",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Lugano%20gegen%20FCB",
-      "pubdate": "Tue, 02 Apr 2024 19:00:00 +0200"
     },
     {
       "title": "Steffi Graf",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Steffi%20Graf",
       "pubdate": "Tue, 02 Apr 2024 16:00:00 +0200"
+    },
+    {
+      "title": "Lugano gegen FCB",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Lugano%20gegen%20FCB",
+      "pubdate": "Tue, 02 Apr 2024 19:00:00 +0200"
     },
     {
       "title": "Benfica",
@@ -42,13 +42,23 @@
       "pubdate": "Tue, 02 Apr 2024 07:00:00 +0200"
     },
     {
+      "title": "Sarah Regez",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Sarah%20Regez",
+      "pubdate": "Tue, 02 Apr 2024 17:00:00 +0200"
+    },
+    {
       "title": "Sierre-Zinal",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Sierre-Zinal",
       "pubdate": "Tue, 02 Apr 2024 09:00:00 +0200"
     },
     {
-      "title": "Sarah Regez",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Sarah%20Regez",
+      "title": "Coppa Italia",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Coppa%20Italia",
+      "pubdate": "Tue, 02 Apr 2024 17:00:00 +0200"
+    },
+    {
+      "title": "Shannen Doherty",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Shannen%20Doherty",
       "pubdate": "Tue, 02 Apr 2024 17:00:00 +0200"
     },
     {
@@ -57,14 +67,9 @@
       "pubdate": "Tue, 02 Apr 2024 16:00:00 +0200"
     },
     {
-      "title": "Shannen Doherty",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Shannen%20Doherty",
-      "pubdate": "Tue, 02 Apr 2024 17:00:00 +0200"
-    },
-    {
-      "title": "Coppa Italia",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Coppa%20Italia",
-      "pubdate": "Tue, 02 Apr 2024 17:00:00 +0200"
+      "title": "Galatasaray",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Galatasaray",
+      "pubdate": "Tue, 02 Apr 2024 16:00:00 +0200"
     },
     {
       "title": "Juventus",
@@ -77,19 +82,14 @@
       "pubdate": "Tue, 02 Apr 2024 11:00:00 +0200"
     },
     {
-      "title": "Galatasaray",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Galatasaray",
-      "pubdate": "Tue, 02 Apr 2024 16:00:00 +0200"
+      "title": "Beat Jans",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Beat%20Jans",
+      "pubdate": "Tue, 02 Apr 2024 17:00:00 +0200"
     },
     {
       "title": "Dagsmejan",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Dagsmejan",
       "pubdate": "Tue, 02 Apr 2024 07:00:00 +0200"
-    },
-    {
-      "title": "Beat Jans",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Beat%20Jans",
-      "pubdate": "Tue, 02 Apr 2024 17:00:00 +0200"
     },
     {
       "title": "Sion – Xamax",

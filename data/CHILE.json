@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-04-2024 , 22:22:28",
+  "lastUpdate": "02-04-2024 , 22:30:45",
   "data": [
     {
       "title": "Hunter Schafer",
@@ -27,11 +27,6 @@
       "pubdate": "Tue, 02 Apr 2024 17:00:00 -0300"
     },
     {
-      "title": "Papi Micky",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Papi%20Micky",
-      "pubdate": "Tue, 02 Apr 2024 12:00:00 -0300"
-    },
-    {
       "title": "TEA",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#TEA",
       "pubdate": "Tue, 02 Apr 2024 09:00:00 -0300"
@@ -42,9 +37,9 @@
       "pubdate": "Tue, 02 Apr 2024 17:00:00 -0300"
     },
     {
-      "title": "Colo Colo vs Cerro Porteño",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Colo%20Colo%20vs%20Cerro%20Porte%C3%B1o",
-      "pubdate": "Tue, 02 Apr 2024 01:00:00 -0300"
+      "title": "Copa Libertadores 2024",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Copa%20Libertadores%202024",
+      "pubdate": "Tue, 02 Apr 2024 08:00:00 -0300"
     },
     {
       "title": "Sergio fernandez",
@@ -87,6 +82,11 @@
       "pubdate": "Mon, 01 Apr 2024 08:00:00 -0300"
     },
     {
+      "title": "Copa Libertadores",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Copa%20Libertadores",
+      "pubdate": "Mon, 01 Apr 2024 19:00:00 -0300"
+    },
+    {
       "title": "Garin",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Garin",
       "pubdate": "Mon, 01 Apr 2024 17:00:00 -0300"
@@ -97,9 +97,9 @@
       "pubdate": "Mon, 01 Apr 2024 12:00:00 -0300"
     },
     {
-      "title": "Copa Libertadores",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Copa%20Libertadores",
-      "pubdate": "Mon, 01 Apr 2024 19:00:00 -0300"
+      "title": "Autismo",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Autismo",
+      "pubdate": "Mon, 01 Apr 2024 16:00:00 -0300"
     }
   ]
 }
