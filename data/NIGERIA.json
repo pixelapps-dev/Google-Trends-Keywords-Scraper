@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "09-04-2024 , 15:56:35",
+  "lastUpdate": "09-04-2024 , 16:05:03",
   "data": [
+    {
+      "title": "Daso",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Daso",
+      "pubdate": "Tue, 09 Apr 2024 15:00:00 +0100"
+    },
     {
       "title": "BBC news",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#BBC%20news",
@@ -37,11 +42,6 @@
       "pubdate": "Tue, 09 Apr 2024 12:00:00 +0100"
     },
     {
-      "title": "Eid al-Fitr",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Eid%20al-Fitr",
-      "pubdate": "Tue, 09 Apr 2024 10:00:00 +0100"
-    },
-    {
       "title": "Al-Hilal vs Al-Nassr",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Al-Hilal%20vs%20Al-Nassr",
       "pubdate": "Mon, 08 Apr 2024 20:00:00 +0100"
@@ -52,19 +52,14 @@
       "pubdate": "Mon, 08 Apr 2024 03:00:00 +0100"
     },
     {
-      "title": "Moon sighting in Saudi Arabia",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Moon%20sighting%20in%20Saudi%20Arabia",
-      "pubdate": "Mon, 08 Apr 2024 09:00:00 +0100"
-    },
-    {
       "title": "Champions League",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Champions%20League",
       "pubdate": "Mon, 08 Apr 2024 16:00:00 +0100"
     },
     {
-      "title": "Udinese Vs Inter",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Udinese%20Vs%20Inter",
-      "pubdate": "Mon, 08 Apr 2024 20:00:00 +0100"
+      "title": "Ramadan",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Ramadan",
+      "pubdate": "Mon, 08 Apr 2024 17:00:00 +0100"
     },
     {
       "title": "Real Madrid vs Man City",
@@ -72,14 +67,24 @@
       "pubdate": "Mon, 08 Apr 2024 17:00:00 +0100"
     },
     {
-      "title": "Ankle",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Ankle",
-      "pubdate": "Mon, 08 Apr 2024 09:00:00 +0100"
+      "title": "Udinese Vs Inter",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Udinese%20Vs%20Inter",
+      "pubdate": "Mon, 08 Apr 2024 20:00:00 +0100"
     },
     {
       "title": "Arsenal vs Bayern",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Arsenal%20vs%20Bayern",
       "pubdate": "Mon, 08 Apr 2024 19:00:00 +0100"
+    },
+    {
+      "title": "Ankle",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Ankle",
+      "pubdate": "Mon, 08 Apr 2024 09:00:00 +0100"
+    },
+    {
+      "title": "Champions League fixtures",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Champions%20League%20fixtures",
+      "pubdate": "Mon, 08 Apr 2024 21:00:00 +0100"
     },
     {
       "title": "Eclipse meaning",
@@ -92,14 +97,9 @@
       "pubdate": "Mon, 08 Apr 2024 15:00:00 +0100"
     },
     {
-      "title": "Ramadan 2024",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Ramadan%202024",
-      "pubdate": "Mon, 08 Apr 2024 14:00:00 +0100"
-    },
-    {
-      "title": "Ramadan",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Ramadan",
-      "pubdate": "Mon, 08 Apr 2024 21:00:00 +0100"
+      "title": "UCL",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#UCL",
+      "pubdate": "Mon, 08 Apr 2024 15:00:00 +0100"
     }
   ]
 }
