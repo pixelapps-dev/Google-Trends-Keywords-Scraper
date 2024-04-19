@@ -1,14 +1,9 @@
 {
-  "lastUpdate": "19-04-2024 , 01:37:20",
+  "lastUpdate": "19-04-2024 , 01:59:28",
   "data": [
     {
       "title": "Joosje Duk",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Joosje%20Duk",
-      "pubdate": "Fri, 19 Apr 2024 00:00:00 +0200"
-    },
-    {
-      "title": "Dennis Heijn",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Dennis%20Heijn",
       "pubdate": "Fri, 19 Apr 2024 00:00:00 +0200"
     },
     {
@@ -82,11 +77,6 @@
       "pubdate": "Sun, 14 Apr 2024 20:00:00 +0200"
     },
     {
-      "title": "Marathon",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Marathon",
-      "pubdate": "Sun, 14 Apr 2024 12:00:00 +0200"
-    },
-    {
       "title": "Heracles",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Heracles",
       "pubdate": "Sun, 14 Apr 2024 19:00:00 +0200"
@@ -97,9 +87,19 @@
       "pubdate": "Sun, 14 Apr 2024 18:00:00 +0200"
     },
     {
+      "title": "Marathon",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Marathon",
+      "pubdate": "Sun, 14 Apr 2024 12:00:00 +0200"
+    },
+    {
       "title": "Iran",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Iran",
       "pubdate": "Sat, 13 Apr 2024 23:00:00 +0200"
+    },
+    {
+      "title": "Vitesse",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Vitesse",
+      "pubdate": "Sat, 13 Apr 2024 19:00:00 +0200"
     }
   ]
 }
