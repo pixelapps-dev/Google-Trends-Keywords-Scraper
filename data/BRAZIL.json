@@ -1,11 +1,6 @@
 {
-  "lastUpdate": "14-05-2024 , 07:53:19",
+  "lastUpdate": "14-05-2024 , 08:00:07",
   "data": [
-    {
-      "title": "Resumo de Renascer",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Resumo%20de%20Renascer",
-      "pubdate": "Tue, 14 May 2024 00:00:00 -0500"
-    },
     {
       "title": "Zubeldia",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Zubeldia",
@@ -15,6 +10,16 @@
       "title": "Petrobras",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Petrobras",
       "pubdate": "Tue, 14 May 2024 00:00:00 -0500"
+    },
+    {
+      "title": "Resumo de Renascer",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Resumo%20de%20Renascer",
+      "pubdate": "Tue, 14 May 2024 00:00:00 -0500"
+    },
+    {
+      "title": "David Sanborn",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#David%20Sanborn",
+      "pubdate": "Tue, 14 May 2024 01:00:00 -0500"
     },
     {
       "title": "Aston Villa x Liverpool",
@@ -27,14 +32,29 @@
       "pubdate": "Mon, 13 May 2024 12:00:00 -0500"
     },
     {
+      "title": "Enem",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Enem",
+      "pubdate": "Mon, 13 May 2024 10:00:00 -0500"
+    },
+    {
       "title": "Barcelona",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Barcelona",
       "pubdate": "Mon, 13 May 2024 12:00:00 -0500"
     },
     {
-      "title": "Enem) 2024",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Enem)%202024",
-      "pubdate": "Mon, 13 May 2024 11:00:00 -0500"
+      "title": "Fiorentina",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Fiorentina",
+      "pubdate": "Mon, 13 May 2024 09:00:00 -0500"
+    },
+    {
+      "title": "Remo",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Remo",
+      "pubdate": "Mon, 13 May 2024 16:00:00 -0500"
+    },
+    {
+      "title": "Jogo do vitória",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Jogo%20do%20vit%C3%B3ria",
+      "pubdate": "Mon, 13 May 2024 16:00:00 -0500"
     },
     {
       "title": "Tremor de terra em Caxias do Sul",
@@ -47,34 +67,9 @@
       "pubdate": "Mon, 13 May 2024 16:00:00 -0500"
     },
     {
-      "title": "Juliana Didone",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Juliana%20Didone",
-      "pubdate": "Mon, 13 May 2024 11:00:00 -0500"
-    },
-    {
       "title": "Lumena",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Lumena",
       "pubdate": "Mon, 13 May 2024 08:00:00 -0500"
-    },
-    {
-      "title": "Demissexual",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Demissexual",
-      "pubdate": "Mon, 13 May 2024 16:00:00 -0500"
-    },
-    {
-      "title": "William Bonner",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#William%20Bonner",
-      "pubdate": "Mon, 13 May 2024 20:00:00 -0500"
-    },
-    {
-      "title": "Joy-O Nome do Sucesso",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Joy-O%20Nome%20do%20Sucesso",
-      "pubdate": "Mon, 13 May 2024 15:00:00 -0500"
-    },
-    {
-      "title": "Alessandra Negrini",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Alessandra%20Negrini",
-      "pubdate": "Mon, 13 May 2024 01:00:00 -0500"
     },
     {
       "title": "Aparecidense",
@@ -97,9 +92,14 @@
       "pubdate": "Mon, 13 May 2024 11:00:00 -0500"
     },
     {
-      "title": "Apas Show",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Apas%20Show",
+      "title": "APAS Show",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#APAS%20Show",
       "pubdate": "Mon, 13 May 2024 14:00:00 -0500"
+    },
+    {
+      "title": "Concurso Caixa",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Concurso%20Caixa",
+      "pubdate": "Mon, 13 May 2024 12:00:00 -0500"
     }
   ]
 }

@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "14-05-2024 , 07:53:30",
+  "lastUpdate": "14-05-2024 , 08:00:14",
   "data": [
+    {
+      "title": "FC Barcelona",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20Barcelona",
+      "pubdate": "Tue, 14 May 2024 09:00:00 +0200"
+    },
     {
       "title": "Dune",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Dune",
@@ -17,14 +22,49 @@
       "pubdate": "Tue, 14 May 2024 00:00:00 +0200"
     },
     {
-      "title": "Ligue 1",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Ligue%201",
-      "pubdate": "Mon, 13 May 2024 11:00:00 +0200"
+      "title": "Fiala Kevin",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Fiala%20Kevin",
+      "pubdate": "Tue, 14 May 2024 00:00:00 +0200"
+    },
+    {
+      "title": "Alain Sarde",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Alain%20Sarde",
+      "pubdate": "Tue, 14 May 2024 09:00:00 +0200"
+    },
+    {
+      "title": "David Sanborn",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#David%20Sanborn",
+      "pubdate": "Tue, 14 May 2024 08:00:00 +0200"
+    },
+    {
+      "title": "iOS 17.5",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#iOS%2017.5",
+      "pubdate": "Tue, 14 May 2024 09:00:00 +0200"
+    },
+    {
+      "title": "Michael Cohen",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Michael%20Cohen",
+      "pubdate": "Tue, 14 May 2024 09:00:00 +0200"
+    },
+    {
+      "title": "AfD",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#AfD",
+      "pubdate": "Tue, 14 May 2024 09:00:00 +0200"
     },
     {
       "title": "OpenAI",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#OpenAI",
       "pubdate": "Mon, 13 May 2024 21:00:00 +0200"
+    },
+    {
+      "title": "Ligue 1",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Ligue%201",
+      "pubdate": "Mon, 13 May 2024 11:00:00 +0200"
+    },
+    {
+      "title": "GameStop-Aktie",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#GameStop-Aktie",
+      "pubdate": "Mon, 13 May 2024 18:00:00 +0200"
     },
     {
       "title": "Liverpool",
@@ -37,9 +77,9 @@
       "pubdate": "Mon, 13 May 2024 21:00:00 +0200"
     },
     {
-      "title": "GameStop-Aktie",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#GameStop-Aktie",
-      "pubdate": "Mon, 13 May 2024 18:00:00 +0200"
+      "title": "Reto Suri",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Reto%20Suri",
+      "pubdate": "Mon, 13 May 2024 21:00:00 +0200"
     },
     {
       "title": "Aston Villa gegen Liverpool",
@@ -60,46 +100,6 @@
       "title": "Uni Bern",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Uni%20Bern",
       "pubdate": "Mon, 13 May 2024 12:00:00 +0200"
-    },
-    {
-      "title": "Sumatra",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Sumatra",
-      "pubdate": "Mon, 13 May 2024 17:00:00 +0200"
-    },
-    {
-      "title": "WM Eishockey 2024",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#WM%20Eishockey%202024",
-      "pubdate": "Mon, 13 May 2024 13:00:00 +0200"
-    },
-    {
-      "title": "Friedrich Merz",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Friedrich%20Merz",
-      "pubdate": "Mon, 13 May 2024 00:00:00 +0200"
-    },
-    {
-      "title": "Klaus Otto Nagorsnik",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Klaus%20Otto%20Nagorsnik",
-      "pubdate": "Mon, 13 May 2024 20:00:00 +0200"
-    },
-    {
-      "title": "Kurashev",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Kurashev",
-      "pubdate": "Mon, 13 May 2024 22:00:00 +0200"
-    },
-    {
-      "title": "Pfingstmontag",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Pfingstmontag",
-      "pubdate": "Mon, 13 May 2024 08:00:00 +0200"
-    },
-    {
-      "title": "OM",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#OM",
-      "pubdate": "Mon, 13 May 2024 00:00:00 +0200"
-    },
-    {
-      "title": "Andy Roddick",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Andy%20Roddick",
-      "pubdate": "Mon, 13 May 2024 08:00:00 +0200"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14-05-2024 , 07:53:25",
+  "lastUpdate": "14-05-2024 , 08:00:10",
   "data": [
     {
       "title": "ברצלונה",
@@ -7,13 +7,28 @@
       "pubdate": "Tue, 14 May 2024 01:00:00 +0300"
     },
     {
+      "title": "מתי כספי",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%9E%D7%AA%D7%99%20%D7%9B%D7%A1%D7%A4%D7%99",
+      "pubdate": "Tue, 14 May 2024 02:00:00 +0300"
+    },
+    {
+      "title": "קופה ראשית",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%A7%D7%95%D7%A4%D7%94%20%D7%A8%D7%90%D7%A9%D7%99%D7%AA",
+      "pubdate": "Tue, 14 May 2024 00:00:00 +0300"
+    },
+    {
       "title": "ליברפול",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%9C%D7%99%D7%91%D7%A8%D7%A4%D7%95%D7%9C",
       "pubdate": "Tue, 14 May 2024 01:00:00 +0300"
     },
     {
-      "title": "מתי כספי",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%9E%D7%AA%D7%99%20%D7%9B%D7%A1%D7%A4%D7%99",
+      "title": "רשף לוי",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%A8%D7%A9%D7%A3%20%D7%9C%D7%95%D7%99",
+      "pubdate": "Tue, 14 May 2024 00:00:00 +0300"
+    },
+    {
+      "title": "ספריי שלג",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%A1%D7%A4%D7%A8%D7%99%D7%99%20%D7%A9%D7%9C%D7%92",
       "pubdate": "Tue, 14 May 2024 02:00:00 +0300"
     },
     {
@@ -27,14 +42,14 @@
       "pubdate": "Mon, 13 May 2024 15:00:00 +0300"
     },
     {
-      "title": "טקס כיבוי משואות",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%98%D7%A7%D7%A1%20%D7%9B%D7%99%D7%91%D7%95%D7%99%20%D7%9E%D7%A9%D7%95%D7%90%D7%95%D7%AA",
-      "pubdate": "Mon, 13 May 2024 17:00:00 +0300"
-    },
-    {
       "title": "מגי טביבי",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%9E%D7%92%D7%99%20%D7%98%D7%91%D7%99%D7%91%D7%99",
       "pubdate": "Mon, 13 May 2024 20:00:00 +0300"
+    },
+    {
+      "title": "במות יום העצמאות 2024",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%91%D7%9E%D7%95%D7%AA%20%D7%99%D7%95%D7%9D%20%D7%94%D7%A2%D7%A6%D7%9E%D7%90%D7%95%D7%AA%202024",
+      "pubdate": "Mon, 13 May 2024 18:00:00 +0300"
     },
     {
       "title": "אורן זמיר",
@@ -47,9 +62,9 @@
       "pubdate": "Mon, 13 May 2024 01:00:00 +0300"
     },
     {
-      "title": "יעל לייבושור",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%99%D7%A2%D7%9C%20%D7%9C%D7%99%D7%99%D7%91%D7%95%D7%A9%D7%95%D7%A8",
-      "pubdate": "Mon, 13 May 2024 01:00:00 +0300"
+      "title": "יוסף חדאד",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%99%D7%95%D7%A1%D7%A3%20%D7%97%D7%93%D7%90%D7%93",
+      "pubdate": "Mon, 13 May 2024 22:00:00 +0300"
     },
     {
       "title": "שרה נתניהו",
@@ -67,6 +82,11 @@
       "pubdate": "Mon, 13 May 2024 21:00:00 +0300"
     },
     {
+      "title": "OpenAI",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#OpenAI",
+      "pubdate": "Mon, 13 May 2024 23:00:00 +0300"
+    },
+    {
       "title": "עמית בן יגאל",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%A2%D7%9E%D7%99%D7%AA%20%D7%91%D7%9F%20%D7%99%D7%92%D7%90%D7%9C",
       "pubdate": "Mon, 13 May 2024 01:00:00 +0300"
@@ -77,29 +97,9 @@
       "pubdate": "Mon, 13 May 2024 11:00:00 +0300"
     },
     {
-      "title": "OpenAI",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#OpenAI",
-      "pubdate": "Mon, 13 May 2024 23:00:00 +0300"
-    },
-    {
       "title": "עידן עמדי",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%A2%D7%99%D7%93%D7%9F%20%D7%A2%D7%9E%D7%93%D7%99",
       "pubdate": "Mon, 13 May 2024 09:00:00 +0300"
-    },
-    {
-      "title": "גיא אילוז",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%92%D7%99%D7%90%20%D7%90%D7%99%D7%9C%D7%95%D7%96",
-      "pubdate": "Mon, 13 May 2024 15:00:00 +0300"
-    },
-    {
-      "title": "יפתח יעבץ",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%99%D7%A4%D7%AA%D7%97%20%D7%99%D7%A2%D7%91%D7%A5",
-      "pubdate": "Mon, 13 May 2024 10:00:00 +0300"
-    },
-    {
-      "title": "אברהם פריד",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%90%D7%91%D7%A8%D7%94%D7%9D%20%D7%A4%D7%A8%D7%99%D7%93",
-      "pubdate": "Mon, 13 May 2024 01:00:00 +0300"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14-05-2024 , 07:53:17",
+  "lastUpdate": "14-05-2024 , 08:00:06",
   "data": [
     {
       "title": "RIGI",
@@ -22,6 +22,11 @@
       "pubdate": "Mon, 13 May 2024 09:00:00 -0300"
     },
     {
+      "title": "Gimnasia",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Gimnasia",
+      "pubdate": "Mon, 13 May 2024 18:00:00 -0300"
+    },
+    {
       "title": "Nike",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Nike",
       "pubdate": "Mon, 13 May 2024 03:00:00 -0300"
@@ -35,11 +40,6 @@
       "title": "Barcelona  Real Sociedad",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Barcelona%20%20Real%20Sociedad",
       "pubdate": "Mon, 13 May 2024 16:00:00 -0300"
-    },
-    {
-      "title": "Cetrogar",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Cetrogar",
-      "pubdate": "Mon, 13 May 2024 01:00:00 -0300"
     },
     {
       "title": "Samsung",
@@ -62,11 +62,6 @@
       "pubdate": "Mon, 13 May 2024 19:00:00 -0300"
     },
     {
-      "title": "Gimnasia",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Gimnasia",
-      "pubdate": "Mon, 13 May 2024 18:00:00 -0300"
-    },
-    {
       "title": "Natura",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Natura",
       "pubdate": "Mon, 13 May 2024 12:00:00 -0300"
@@ -75,6 +70,11 @@
       "title": "Zara",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Zara",
       "pubdate": "Mon, 13 May 2024 16:00:00 -0300"
+    },
+    {
+      "title": "Motorola",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Motorola",
+      "pubdate": "Mon, 13 May 2024 10:00:00 -0300"
     },
     {
       "title": "Baez",
@@ -87,11 +87,6 @@
       "pubdate": "Mon, 13 May 2024 03:00:00 -0300"
     },
     {
-      "title": "Motorola",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Motorola",
-      "pubdate": "Mon, 13 May 2024 10:00:00 -0300"
-    },
-    {
       "title": "Reebok",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Reebok",
       "pubdate": "Mon, 13 May 2024 08:00:00 -0300"
@@ -100,6 +95,11 @@
       "title": "Lacoste",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Lacoste",
       "pubdate": "Mon, 13 May 2024 03:00:00 -0300"
+    },
+    {
+      "title": "Fiorentina",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Fiorentina",
+      "pubdate": "Mon, 13 May 2024 16:00:00 -0300"
     }
   ]
 }
