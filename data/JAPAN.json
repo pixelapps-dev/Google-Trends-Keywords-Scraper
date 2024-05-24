@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "24-05-2024 , 01:14:47",
+  "lastUpdate": "24-05-2024 , 01:40:59",
   "data": [
+    {
+      "title": "台湾",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E5%8F%B0%E6%B9%BE",
+      "pubdate": "Fri, 24 May 2024 07:00:00 +0900"
+    },
     {
       "title": "YUKI",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#YUKI",
@@ -27,14 +32,14 @@
       "pubdate": "Thu, 23 May 2024 01:00:00 +0900"
     },
     {
-      "title": "台風1号",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E5%8F%B0%E9%A2%A81%E5%8F%B7",
-      "pubdate": "Thu, 23 May 2024 20:00:00 +0900"
-    },
-    {
       "title": "NVIDIA",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#NVIDIA",
       "pubdate": "Thu, 23 May 2024 06:00:00 +0900"
+    },
+    {
+      "title": "台風1号",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E5%8F%B0%E9%A2%A81%E5%8F%B7",
+      "pubdate": "Thu, 23 May 2024 20:00:00 +0900"
     },
     {
       "title": "ヤクルト 丸山",
@@ -95,11 +100,6 @@
       "title": "レッドロブスター 破産",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%83%AC%E3%83%83%E3%83%89%E3%83%AD%E3%83%96%E3%82%B9%E3%82%BF%E3%83%BC%20%E7%A0%B4%E7%94%A3",
       "pubdate": "Tue, 21 May 2024 10:00:00 +0900"
-    },
-    {
-      "title": "ソフトバンクホークス",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%82%BD%E3%83%95%E3%83%88%E3%83%90%E3%83%B3%E3%82%AF%E3%83%9B%E3%83%BC%E3%82%AF%E3%82%B9",
-      "pubdate": "Tue, 21 May 2024 22:00:00 +0900"
     }
   ]
 }

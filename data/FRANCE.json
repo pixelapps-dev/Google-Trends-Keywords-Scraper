@@ -1,35 +1,20 @@
 {
-  "lastUpdate": "24-05-2024 , 01:14:44",
+  "lastUpdate": "24-05-2024 , 01:40:57",
   "data": [
-    {
-      "title": "DuckDuckGo",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#DuckDuckGo",
-      "pubdate": "Fri, 24 May 2024 02:00:00 +0200"
-    },
-    {
-      "title": "Carlo Acutis",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Carlo%20Acutis",
-      "pubdate": "Fri, 24 May 2024 02:00:00 +0200"
-    },
-    {
-      "title": "Un p'tit truc en plus",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Un%20p'tit%20truc%20en%20plus",
-      "pubdate": "Thu, 23 May 2024 11:00:00 +0200"
-    },
     {
       "title": "Edouard Baer",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Edouard%20Baer",
       "pubdate": "Thu, 23 May 2024 16:00:00 +0200"
     },
     {
+      "title": "Un p'tit truc en plus",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Un%20p'tit%20truc%20en%20plus",
+      "pubdate": "Thu, 23 May 2024 18:00:00 +0200"
+    },
+    {
       "title": "Nadal",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Nadal",
       "pubdate": "Thu, 23 May 2024 20:00:00 +0200"
-    },
-    {
-      "title": "Cauet",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Cauet",
-      "pubdate": "Thu, 23 May 2024 19:00:00 +0200"
     },
     {
       "title": "Flamme olympique Bordeaux",
@@ -50,6 +35,11 @@
       "title": "La Ligne Verte",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#La%20Ligne%20Verte",
       "pubdate": "Thu, 23 May 2024 22:00:00 +0200"
+    },
+    {
+      "title": "Cauet",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Cauet",
+      "pubdate": "Thu, 23 May 2024 19:00:00 +0200"
     },
     {
       "title": "Virginie Grimaldi",
@@ -100,6 +90,16 @@
       "title": "Anne Hidalgo",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Anne%20Hidalgo",
       "pubdate": "Thu, 23 May 2024 22:00:00 +0200"
+    },
+    {
+      "title": "Leverkusen",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Leverkusen",
+      "pubdate": "Wed, 22 May 2024 17:00:00 +0200"
+    },
+    {
+      "title": "Jordan Bardella",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Jordan%20Bardella",
+      "pubdate": "Wed, 22 May 2024 20:00:00 +0200"
     }
   ]
 }
