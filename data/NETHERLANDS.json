@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31-05-2024 , 08:51:33",
+  "lastUpdate": "31-05-2024 , 08:58:17",
   "data": [
     {
       "title": "Griekspoor",
@@ -22,11 +22,6 @@
       "pubdate": "Thu, 30 May 2024 00:00:00 +0200"
     },
     {
-      "title": "Intents",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Intents",
-      "pubdate": "Thu, 30 May 2024 14:00:00 +0200"
-    },
-    {
       "title": "Georgina Verbaan",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Georgina%20Verbaan",
       "pubdate": "Thu, 30 May 2024 23:00:00 +0200"
@@ -42,24 +37,19 @@
       "pubdate": "Thu, 30 May 2024 20:00:00 +0200"
     },
     {
-      "title": "Tom Dumoulin",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Tom%20Dumoulin",
-      "pubdate": "Thu, 30 May 2024 23:00:00 +0200"
-    },
-    {
       "title": "Plasterk",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Plasterk",
-      "pubdate": "Thu, 30 May 2024 23:00:00 +0200"
-    },
-    {
-      "title": "Olcay Gulsen",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Olcay%20Gulsen",
       "pubdate": "Thu, 30 May 2024 23:00:00 +0200"
     },
     {
       "title": "Waternet",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Waternet",
       "pubdate": "Thu, 30 May 2024 22:00:00 +0200"
+    },
+    {
+      "title": "Vliegtuigmotor",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Vliegtuigmotor",
+      "pubdate": "Thu, 30 May 2024 12:00:00 +0200"
     },
     {
       "title": "Gwen van Poorten",
@@ -70,11 +60,6 @@
       "title": "Schiphol",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Schiphol",
       "pubdate": "Wed, 29 May 2024 18:00:00 +0200"
-    },
-    {
-      "title": "Draaiende vliegtuigmotor Schiphol",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Draaiende%20vliegtuigmotor%20Schiphol",
-      "pubdate": "Wed, 29 May 2024 23:00:00 +0200"
     },
     {
       "title": "Jeroen Rietbergen",
@@ -100,6 +85,21 @@
       "title": "Avondvierdaagse",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Avondvierdaagse",
       "pubdate": "Mon, 27 May 2024 19:00:00 +0200"
+    },
+    {
+      "title": "FC Utrecht",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Utrecht",
+      "pubdate": "Sun, 26 May 2024 17:00:00 +0200"
+    },
+    {
+      "title": "NAC-Excelsior",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#NAC-Excelsior",
+      "pubdate": "Sun, 26 May 2024 21:00:00 +0200"
+    },
+    {
+      "title": "Nicki Minaj",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Nicki%20Minaj",
+      "pubdate": "Sat, 25 May 2024 21:00:00 +0200"
     }
   ]
 }
