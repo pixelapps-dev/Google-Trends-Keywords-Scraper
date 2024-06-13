@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13-06-2024 , 07:57:25",
+  "lastUpdate": "13-06-2024 , 08:07:32",
   "data": [
     {
       "title": "Eric Clapton",
@@ -72,6 +72,11 @@
       "pubdate": "Mon, 10 Jun 2024 01:00:00 +0100"
     },
     {
+      "title": "Portugal selecao",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Portugal%20selecao",
+      "pubdate": "Mon, 10 Jun 2024 21:00:00 +0100"
+    },
+    {
       "title": "Quem ganhou as eleições europeias",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Quem%20ganhou%20as%20elei%C3%A7%C3%B5es%20europeias",
       "pubdate": "Mon, 10 Jun 2024 00:00:00 +0100"
@@ -87,19 +92,14 @@
       "pubdate": "Mon, 10 Jun 2024 15:00:00 +0100"
     },
     {
-      "title": "RTP",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#RTP",
-      "pubdate": "Mon, 10 Jun 2024 01:00:00 +0100"
-    },
-    {
-      "title": "Sebastião Bugalho",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Sebasti%C3%A3o%20Bugalho",
+      "title": "Expresso",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Expresso",
       "pubdate": "Mon, 10 Jun 2024 00:00:00 +0100"
     },
     {
-      "title": "Mafalda Castro",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Mafalda%20Castro",
-      "pubdate": "Mon, 10 Jun 2024 20:00:00 +0100"
+      "title": "RTP",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#RTP",
+      "pubdate": "Mon, 10 Jun 2024 19:00:00 +0100"
     }
   ]
 }
