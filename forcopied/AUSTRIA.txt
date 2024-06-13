@@ -1,1 +1,1 @@
-Bodensee,Türkei,Sibylle Berg,Klaus Töpfer,Hitzewelle Griechenland,Ofner,Stuttgart 21,Celine Dion,Apple,AUA-Maschine Hagel,derStandard,Orf.at,Thomas Waitz,iOS 18,Lewandowski,Billie Eilish,Nvidia,Stephan Helm,Doskozil,Elon Musk
+Bodensee,Türkei,Sibylle Berg,Klaus Töpfer,Hitzewelle Griechenland,Ofner,Stuttgart 21,Celine Dion,ORF news,AUA Flugzeug Hagel,Apple,STANDARD,Der STANDARD,Nvidia-Aktie,Sebastian Ofner,ORF.at,Ölteppich Kroatien,Thomas Waitz,Billie Eilish,Nvidia
