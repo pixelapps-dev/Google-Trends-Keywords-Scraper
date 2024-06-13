@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13-06-2024 , 14:40:17",
+  "lastUpdate": "13-06-2024 , 14:47:04",
   "data": [
     {
       "title": "Tinubu",
@@ -39,6 +39,11 @@
     {
       "title": "Brazil",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Brazil",
+      "pubdate": "Thu, 13 Jun 2024 11:00:00 +0100"
+    },
+    {
+      "title": "President of Nigeria",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#President%20of%20Nigeria",
       "pubdate": "Thu, 13 Jun 2024 11:00:00 +0100"
     },
     {
@@ -95,11 +100,6 @@
       "title": "Democracy Day",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Democracy%20Day",
       "pubdate": "Mon, 10 Jun 2024 15:00:00 +0100"
-    },
-    {
-      "title": "Suresh Gopi",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Suresh%20Gopi",
-      "pubdate": "Mon, 10 Jun 2024 05:00:00 +0100"
     }
   ]
 }
