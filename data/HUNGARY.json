@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13-06-2024 , 07:50:31",
+  "lastUpdate": "13-06-2024 , 07:57:22",
   "data": [
     {
       "title": "Hundred Sins",
@@ -17,6 +17,11 @@
       "pubdate": "Tue, 11 Jun 2024 10:00:00 +0200"
     },
     {
+      "title": "Menczer Tamás",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Menczer%20Tam%C3%A1s",
+      "pubdate": "Tue, 11 Jun 2024 21:00:00 +0200"
+    },
+    {
       "title": "Karácsony Gergely hangfelvétel",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Kar%C3%A1csony%20Gergely%20hangfelv%C3%A9tel",
       "pubdate": "Tue, 11 Jun 2024 12:00:00 +0200"
@@ -27,19 +32,24 @@
       "pubdate": "Tue, 11 Jun 2024 15:00:00 +0200"
     },
     {
-      "title": "Megasztár",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Megaszt%C3%A1r",
-      "pubdate": "Tue, 11 Jun 2024 08:00:00 +0200"
-    },
-    {
       "title": "Főpolgármester választási eredmények",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#F%C5%91polg%C3%A1rmester%20v%C3%A1laszt%C3%A1si%20eredm%C3%A9nyek",
       "pubdate": "Tue, 11 Jun 2024 16:00:00 +0200"
     },
     {
+      "title": "Megasztár",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Megaszt%C3%A1r",
+      "pubdate": "Tue, 11 Jun 2024 08:00:00 +0200"
+    },
+    {
       "title": "Rúzsa Magdi",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#R%C3%BAzsa%20Magdi",
       "pubdate": "Tue, 11 Jun 2024 20:00:00 +0200"
+    },
+    {
+      "title": "Bangó Margit",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Bang%C3%B3%20Margit",
+      "pubdate": "Tue, 11 Jun 2024 21:00:00 +0200"
     },
     {
       "title": "Majka",
@@ -67,14 +77,9 @@
       "pubdate": "Mon, 10 Jun 2024 06:00:00 +0200"
     },
     {
-      "title": "Tiszapárt",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Tiszap%C3%A1rt",
-      "pubdate": "Mon, 10 Jun 2024 15:00:00 +0200"
-    },
-    {
-      "title": "Fővárosi Közgyűlés összetétele",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#F%C5%91v%C3%A1rosi%20K%C3%B6zgy%C5%B1l%C3%A9s%20%C3%B6sszet%C3%A9tele",
-      "pubdate": "Mon, 10 Jun 2024 00:00:00 +0200"
+      "title": "iOS 18",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#iOS%2018",
+      "pubdate": "Mon, 10 Jun 2024 17:00:00 +0200"
     },
     {
       "title": "24.hu",
@@ -82,19 +87,14 @@
       "pubdate": "Mon, 10 Jun 2024 09:00:00 +0200"
     },
     {
+      "title": "Fővárosi Közgyűlés összetétele",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#F%C5%91v%C3%A1rosi%20K%C3%B6zgy%C5%B1l%C3%A9s%20%C3%B6sszet%C3%A9tele",
+      "pubdate": "Mon, 10 Jun 2024 00:00:00 +0200"
+    },
+    {
       "title": "24",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#24",
       "pubdate": "Mon, 10 Jun 2024 06:00:00 +0200"
-    },
-    {
-      "title": "Apple",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Apple",
-      "pubdate": "Mon, 10 Jun 2024 19:00:00 +0200"
-    },
-    {
-      "title": "Miskolc",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Miskolc",
-      "pubdate": "Mon, 10 Jun 2024 00:00:00 +0200"
     },
     {
       "title": "MBH",
