@@ -1,1 +1,1 @@
-EFN,Årets sommarpratare 2024,Billie Eilish,Hunter Biden,Hugo Alnefelt,Apple Intelligence,Axfood köper City Gross,David Lång,SVT,SVT Nyheter,Julia Henriksson,EU-valet 2024 Sverige,L'amour toujours,NVIDIA,Emma Raducanu,La,Michael Mosley,SD,Strandhotellet,Macron
+EFN,Årets sommarpratare 2024,Billie Eilish,Hunter Biden,Hugo Alnefelt,Apple Intelligence,Axfood köper City Gross,David Lång,SVT,SVT Nyheter,EU-valet 2024 Sverige,L'amour toujours,NVIDIA,Emma Raducanu,La,Michael Mosley,SD,Strandhotellet,Macron,Sverigedemokraterna

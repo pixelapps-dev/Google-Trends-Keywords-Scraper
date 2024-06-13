@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13-06-2024 , 08:07:34",
+  "lastUpdate": "13-06-2024 , 08:18:50",
   "data": [
     {
       "title": "EFN",
@@ -52,11 +52,6 @@
       "pubdate": "Mon, 10 Jun 2024 11:00:00 +0200"
     },
     {
-      "title": "Julia Henriksson",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Julia%20Henriksson",
-      "pubdate": "Mon, 10 Jun 2024 20:00:00 +0200"
-    },
-    {
       "title": "EU-valet 2024 Sverige",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#EU-valet%202024%20Sverige",
       "pubdate": "Mon, 10 Jun 2024 07:00:00 +0200"
@@ -100,6 +95,11 @@
       "title": "Macron",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Macron",
       "pubdate": "Sun, 09 Jun 2024 22:00:00 +0200"
+    },
+    {
+      "title": "Sverigedemokraterna",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sverigedemokraterna",
+      "pubdate": "Sun, 09 Jun 2024 11:00:00 +0200"
     }
   ]
 }
