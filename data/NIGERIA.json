@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13-06-2024 , 05:06:45",
+  "lastUpdate": "13-06-2024 , 05:17:07",
   "data": [
     {
       "title": "Malawi",
@@ -12,14 +12,9 @@
       "pubdate": "Tue, 11 Jun 2024 08:00:00 +0100"
     },
     {
-      "title": "Democracy Day",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Democracy%20Day",
-      "pubdate": "Tue, 11 Jun 2024 11:00:00 +0100"
-    },
-    {
-      "title": "Ben Potter",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Ben%20Potter",
-      "pubdate": "Tue, 11 Jun 2024 11:00:00 +0100"
+      "title": "Tolaram Group",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Tolaram%20Group",
+      "pubdate": "Tue, 11 Jun 2024 14:00:00 +0100"
     },
     {
       "title": "CBN",
@@ -32,24 +27,19 @@
       "pubdate": "Tue, 11 Jun 2024 02:00:00 +0100"
     },
     {
+      "title": "Russia",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Russia",
+      "pubdate": "Tue, 11 Jun 2024 14:00:00 +0100"
+    },
+    {
       "title": "Ghana",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Ghana",
       "pubdate": "Tue, 11 Jun 2024 08:00:00 +0100"
     },
     {
-      "title": "Tolaram Group",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Tolaram%20Group",
-      "pubdate": "Tue, 11 Jun 2024 14:00:00 +0100"
-    },
-    {
       "title": "Michael Rainey Jr",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Michael%20Rainey%20Jr",
       "pubdate": "Tue, 11 Jun 2024 11:00:00 +0100"
-    },
-    {
-      "title": "Russia",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Russia",
-      "pubdate": "Tue, 11 Jun 2024 14:00:00 +0100"
     },
     {
       "title": "Nigeria",
@@ -92,14 +82,24 @@
       "pubdate": "Mon, 10 Jun 2024 22:00:00 +0100"
     },
     {
-      "title": "Benin Vs Nigeria",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Benin%20Vs%20Nigeria",
+      "title": "Benin vs Nigeria",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Benin%20vs%20Nigeria",
       "pubdate": "Sun, 09 Jun 2024 22:00:00 +0100"
     },
     {
-      "title": "Enugu Rangers vs Enyimba",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Enugu%20Rangers%20vs%20Enyimba",
-      "pubdate": "Sun, 09 Jun 2024 18:00:00 +0100"
+      "title": "Mexico vs Brazil",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Mexico%20vs%20Brazil",
+      "pubdate": "Sun, 09 Jun 2024 02:00:00 +0100"
+    },
+    {
+      "title": "Hanks Anuku",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Hanks%20Anuku",
+      "pubdate": "Sun, 09 Jun 2024 16:00:00 +0100"
+    },
+    {
+      "title": "Rangers vs Enyimba",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Rangers%20vs%20Enyimba",
+      "pubdate": "Sun, 09 Jun 2024 19:00:00 +0100"
     }
   ]
 }
