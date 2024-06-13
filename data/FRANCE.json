@@ -1,15 +1,15 @@
 {
-  "lastUpdate": "13-06-2024 , 04:28:32",
+  "lastUpdate": "13-06-2024 , 04:36:25",
   "data": [
-    {
-      "title": "Apple",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Apple",
-      "pubdate": "Tue, 11 Jun 2024 14:00:00 +0200"
-    },
     {
       "title": "Guillaume Meurice",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Guillaume%20Meurice",
       "pubdate": "Tue, 11 Jun 2024 12:00:00 +0200"
+    },
+    {
+      "title": "Apple",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Apple",
+      "pubdate": "Tue, 11 Jun 2024 14:00:00 +0200"
     },
     {
       "title": "Max",
