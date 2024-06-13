@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13-06-2024 , 20:38:14",
+  "lastUpdate": "13-06-2024 , 20:45:10",
   "data": [
     {
       "title": "U.S. Open Golf",
@@ -19,11 +19,6 @@
     {
       "title": "Bridgerton",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Bridgerton",
-      "pubdate": "Thu, 13 Jun 2024 18:00:00 +0800"
-    },
-    {
-      "title": "Faisal Halim",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Faisal%20Halim",
       "pubdate": "Thu, 13 Jun 2024 18:00:00 +0800"
     },
     {
@@ -97,9 +92,14 @@
       "pubdate": "Tue, 11 Jun 2024 20:00:00 +0800"
     },
     {
-      "title": "Apple",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Apple",
-      "pubdate": "Mon, 10 Jun 2024 12:00:00 +0800"
+      "title": "Macron",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Macron",
+      "pubdate": "Mon, 10 Jun 2024 17:00:00 +0800"
+    },
+    {
+      "title": "Iga świątek",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Iga%20%C5%9Bwi%C4%85tek",
+      "pubdate": "Sun, 09 Jun 2024 11:00:00 +0800"
     }
   ]
 }
