@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15-06-2024 , 14:47:54",
+  "lastUpdate": "15-06-2024 , 14:54:42",
   "data": [
     {
       "title": "Pellegrini",
@@ -12,6 +12,11 @@
       "pubdate": "Sat, 15 Jun 2024 13:00:00 +0200"
     },
     {
+      "title": "Lidice",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Lidice",
+      "pubdate": "Sat, 15 Jun 2024 14:00:00 +0200"
+    },
+    {
       "title": "Sport.cz",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Sport.cz",
       "pubdate": "Sat, 15 Jun 2024 12:00:00 +0200"
@@ -20,16 +25,6 @@
       "title": "Jamal Musiala",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Jamal%20Musiala",
       "pubdate": "Sat, 15 Jun 2024 01:00:00 +0200"
-    },
-    {
-      "title": "Lidice",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Lidice",
-      "pubdate": "Sat, 15 Jun 2024 14:00:00 +0200"
-    },
-    {
-      "title": "Muzejní noc",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Muzejn%C3%AD%20noc",
-      "pubdate": "Sat, 15 Jun 2024 14:00:00 +0200"
     },
     {
       "title": "Florida Panthers",
@@ -44,12 +39,7 @@
     {
       "title": "Euro 2024",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Euro%202024",
-      "pubdate": "Fri, 14 Jun 2024 15:00:00 +0200"
-    },
-    {
-      "title": "Německo – Skotsko",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#N%C4%9Bmecko%20%E2%80%93%20Skotsko",
-      "pubdate": "Fri, 14 Jun 2024 21:00:00 +0200"
+      "pubdate": "Fri, 14 Jun 2024 20:00:00 +0200"
     },
     {
       "title": "Avril Lavigne",
@@ -62,9 +52,14 @@
       "pubdate": "Fri, 14 Jun 2024 07:00:00 +0200"
     },
     {
-      "title": "Viktoria",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Viktoria",
-      "pubdate": "Fri, 14 Jun 2024 11:00:00 +0200"
+      "title": "Německo – Skotsko",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#N%C4%9Bmecko%20%E2%80%93%20Skotsko",
+      "pubdate": "Fri, 14 Jun 2024 21:00:00 +0200"
+    },
+    {
+      "title": "Mistrovství Evropy ve fotbale",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Mistrovstv%C3%AD%20Evropy%20ve%20fotbale",
+      "pubdate": "Fri, 14 Jun 2024 15:00:00 +0200"
     },
     {
       "title": "Ladislav Krejčí",
@@ -72,9 +67,14 @@
       "pubdate": "Fri, 14 Jun 2024 19:00:00 +0200"
     },
     {
-      "title": "RedFace",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#RedFace",
-      "pubdate": "Fri, 14 Jun 2024 19:00:00 +0200"
+      "title": "Viktoria",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Viktoria",
+      "pubdate": "Fri, 14 Jun 2024 11:00:00 +0200"
+    },
+    {
+      "title": "Muzejni noc",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Muzejni%20noc",
+      "pubdate": "Fri, 14 Jun 2024 23:00:00 +0200"
     },
     {
       "title": "Okay",
@@ -87,6 +87,11 @@
       "pubdate": "Fri, 14 Jun 2024 17:00:00 +0200"
     },
     {
+      "title": "Charles Gad Strasser",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Charles%20Gad%20Strasser",
+      "pubdate": "Fri, 14 Jun 2024 22:00:00 +0200"
+    },
+    {
       "title": "Hospodářské noviny",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Hospod%C3%A1%C5%99sk%C3%A9%20noviny",
       "pubdate": "Fri, 14 Jun 2024 17:00:00 +0200"
@@ -95,11 +100,6 @@
       "title": "Vláda schválila zákon o podpoře bydlení",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Vl%C3%A1da%20schv%C3%A1lila%20z%C3%A1kon%20o%20podpo%C5%99e%20bydlen%C3%AD",
       "pubdate": "Fri, 14 Jun 2024 12:00:00 +0200"
-    },
-    {
-      "title": "Matyáš Valenta",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Maty%C3%A1%C5%A1%20Valenta",
-      "pubdate": "Fri, 14 Jun 2024 19:00:00 +0200"
     }
   ]
 }

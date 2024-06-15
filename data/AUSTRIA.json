@@ -1,20 +1,25 @@
 {
-  "lastUpdate": "15-06-2024 , 14:47:52",
+  "lastUpdate": "15-06-2024 , 14:54:41",
   "data": [
-    {
-      "title": "NBA",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#NBA",
-      "pubdate": "Sat, 15 Jun 2024 12:00:00 +0200"
-    },
     {
       "title": "Matija Sarkic",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Matija%20Sarkic",
       "pubdate": "Sat, 15 Jun 2024 12:00:00 +0200"
     },
     {
+      "title": "NBA",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#NBA",
+      "pubdate": "Sat, 15 Jun 2024 13:00:00 +0200"
+    },
+    {
       "title": "Spanien - Kroatien",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Spanien%20-%20Kroatien",
       "pubdate": "Sat, 15 Jun 2024 12:00:00 +0200"
+    },
+    {
+      "title": "Kevin Campbell",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Kevin%20Campbell",
+      "pubdate": "Sat, 15 Jun 2024 13:00:00 +0200"
     },
     {
       "title": "Joe Biden",
@@ -25,6 +30,11 @@
       "title": "Fußball",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Fu%C3%9Fball",
       "pubdate": "Sat, 15 Jun 2024 12:00:00 +0200"
+    },
+    {
+      "title": "Schweiz",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Schweiz",
+      "pubdate": "Sat, 15 Jun 2024 16:00:00 +0200"
     },
     {
       "title": "Andreas Gabalier",
@@ -40,11 +50,6 @@
       "title": "Fußball-Europameisterschaft",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Fu%C3%9Fball-Europameisterschaft",
       "pubdate": "Sat, 15 Jun 2024 00:00:00 +0200"
-    },
-    {
-      "title": "Wiesbaden",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Wiesbaden",
-      "pubdate": "Sat, 15 Jun 2024 09:00:00 +0200"
     },
     {
       "title": "Modric",
@@ -65,6 +70,11 @@
       "title": "Fussball EM",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Fussball%20EM",
       "pubdate": "Fri, 14 Jun 2024 19:00:00 +0200"
+    },
+    {
+      "title": "Ungarn Schweiz",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Ungarn%20Schweiz",
+      "pubdate": "Fri, 14 Jun 2024 20:00:00 +0200"
     },
     {
       "title": "EM Spiele heute",
@@ -90,16 +100,6 @@
       "title": "Toni Kroos",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Toni%20Kroos",
       "pubdate": "Fri, 14 Jun 2024 21:00:00 +0200"
-    },
-    {
-      "title": "Füllkrug",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#F%C3%BCllkrug",
-      "pubdate": "Fri, 14 Jun 2024 23:00:00 +0200"
-    },
-    {
-      "title": "Havertz",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Havertz",
-      "pubdate": "Fri, 14 Jun 2024 22:00:00 +0200"
     }
   ]
 }
