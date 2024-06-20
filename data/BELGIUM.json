@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-06-2024 , 06:44:33",
+  "lastUpdate": "20-06-2024 , 06:51:29",
   "data": [
     {
       "title": "Covid",
@@ -17,8 +17,8 @@
       "pubdate": "Thu, 20 Jun 2024 07:00:00 +0200"
     },
     {
-      "title": "Albanie",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Albanie",
+      "title": "Croatie Albanie",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Croatie%20Albanie",
       "pubdate": "Wed, 19 Jun 2024 15:00:00 +0200"
     },
     {
@@ -87,6 +87,11 @@
       "pubdate": "Wed, 19 Jun 2024 21:00:00 +0200"
     },
     {
+      "title": "Hendrik Van Crombrugge",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Hendrik%20Van%20Crombrugge",
+      "pubdate": "Wed, 19 Jun 2024 00:00:00 +0200"
+    },
+    {
       "title": "Akanji",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Akanji",
       "pubdate": "Wed, 19 Jun 2024 23:00:00 +0200"
@@ -95,11 +100,6 @@
       "title": "Pukkelpop",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Pukkelpop",
       "pubdate": "Wed, 19 Jun 2024 14:00:00 +0200"
-    },
-    {
-      "title": "Shiba Inu",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Shiba%20Inu",
-      "pubdate": "Wed, 19 Jun 2024 15:00:00 +0200"
     }
   ]
 }
