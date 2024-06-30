@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30-06-2024 , 15:49:59",
+  "lastUpdate": "30-06-2024 , 15:56:43",
   "data": [
     {
       "title": "UFC 303",
@@ -57,14 +57,14 @@
       "pubdate": "Sat, 29 Jun 2024 18:00:00 -0500"
     },
     {
-      "title": "Bragantino",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Bragantino",
-      "pubdate": "Sat, 29 Jun 2024 17:00:00 -0500"
-    },
-    {
       "title": "Ravel Andrade",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Ravel%20Andrade",
       "pubdate": "Sat, 29 Jun 2024 12:00:00 -0500"
+    },
+    {
+      "title": "Bragantino",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Bragantino",
+      "pubdate": "Sat, 29 Jun 2024 17:00:00 -0500"
     },
     {
       "title": "Zeca Pagodinho",
@@ -75,11 +75,6 @@
       "title": "Dan Ige",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Dan%20Ige",
       "pubdate": "Sat, 29 Jun 2024 21:00:00 -0500"
-    },
-    {
-      "title": "Dudu",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Dudu",
-      "pubdate": "Sat, 29 Jun 2024 00:00:00 -0500"
     },
     {
       "title": "Algar",
@@ -100,6 +95,11 @@
       "title": "O jogo que mudou a História",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#O%20jogo%20que%20mudou%20a%20Hist%C3%B3ria",
       "pubdate": "Sat, 29 Jun 2024 12:00:00 -0500"
+    },
+    {
+      "title": "MotoGP",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#MotoGP",
+      "pubdate": "Sat, 29 Jun 2024 15:00:00 -0500"
     }
   ]
 }
