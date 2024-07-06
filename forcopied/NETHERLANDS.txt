@@ -1,1 +1,1 @@
-Sport,EK,Ajax  PEC,Ronaldo,Carola Schouten,Demiral,Marco van Basten,Boer Harm,Kroos,Evenepoel,Wim Hazeu,Wieffer,Chappell Roan,Agema,Keir Starmer,4th of July,Taylor Swift,Barry Madlener,Kabinet,Keti Koti
+Sport,EK,Ajax  PEC,Ronaldo,Carola Schouten,Demiral,Marco van Basten,Boer Harm,Kroos,Evenepoel,Wim Hazeu,Wieffer,Chappell Roan,Agema,Keir Starmer,4th of July,Taylor Swift,Barry Madlener,Schoof,Kabinet
