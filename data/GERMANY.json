@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14-07-2024 , 19:56:39",
+  "lastUpdate": "14-07-2024 , 20:05:12",
   "data": [
     {
       "title": "Trump",
@@ -52,14 +52,14 @@
       "pubdate": "Sat, 13 Jul 2024 21:00:00 +0200"
     },
     {
-      "title": "Pogacar",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Pogacar",
-      "pubdate": "Sat, 13 Jul 2024 18:00:00 +0200"
-    },
-    {
       "title": "Alwara Höfels",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Alwara%20H%C3%B6fels",
       "pubdate": "Sat, 13 Jul 2024 21:00:00 +0200"
+    },
+    {
+      "title": "Pogacar",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Pogacar",
+      "pubdate": "Sat, 13 Jul 2024 18:00:00 +0200"
     },
     {
       "title": "Unwetter",
