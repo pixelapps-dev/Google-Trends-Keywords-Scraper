@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27-07-2024 , 04:45:12",
+  "lastUpdate": "27-07-2024 , 04:52:06",
   "data": [
     {
       "title": "Celine Dion",
@@ -37,14 +37,14 @@
       "pubdate": "Fri, 26 Jul 2024 18:00:00 +0200"
     },
     {
-      "title": "M4",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#M4",
-      "pubdate": "Fri, 26 Jul 2024 08:00:00 +0200"
-    },
-    {
       "title": "Nyíregyháza–eto",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Ny%C3%ADregyh%C3%A1za%E2%80%93eto",
       "pubdate": "Fri, 26 Jul 2024 21:00:00 +0200"
+    },
+    {
+      "title": "M4",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#M4",
+      "pubdate": "Fri, 26 Jul 2024 08:00:00 +0200"
     },
     {
       "title": "Snoop Dogg",
