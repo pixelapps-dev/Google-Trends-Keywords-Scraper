@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11-08-2024 , 18:20:35",
+  "lastUpdate": "11-08-2024 , 18:32:20",
   "data": [
     {
       "title": "Liverpool  Sevilla",
@@ -7,34 +7,24 @@
       "pubdate": "Sun, 11 Aug 2024 14:00:00 +0200"
     },
     {
-      "title": "Arsenal  Lyon",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Arsenal%20%20Lyon",
-      "pubdate": "Sun, 11 Aug 2024 16:00:00 +0200"
-    },
-    {
       "title": "Omnium",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Omnium",
       "pubdate": "Sun, 11 Aug 2024 12:00:00 +0200"
     },
     {
-      "title": "Handball",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Handball",
-      "pubdate": "Sun, 11 Aug 2024 18:00:00 +0200"
-    },
-    {
-      "title": "Medina",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Medina",
-      "pubdate": "Sun, 11 Aug 2024 19:00:00 +0200"
-    },
-    {
-      "title": "Chelsea  Inter",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Chelsea%20%20Inter",
-      "pubdate": "Sun, 11 Aug 2024 17:00:00 +0200"
+      "title": "Arsenal  Lyon",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Arsenal%20%20Lyon",
+      "pubdate": "Sun, 11 Aug 2024 16:00:00 +0200"
     },
     {
       "title": "Kylie Jenner",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Kylie%20Jenner",
       "pubdate": "Sun, 11 Aug 2024 08:00:00 +0200"
+    },
+    {
+      "title": "Chelsea  Inter",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Chelsea%20%20Inter",
+      "pubdate": "Sun, 11 Aug 2024 17:00:00 +0200"
     },
     {
       "title": "Kobe Bryant",
@@ -100,6 +90,16 @@
       "title": "Yabusele",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Yabusele",
       "pubdate": "Sat, 10 Aug 2024 23:00:00 +0200"
+    },
+    {
+      "title": "Hunter Woodhall",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Hunter%20Woodhall",
+      "pubdate": "Sat, 10 Aug 2024 23:00:00 +0200"
+    },
+    {
+      "title": "Hamish Kerr",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Hamish%20Kerr",
+      "pubdate": "Sat, 10 Aug 2024 22:00:00 +0200"
     }
   ]
 }

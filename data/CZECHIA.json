@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11-08-2024 , 18:20:34",
+  "lastUpdate": "11-08-2024 , 18:32:19",
   "data": [
     {
       "title": "Baník – Hradec Králové",
@@ -20,11 +20,6 @@
       "title": "Sparta Praha",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Sparta%20Praha",
       "pubdate": "Sun, 11 Aug 2024 00:00:00 +0200"
-    },
-    {
-      "title": "Simona krainová",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Simona%20krainov%C3%A1",
-      "pubdate": "Sun, 11 Aug 2024 19:00:00 +0200"
     },
     {
       "title": "LP",
@@ -100,6 +95,11 @@
       "title": "Ben Cristovao",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ben%20Cristovao",
       "pubdate": "Sat, 10 Aug 2024 21:00:00 +0200"
+    },
+    {
+      "title": "Fenka",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Fenka",
+      "pubdate": "Sat, 10 Aug 2024 00:00:00 +0200"
     }
   ]
 }
