@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-08-2024 , 14:41:48",
+  "lastUpdate": "16-08-2024 , 14:48:45",
   "data": [
     {
       "title": "EPL",
@@ -37,8 +37,8 @@
       "pubdate": "Fri, 16 Aug 2024 18:00:00 +1200"
     },
     {
-      "title": "The bear",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#The%20bear",
+      "title": "The Bear",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#The%20Bear",
       "pubdate": "Fri, 16 Aug 2024 18:00:00 +1200"
     },
     {
@@ -64,11 +64,6 @@
     {
       "title": "Auckland City Mission lollies",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Auckland%20City%20Mission%20lollies",
-      "pubdate": "Fri, 16 Aug 2024 17:00:00 +1200"
-    },
-    {
-      "title": "Nathan Cleary",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Nathan%20Cleary",
       "pubdate": "Fri, 16 Aug 2024 17:00:00 +1200"
     },
     {
@@ -100,6 +95,11 @@
       "title": "Tommy Fury",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Tommy%20Fury",
       "pubdate": "Thu, 15 Aug 2024 09:00:00 +1200"
+    },
+    {
+      "title": "Sierra",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Sierra",
+      "pubdate": "Thu, 15 Aug 2024 08:00:00 +1200"
     }
   ]
 }
