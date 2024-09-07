@@ -1,20 +1,10 @@
 {
-  "lastUpdate": "07-09-2024 , 07:43:38",
+  "lastUpdate": "07-09-2024 , 07:52:21",
   "data": [
     {
       "title": "白露",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E7%99%BD%E9%9C%B2",
       "pubdate": "Sat, 07 Sep 2024 08:00:00 +0800"
-    },
-    {
-      "title": "林依晨",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E6%9E%97%E4%BE%9D%E6%99%A8",
-      "pubdate": "Sat, 07 Sep 2024 10:00:00 +0800"
-    },
-    {
-      "title": "李一桐",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E6%9D%8E%E4%B8%80%E6%A1%90",
-      "pubdate": "Sat, 07 Sep 2024 14:00:00 +0800"
     },
     {
       "title": "舒適堡",
@@ -30,6 +20,11 @@
       "title": "Linkin Park",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#Linkin%20Park",
       "pubdate": "Fri, 06 Sep 2024 12:00:00 +0800"
+    },
+    {
+      "title": "國足",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E5%9C%8B%E8%B6%B3",
+      "pubdate": "Fri, 06 Sep 2024 00:00:00 +0800"
     },
     {
       "title": "麥當勞",
@@ -90,6 +85,11 @@
       "title": "DJI Neo",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#DJI%20Neo",
       "pubdate": "Thu, 05 Sep 2024 22:00:00 +0800"
+    },
+    {
+      "title": "地鐵",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E5%9C%B0%E9%90%B5",
+      "pubdate": "Thu, 05 Sep 2024 19:00:00 +0800"
     },
     {
       "title": "鄭梓浩",
