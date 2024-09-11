@@ -1,6 +1,16 @@
 {
-  "lastUpdate": "11-09-2024 , 00:52:20",
+  "lastUpdate": "11-09-2024 , 02:04:36",
   "data": [
+    {
+      "title": "Dave Grohl",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Dave%20Grohl",
+      "pubdate": "Wed, 11 Sep 2024 02:00:00 +0200"
+    },
+    {
+      "title": "Trudi-Gerster",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Trudi-Gerster",
+      "pubdate": "Wed, 11 Sep 2024 03:00:00 +0200"
+    },
     {
       "title": "James Earl Jones",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#James%20Earl%20Jones",
@@ -17,14 +27,14 @@
       "pubdate": "Tue, 10 Sep 2024 21:00:00 +0200"
     },
     {
-      "title": "Ameti",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Ameti",
-      "pubdate": "Tue, 10 Sep 2024 17:00:00 +0200"
-    },
-    {
       "title": "Trump Harris debate",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Trump%20Harris%20debate",
       "pubdate": "Tue, 10 Sep 2024 16:00:00 +0200"
+    },
+    {
+      "title": "Ameti",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Ameti",
+      "pubdate": "Tue, 10 Sep 2024 17:00:00 +0200"
     },
     {
       "title": "NHL",
@@ -82,24 +92,14 @@
       "pubdate": "Tue, 10 Sep 2024 21:00:00 +0200"
     },
     {
-      "title": "Mont Blanc",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Mont%20Blanc",
+      "title": "Mont-Blanc",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Mont-Blanc",
       "pubdate": "Tue, 10 Sep 2024 22:00:00 +0200"
     },
     {
       "title": "Sofia Goggia",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Sofia%20Goggia",
       "pubdate": "Tue, 10 Sep 2024 09:00:00 +0200"
-    },
-    {
-      "title": "Botulisme",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Botulisme",
-      "pubdate": "Tue, 10 Sep 2024 21:00:00 +0200"
-    },
-    {
-      "title": "Adrian Newey",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Adrian%20Newey",
-      "pubdate": "Tue, 10 Sep 2024 15:00:00 +0200"
     }
   ]
 }
