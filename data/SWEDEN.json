@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23-09-2024 , 07:57:39",
+  "lastUpdate": "23-09-2024 , 08:09:34",
   "data": [
     {
       "title": "Samir Khan",
@@ -52,6 +52,11 @@
       "pubdate": "Sun, 22 Sep 2024 14:00:00 +0200"
     },
     {
+      "title": "Haber",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Haber",
+      "pubdate": "Sun, 22 Sep 2024 22:00:00 +0200"
+    },
+    {
       "title": "Malin gramer",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Malin%20gramer",
       "pubdate": "Sun, 22 Sep 2024 22:00:00 +0200"
@@ -95,11 +100,6 @@
       "title": "Örebro Hockey",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#%C3%96rebro%20Hockey",
       "pubdate": "Sat, 21 Sep 2024 18:00:00 +0200"
-    },
-    {
-      "title": "Youtube Premium",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Youtube%20Premium",
-      "pubdate": "Sat, 21 Sep 2024 11:00:00 +0200"
     }
   ]
 }
