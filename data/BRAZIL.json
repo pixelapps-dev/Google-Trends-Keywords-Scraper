@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23-09-2024 , 07:50:43",
+  "lastUpdate": "23-09-2024 , 07:57:30",
   "data": [
     {
       "title": "Haaland",
@@ -37,11 +37,6 @@
       "pubdate": "Sun, 22 Sep 2024 14:00:00 -0500"
     },
     {
-      "title": "Mariah Carey",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Mariah%20Carey",
-      "pubdate": "Sun, 22 Sep 2024 22:00:00 -0500"
-    },
-    {
       "title": "Diddy",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Diddy",
       "pubdate": "Sun, 22 Sep 2024 19:00:00 -0500"
@@ -65,6 +60,11 @@
       "title": "Primavera",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Primavera",
       "pubdate": "Sun, 22 Sep 2024 14:00:00 -0500"
+    },
+    {
+      "title": "Sophie Charlotte",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Sophie%20Charlotte",
+      "pubdate": "Sun, 22 Sep 2024 00:00:00 -0500"
     },
     {
       "title": "Borussia",
