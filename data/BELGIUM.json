@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17-10-2024 , 08:48:51",
+  "lastUpdate": "17-10-2024 , 08:55:37",
   "data": [
     {
       "title": "One Direction",
@@ -27,24 +27,19 @@
       "pubdate": "Wed, 16 Oct 2024 20:00:00 +0200"
     },
     {
-      "title": "Bart Tommelein",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Bart%20Tommelein",
-      "pubdate": "Wed, 16 Oct 2024 02:00:00 +0200"
-    },
-    {
       "title": "Schietpartij Antwerpen",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Schietpartij%20Antwerpen",
       "pubdate": "Wed, 16 Oct 2024 17:00:00 +0200"
     },
     {
+      "title": "Bart Tommelein",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Bart%20Tommelein",
+      "pubdate": "Wed, 16 Oct 2024 02:00:00 +0200"
+    },
+    {
       "title": "Tesla Cybertruck",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Tesla%20Cybertruck",
       "pubdate": "Wed, 16 Oct 2024 16:00:00 +0200"
-    },
-    {
-      "title": "Raven slimste mens",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Raven%20slimste%20mens",
-      "pubdate": "Wed, 16 Oct 2024 22:00:00 +0200"
     },
     {
       "title": "Argentine – Bolivie",
@@ -100,6 +95,11 @@
       "title": "Wavre",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Wavre",
       "pubdate": "Wed, 16 Oct 2024 01:00:00 +0200"
+    },
+    {
+      "title": "Gilbert Bouchet",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Gilbert%20Bouchet",
+      "pubdate": "Wed, 16 Oct 2024 18:00:00 +0200"
     }
   ]
 }

@@ -1,1 +1,1 @@
-One Direction,Szoboszlai Dominik,Kozma Imre,Hír,Messi,Földrengés Törökországban,Kormányinfó,Thomas Tuchel,Fazekas László,Cher,Noszály Andrea,IDEA Intézet,Kariko Katalin,Gera Zoltán,Péterffy tamás,Békés Márton,Zalakerámia,Monet kiállítás,Szabó Csilla,Kustánczi Lia
+One Direction,Szoboszlai Dominik,Hír,Kozma Imre atya,Földrengés Törökországban,Messi,Kormányinfó,Thomas Tuchel,Fazekas László,Noszály Andrea,Cher,Millenáris,IDEA Intézet,Kariko Katalin,Gera Zoltán,Péterffy tamás,Békés Márton,Zalakerámia,Kustánczi Lia,Monet kiállítás
