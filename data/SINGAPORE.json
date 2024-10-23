@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23-10-2024 , 21:48:25",
+  "lastUpdate": "23-10-2024 , 21:55:21",
   "data": [
     {
       "title": "RB Leipzig vs Liverpool",
@@ -87,11 +87,6 @@
       "pubdate": "Tue, 22 Oct 2024 23:00:00 +0800"
     },
     {
-      "title": "Al-Hilal",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Al-Hilal",
-      "pubdate": "Tue, 22 Oct 2024 09:00:00 +0800"
-    },
-    {
       "title": "Champions League",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Champions%20League",
       "pubdate": "Mon, 21 Oct 2024 20:00:00 +0800"
@@ -100,6 +95,11 @@
       "title": "Liverpool",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Liverpool",
       "pubdate": "Mon, 21 Oct 2024 01:00:00 +0800"
+    },
+    {
+      "title": "Lidia Thorpe",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Lidia%20Thorpe",
+      "pubdate": "Mon, 21 Oct 2024 20:00:00 +0800"
     }
   ]
 }

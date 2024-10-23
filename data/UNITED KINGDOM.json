@@ -1,25 +1,10 @@
 {
-  "lastUpdate": "23-10-2024 , 21:48:27",
+  "lastUpdate": "23-10-2024 , 21:55:23",
   "data": [
-    {
-      "title": "RB Leipzig vs Liverpool",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#RB%20Leipzig%20vs%20Liverpool",
-      "pubdate": "Wed, 23 Oct 2024 20:00:00 +0100"
-    },
     {
       "title": "Birmingham Airport",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Birmingham%20Airport",
       "pubdate": "Wed, 23 Oct 2024 15:00:00 +0100"
-    },
-    {
-      "title": "Celtic",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Celtic",
-      "pubdate": "Wed, 23 Oct 2024 18:00:00 +0100"
-    },
-    {
-      "title": "Barcelona vs Bayern",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Barcelona%20vs%20Bayern",
-      "pubdate": "Wed, 23 Oct 2024 20:00:00 +0100"
     },
     {
       "title": "Man City vs Sparta praha",
@@ -100,6 +85,21 @@
       "title": "Victoria Taylor",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Victoria%20Taylor",
       "pubdate": "Wed, 23 Oct 2024 03:00:00 +0100"
+    },
+    {
+      "title": "QPR",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#QPR",
+      "pubdate": "Wed, 23 Oct 2024 08:00:00 +0100"
+    },
+    {
+      "title": "Cardiff City",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Cardiff%20City",
+      "pubdate": "Wed, 23 Oct 2024 09:00:00 +0100"
+    },
+    {
+      "title": "RSV",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#RSV",
+      "pubdate": "Wed, 23 Oct 2024 08:00:00 +0100"
     }
   ]
 }

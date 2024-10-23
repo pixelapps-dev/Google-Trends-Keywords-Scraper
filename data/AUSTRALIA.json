@@ -1,16 +1,6 @@
 {
-  "lastUpdate": "23-10-2024 , 21:48:18",
+  "lastUpdate": "23-10-2024 , 21:55:13",
   "data": [
-    {
-      "title": "Champions League",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Champions%20League",
-      "pubdate": "Thu, 24 Oct 2024 07:00:00 +1100"
-    },
-    {
-      "title": "RB Leipzig vs Liverpool",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#RB%20Leipzig%20vs%20Liverpool",
-      "pubdate": "Thu, 24 Oct 2024 07:00:00 +1100"
-    },
     {
       "title": "Joe Rogan",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Joe%20Rogan",
@@ -67,14 +57,14 @@
       "pubdate": "Wed, 23 Oct 2024 14:00:00 +1100"
     },
     {
-      "title": "Starbucks Perth",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Starbucks%20Perth",
-      "pubdate": "Wed, 23 Oct 2024 18:00:00 +1100"
-    },
-    {
       "title": "Europa League",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Europa%20League",
       "pubdate": "Wed, 23 Oct 2024 09:00:00 +1100"
+    },
+    {
+      "title": "Starbucks Perth",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Starbucks%20Perth",
+      "pubdate": "Wed, 23 Oct 2024 18:00:00 +1100"
     },
     {
       "title": "North Korean Russia",
@@ -100,6 +90,16 @@
       "title": "ESPN",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#ESPN",
       "pubdate": "Wed, 23 Oct 2024 23:00:00 +1100"
+    },
+    {
+      "title": "E. coli",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#E.%20coli",
+      "pubdate": "Wed, 23 Oct 2024 20:00:00 +1100"
+    },
+    {
+      "title": "David Warner",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#David%20Warner",
+      "pubdate": "Wed, 23 Oct 2024 14:00:00 +1100"
     }
   ]
 }

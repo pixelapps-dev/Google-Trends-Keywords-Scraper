@@ -1,11 +1,6 @@
 {
-  "lastUpdate": "23-10-2024 , 21:48:24",
+  "lastUpdate": "23-10-2024 , 21:55:21",
   "data": [
-    {
-      "title": "Barcelona - Bayern",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Barcelona%20-%20Bayern",
-      "pubdate": "Wed, 23 Oct 2024 16:00:00 +0300"
-    },
     {
       "title": "Champions League",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Champions%20League",
@@ -35,11 +30,6 @@
       "title": "Asia Express, 22 octombrie 2024",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Asia%20Express,%2022%20octombrie%202024",
       "pubdate": "Wed, 23 Oct 2024 09:00:00 +0300"
-    },
-    {
-      "title": "FC Barcelona",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#FC%20Barcelona",
-      "pubdate": "Wed, 23 Oct 2024 22:00:00 +0300"
     },
     {
       "title": "Mpox",
@@ -100,6 +90,16 @@
       "title": "Ankara",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Ankara",
       "pubdate": "Wed, 23 Oct 2024 23:00:00 +0300"
+    },
+    {
+      "title": "Barcelona - Bayern",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Barcelona%20-%20Bayern",
+      "pubdate": "Tue, 22 Oct 2024 16:00:00 +0300"
+    },
+    {
+      "title": "Real Madrid,  Dortmund",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Real%20Madrid,%20%20Dortmund",
+      "pubdate": "Tue, 22 Oct 2024 22:00:00 +0300"
     }
   ]
 }

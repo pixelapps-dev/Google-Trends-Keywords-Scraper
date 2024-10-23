@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23-10-2024 , 21:48:21",
+  "lastUpdate": "23-10-2024 , 21:55:16",
   "data": [
     {
       "title": "Απεργια πλοιων",
@@ -10,11 +10,6 @@
       "title": "NBA",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#NBA",
       "pubdate": "Wed, 23 Oct 2024 08:00:00 +0300"
-    },
-    {
-      "title": "Μπαρτσελόνα",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%9C%CF%80%CE%B1%CF%81%CF%84%CF%83%CE%B5%CE%BB%CF%8C%CE%BD%CE%B1",
-      "pubdate": "Wed, 23 Oct 2024 18:00:00 +0300"
     },
     {
       "title": "Europa League",
@@ -47,6 +42,11 @@
       "pubdate": "Wed, 23 Oct 2024 01:00:00 +0300"
     },
     {
+      "title": "Οτι",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%9F%CF%84%CE%B9",
+      "pubdate": "Wed, 23 Oct 2024 00:00:00 +0300"
+    },
+    {
       "title": "Αταλαντα σελτικ",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%91%CF%84%CE%B1%CE%BB%CE%B1%CE%BD%CF%84%CE%B1%20%CF%83%CE%B5%CE%BB%CF%84%CE%B9%CE%BA",
       "pubdate": "Wed, 23 Oct 2024 22:00:00 +0300"
@@ -77,11 +77,6 @@
       "pubdate": "Wed, 23 Oct 2024 08:00:00 +0300"
     },
     {
-      "title": "Παο τσελσι",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%A0%CE%B1%CE%BF%20%CF%84%CF%83%CE%B5%CE%BB%CF%83%CE%B9",
-      "pubdate": "Wed, 23 Oct 2024 15:00:00 +0300"
-    },
-    {
       "title": "Γιουβεντουσ",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%93%CE%B9%CE%BF%CF%85%CE%B2%CE%B5%CE%BD%CF%84%CE%BF%CF%85%CF%83",
       "pubdate": "Wed, 23 Oct 2024 01:00:00 +0300"
@@ -100,6 +95,11 @@
       "title": "Ανταρκτικη",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%91%CE%BD%CF%84%CE%B1%CF%81%CE%BA%CF%84%CE%B9%CE%BA%CE%B7",
       "pubdate": "Wed, 23 Oct 2024 21:00:00 +0300"
+    },
+    {
+      "title": "Ελενα χριστοπουλου",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%95%CE%BB%CE%B5%CE%BD%CE%B1%20%CF%87%CF%81%CE%B9%CF%83%CF%84%CE%BF%CF%80%CE%BF%CF%85%CE%BB%CE%BF%CF%85",
+      "pubdate": "Wed, 23 Oct 2024 19:00:00 +0300"
     }
   ]
 }

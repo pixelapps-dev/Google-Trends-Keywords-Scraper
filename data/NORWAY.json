@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23-10-2024 , 21:48:24",
+  "lastUpdate": "23-10-2024 , 21:55:20",
   "data": [
     {
       "title": "Champions League",
@@ -67,11 +67,6 @@
       "pubdate": "Tue, 22 Oct 2024 22:00:00 +0200"
     },
     {
-      "title": "Matoma",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Matoma",
-      "pubdate": "Tue, 22 Oct 2024 15:00:00 +0200"
-    },
-    {
       "title": "Sverdfisk",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Sverdfisk",
       "pubdate": "Tue, 22 Oct 2024 07:00:00 +0200"
@@ -100,6 +95,11 @@
       "title": "Lyn",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Lyn",
       "pubdate": "Tue, 22 Oct 2024 20:00:00 +0200"
+    },
+    {
+      "title": "Mehl",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Mehl",
+      "pubdate": "Tue, 22 Oct 2024 18:00:00 +0200"
     }
   ]
 }

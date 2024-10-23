@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23-10-2024 , 21:48:23",
+  "lastUpdate": "23-10-2024 , 21:55:19",
   "data": [
     {
       "title": "Liverpool",
@@ -22,11 +22,6 @@
       "pubdate": "Wed, 23 Oct 2024 08:00:00 +1300"
     },
     {
-      "title": "Real Madrid",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Real%20Madrid",
-      "pubdate": "Wed, 23 Oct 2024 09:00:00 +1300"
-    },
-    {
       "title": "Prose",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Prose",
       "pubdate": "Wed, 23 Oct 2024 08:00:00 +1300"
@@ -35,6 +30,11 @@
       "title": "Silver Ferns",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Silver%20Ferns",
       "pubdate": "Wed, 23 Oct 2024 21:00:00 +1300"
+    },
+    {
+      "title": "UEFA Champions League",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#UEFA%20Champions%20League",
+      "pubdate": "Wed, 23 Oct 2024 09:00:00 +1300"
     },
     {
       "title": "Arsenal",

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23-10-2024 , 21:48:27",
+  "lastUpdate": "23-10-2024 , 21:55:23",
   "data": [
     {
       "title": "Man City đấu với Sparta",
@@ -40,11 +40,6 @@
       "title": "C1",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#C1",
       "pubdate": "Wed, 23 Oct 2024 19:00:00 +0700"
-    },
-    {
-      "title": "Barcelona đấu với Bayern",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Barcelona%20%C4%91%E1%BA%A5u%20v%E1%BB%9Bi%20Bayern",
-      "pubdate": "Wed, 23 Oct 2024 17:00:00 +0700"
     },
     {
       "title": "Aston Villa đấu với Bologna",
@@ -100,6 +95,11 @@
       "title": "Aston villa",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Aston%20villa",
       "pubdate": "Wed, 23 Oct 2024 03:00:00 +0700"
+    },
+    {
+      "title": "Arsenal vs",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Arsenal%20vs",
+      "pubdate": "Wed, 23 Oct 2024 04:00:00 +0700"
     }
   ]
 }
