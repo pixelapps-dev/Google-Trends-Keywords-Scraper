@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25-10-2024 , 07:43:21",
+  "lastUpdate": "25-10-2024 , 07:50:02",
   "data": [
     {
       "title": "Menendez brothers",
@@ -12,14 +12,14 @@
       "pubdate": "Fri, 25 Oct 2024 06:00:00 +0100"
     },
     {
-      "title": "Hearts",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Hearts",
-      "pubdate": "Fri, 25 Oct 2024 00:00:00 +0100"
-    },
-    {
       "title": "Sutton Foster",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Sutton%20Foster",
       "pubdate": "Fri, 25 Oct 2024 06:00:00 +0100"
+    },
+    {
+      "title": "Hearts",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Hearts",
+      "pubdate": "Fri, 25 Oct 2024 00:00:00 +0100"
     },
     {
       "title": "Panathinaikos vs Chelsea",
@@ -42,6 +42,11 @@
       "pubdate": "Thu, 24 Oct 2024 13:00:00 +0100"
     },
     {
+      "title": "Scabies",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Scabies",
+      "pubdate": "Thu, 24 Oct 2024 19:00:00 +0100"
+    },
+    {
       "title": "Disposable vapes banned",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Disposable%20vapes%20banned",
       "pubdate": "Thu, 24 Oct 2024 14:00:00 +0100"
@@ -60,6 +65,11 @@
       "title": "Rachel Reeves",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Rachel%20Reeves",
       "pubdate": "Thu, 24 Oct 2024 21:00:00 +0100"
+    },
+    {
+      "title": "Jose Mourinho",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Jose%20Mourinho",
+      "pubdate": "Thu, 24 Oct 2024 22:00:00 +0100"
     },
     {
       "title": "Alfredo Morelos",
@@ -87,19 +97,9 @@
       "pubdate": "Thu, 24 Oct 2024 17:00:00 +0100"
     },
     {
-      "title": "FC Barcelona",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#FC%20Barcelona",
-      "pubdate": "Thu, 24 Oct 2024 01:00:00 +0100"
-    },
-    {
-      "title": "Carol Vorderman",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Carol%20Vorderman",
-      "pubdate": "Thu, 24 Oct 2024 23:00:00 +0100"
-    },
-    {
-      "title": "Fenerbahçe vs Man United",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Fenerbah%C3%A7e%20vs%20Man%20United",
-      "pubdate": "Wed, 23 Oct 2024 09:00:00 +0100"
+      "title": "Tesla share price",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Tesla%20share%20price",
+      "pubdate": "Thu, 24 Oct 2024 18:00:00 +0100"
     }
   ]
 }

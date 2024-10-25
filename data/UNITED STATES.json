@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25-10-2024 , 07:43:10",
+  "lastUpdate": "25-10-2024 , 07:49:52",
   "data": [
     {
       "title": "Vikings",
@@ -27,19 +27,14 @@
       "pubdate": "Thu, 24 Oct 2024 16:00:00 -0700"
     },
     {
-      "title": "Lunar phases",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Lunar%20phases",
-      "pubdate": "Thu, 24 Oct 2024 06:00:00 -0700"
-    },
-    {
-      "title": "Europa League",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Europa%20League",
-      "pubdate": "Thu, 24 Oct 2024 06:00:00 -0700"
-    },
-    {
       "title": "Nuggets",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Nuggets",
       "pubdate": "Thu, 24 Oct 2024 19:00:00 -0700"
+    },
+    {
+      "title": "Lunar phases",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Lunar%20phases",
+      "pubdate": "Thu, 24 Oct 2024 06:00:00 -0700"
     },
     {
       "title": "Klay Thompson",
@@ -47,14 +42,14 @@
       "pubdate": "Thu, 24 Oct 2024 18:00:00 -0700"
     },
     {
-      "title": "Manchester United",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Manchester%20United",
-      "pubdate": "Thu, 24 Oct 2024 12:00:00 -0700"
-    },
-    {
       "title": "Josh Reynolds",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Josh%20Reynolds",
       "pubdate": "Thu, 24 Oct 2024 15:00:00 -0700"
+    },
+    {
+      "title": "Manchester United",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Manchester%20United",
+      "pubdate": "Thu, 24 Oct 2024 12:00:00 -0700"
     },
     {
       "title": "Puka Nacua news",
@@ -82,14 +77,19 @@
       "pubdate": "Thu, 24 Oct 2024 09:00:00 -0700"
     },
     {
-      "title": "Chelsea",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Chelsea",
-      "pubdate": "Thu, 24 Oct 2024 11:00:00 -0700"
+      "title": "Timberwolves vs Kings",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Timberwolves%20vs%20Kings",
+      "pubdate": "Thu, 24 Oct 2024 22:00:00 -0700"
     },
     {
       "title": "Bruce Springsteen",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Bruce%20Springsteen",
       "pubdate": "Thu, 24 Oct 2024 18:00:00 -0700"
+    },
+    {
+      "title": "Chelsea",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Chelsea",
+      "pubdate": "Thu, 24 Oct 2024 11:00:00 -0700"
     },
     {
       "title": "Mitch McConnell",
