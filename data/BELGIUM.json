@@ -1,10 +1,15 @@
 {
-  "lastUpdate": "13-11-2024 , 07:35:55",
+  "lastUpdate": "13-11-2024 , 07:42:46",
   "data": [
     {
       "title": "Jannik Sinner",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Jannik%20Sinner",
       "pubdate": "Wed, 13 Nov 2024 01:00:00 +0100"
+    },
+    {
+      "title": "Pete Hegseth",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Pete%20Hegseth",
+      "pubdate": "Wed, 13 Nov 2024 08:00:00 +0100"
     },
     {
       "title": "Marco Rubio",
@@ -42,24 +47,24 @@
       "pubdate": "Tue, 12 Nov 2024 23:00:00 +0100"
     },
     {
+      "title": "Kristi Noem",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Kristi%20Noem",
+      "pubdate": "Tue, 12 Nov 2024 20:00:00 +0100"
+    },
+    {
       "title": "Almeria",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Almeria",
       "pubdate": "Tue, 12 Nov 2024 16:00:00 +0100"
     },
     {
-      "title": "Koers bitcoin",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Koers%20bitcoin",
+      "title": "Koers Bitcoin",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Koers%20Bitcoin",
       "pubdate": "Tue, 12 Nov 2024 08:00:00 +0100"
     },
     {
       "title": "XRP",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#XRP",
       "pubdate": "Tue, 12 Nov 2024 19:00:00 +0100"
-    },
-    {
-      "title": "Kristi Noem",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Kristi%20Noem",
-      "pubdate": "Tue, 12 Nov 2024 20:00:00 +0100"
     },
     {
       "title": "Belgique - Italie",
@@ -72,6 +77,11 @@
       "pubdate": "Tue, 12 Nov 2024 15:00:00 +0100"
     },
     {
+      "title": "Bryan Adams",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Bryan%20Adams",
+      "pubdate": "Tue, 12 Nov 2024 19:00:00 +0100"
+    },
+    {
       "title": "Ethereum",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Ethereum",
       "pubdate": "Tue, 12 Nov 2024 15:00:00 +0100"
@@ -82,23 +92,13 @@
       "pubdate": "Tue, 12 Nov 2024 15:00:00 +0100"
     },
     {
-      "title": "Bryan Adams",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Bryan%20Adams",
-      "pubdate": "Tue, 12 Nov 2024 19:00:00 +0100"
-    },
-    {
       "title": "Sven Gatz",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Sven%20Gatz",
       "pubdate": "Tue, 12 Nov 2024 08:00:00 +0100"
     },
     {
-      "title": "Zona",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Zona",
-      "pubdate": "Tue, 12 Nov 2024 18:00:00 +0100"
-    },
-    {
-      "title": "Gary Lineker",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Gary%20Lineker",
+      "title": "Braquage Louis Vuitton Paris",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Braquage%20Louis%20Vuitton%20Paris",
       "pubdate": "Tue, 12 Nov 2024 20:00:00 +0100"
     }
   ]
