@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-11-2024 , 23:42:39",
+  "lastUpdate": "21-11-2024 , 23:49:28",
   "data": [
     {
       "title": "Bolsonaro",
@@ -10,11 +10,6 @@
       "title": "OAB-SP",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#OAB-SP",
       "pubdate": "Thu, 21 Nov 2024 08:00:00 -0500"
-    },
-    {
-      "title": "Internacional",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Internacional",
-      "pubdate": "Thu, 21 Nov 2024 01:00:00 -0500"
     },
     {
       "title": "CNU resultado",
@@ -100,6 +95,11 @@
       "title": "Cuiabá x Flamengo",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Cuiab%C3%A1%20x%20Flamengo",
       "pubdate": "Wed, 20 Nov 2024 16:00:00 -0500"
+    },
+    {
+      "title": "Corinthians",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Corinthians",
+      "pubdate": "Wed, 20 Nov 2024 10:00:00 -0500"
     }
   ]
 }

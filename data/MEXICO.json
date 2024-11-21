@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-11-2024 , 23:42:44",
+  "lastUpdate": "21-11-2024 , 23:49:34",
   "data": [
     {
       "title": "Jove Español  Real Sociedad",
@@ -37,11 +37,6 @@
       "pubdate": "Thu, 21 Nov 2024 07:00:00 -0600"
     },
     {
-      "title": "Chivas vs Atlas",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Chivas%20vs%20Atlas",
-      "pubdate": "Wed, 20 Nov 2024 21:00:00 -0600"
-    },
-    {
       "title": "Celaya  Tapatío",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Celaya%20%20Tapat%C3%ADo",
       "pubdate": "Wed, 20 Nov 2024 19:00:00 -0600"
@@ -62,6 +57,11 @@
       "pubdate": "Wed, 20 Nov 2024 00:00:00 -0600"
     },
     {
+      "title": "Efrain juarez",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Efrain%20juarez",
+      "pubdate": "Wed, 20 Nov 2024 16:00:00 -0600"
+    },
+    {
       "title": "Tijuana vs América",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Tijuana%20vs%20Am%C3%A9rica",
       "pubdate": "Wed, 20 Nov 2024 21:00:00 -0600"
@@ -75,11 +75,6 @@
       "title": "INAI",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#INAI",
       "pubdate": "Wed, 20 Nov 2024 22:00:00 -0600"
-    },
-    {
-      "title": "Atletico Nacional",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Atletico%20Nacional",
-      "pubdate": "Wed, 20 Nov 2024 21:00:00 -0600"
     },
     {
       "title": "Reloj Apocalipsis",
@@ -100,6 +95,11 @@
       "title": "Coachella 2025",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Coachella%202025",
       "pubdate": "Wed, 20 Nov 2024 21:00:00 -0600"
+    },
+    {
+      "title": "Iron Maiden",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Iron%20Maiden",
+      "pubdate": "Wed, 20 Nov 2024 00:00:00 -0600"
     }
   ]
 }

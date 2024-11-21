@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-11-2024 , 23:42:43",
+  "lastUpdate": "21-11-2024 , 23:49:33",
   "data": [
     {
       "title": "Maurizio Cattelan",
@@ -29,6 +29,11 @@
     {
       "title": "Stash",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Stash",
+      "pubdate": "Thu, 21 Nov 2024 00:00:00 +0100"
+    },
+    {
+      "title": "Raf",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Raf",
       "pubdate": "Thu, 21 Nov 2024 00:00:00 +0100"
     },
     {
@@ -95,11 +100,6 @@
       "title": "Ennio Doris",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Ennio%20Doris",
       "pubdate": "Thu, 21 Nov 2024 23:00:00 +0100"
-    },
-    {
-      "title": "PierSilvio Berlusconi",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#PierSilvio%20Berlusconi",
-      "pubdate": "Thu, 21 Nov 2024 09:00:00 +0100"
     }
   ]
 }

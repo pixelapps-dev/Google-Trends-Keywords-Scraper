@@ -1,11 +1,6 @@
 {
-  "lastUpdate": "21-11-2024 , 23:42:43",
+  "lastUpdate": "21-11-2024 , 23:49:32",
   "data": [
-    {
-      "title": "Weather warning",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Weather%20warning",
-      "pubdate": "Thu, 21 Nov 2024 09:00:00 +0000"
-    },
     {
       "title": "John Prescott",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#John%20Prescott",
@@ -32,11 +27,6 @@
       "pubdate": "Thu, 21 Nov 2024 00:00:00 +0000"
     },
     {
-      "title": "All Together Now",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#All%20Together%20Now",
-      "pubdate": "Thu, 21 Nov 2024 14:00:00 +0000"
-    },
-    {
       "title": "Wayne Rooney",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Wayne%20Rooney",
       "pubdate": "Thu, 21 Nov 2024 22:00:00 +0000"
@@ -55,11 +45,6 @@
       "title": "ICC",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#ICC",
       "pubdate": "Thu, 21 Nov 2024 16:00:00 +0000"
-    },
-    {
-      "title": "Weather galway",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Weather%20galway",
-      "pubdate": "Thu, 21 Nov 2024 08:00:00 +0000"
     },
     {
       "title": "Mary Lou McDonald",
@@ -100,6 +85,21 @@
       "title": "Denzel Washington",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Denzel%20Washington",
       "pubdate": "Thu, 21 Nov 2024 17:00:00 +0000"
+    },
+    {
+      "title": "Shamrock Rovers",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Shamrock%20Rovers",
+      "pubdate": "Thu, 21 Nov 2024 21:00:00 +0000"
+    },
+    {
+      "title": "Simpsons Milhouse",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Simpsons%20Milhouse",
+      "pubdate": "Thu, 21 Nov 2024 22:00:00 +0000"
+    },
+    {
+      "title": "Creeslough explosion",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Creeslough%20explosion",
+      "pubdate": "Thu, 21 Nov 2024 22:00:00 +0000"
     }
   ]
 }

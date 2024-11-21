@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-11-2024 , 23:42:41",
+  "lastUpdate": "21-11-2024 , 23:49:31",
   "data": [
     {
       "title": "Beaujolais nouveau",
@@ -25,11 +25,6 @@
       "title": "Missile intercontinental",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Missile%20intercontinental",
       "pubdate": "Thu, 21 Nov 2024 18:00:00 +0100"
-    },
-    {
-      "title": "Nantes",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Nantes",
-      "pubdate": "Thu, 21 Nov 2024 11:00:00 +0100"
     },
     {
       "title": "Michel Fugain",
@@ -77,8 +72,8 @@
       "pubdate": "Thu, 21 Nov 2024 23:00:00 +0100"
     },
     {
-      "title": "Meteo France",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Meteo%20France",
+      "title": "Neige",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Neige",
       "pubdate": "Wed, 20 Nov 2024 17:00:00 +0100"
     },
     {
@@ -100,6 +95,11 @@
       "title": "S.T.A.L.K.E.R. 2",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#S.T.A.L.K.E.R.%202",
       "pubdate": "Wed, 20 Nov 2024 16:00:00 +0100"
+    },
+    {
+      "title": "Linda McMahon",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Linda%20McMahon",
+      "pubdate": "Wed, 20 Nov 2024 10:00:00 +0100"
     }
   ]
 }

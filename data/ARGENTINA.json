@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-11-2024 , 23:42:38",
+  "lastUpdate": "21-11-2024 , 23:49:28",
   "data": [
     {
       "title": "Barracas Central  Belgrano",
@@ -25,11 +25,6 @@
       "title": "Copa Davis",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Copa%20Davis",
       "pubdate": "Thu, 21 Nov 2024 18:00:00 -0300"
-    },
-    {
-      "title": "Talleres",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Talleres",
-      "pubdate": "Thu, 21 Nov 2024 10:00:00 -0300"
     },
     {
       "title": "Tabla de posiciones Liga Argentina",
@@ -82,11 +77,6 @@
       "pubdate": "Thu, 21 Nov 2024 19:00:00 -0300"
     },
     {
-      "title": "Gimnasia",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Gimnasia",
-      "pubdate": "Thu, 21 Nov 2024 09:00:00 -0300"
-    },
-    {
       "title": "Liga Argentina 2024",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Liga%20Argentina%202024",
       "pubdate": "Thu, 21 Nov 2024 00:00:00 -0300"
@@ -100,6 +90,16 @@
       "title": "Victoria Villarruel",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Victoria%20Villarruel",
       "pubdate": "Thu, 21 Nov 2024 17:00:00 -0300"
+    },
+    {
+      "title": "Dalton Knecht",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Dalton%20Knecht",
+      "pubdate": "Thu, 21 Nov 2024 01:00:00 -0300"
+    },
+    {
+      "title": "Boca Juniors  Unión",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Boca%20Juniors%20%20Uni%C3%B3n",
+      "pubdate": "Wed, 20 Nov 2024 18:00:00 -0300"
     }
   ]
 }

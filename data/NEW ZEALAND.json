@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-11-2024 , 23:42:44",
+  "lastUpdate": "21-11-2024 , 23:49:34",
   "data": [
     {
       "title": "All Blacks vs Italy",
@@ -40,6 +40,11 @@
       "title": "Nvidia stock",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Nvidia%20stock",
       "pubdate": "Thu, 21 Nov 2024 15:00:00 +1300"
+    },
+    {
+      "title": "Kogan",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Kogan",
+      "pubdate": "Thu, 21 Nov 2024 12:00:00 +1300"
     },
     {
       "title": "Is Reddit down",
@@ -95,11 +100,6 @@
       "title": "New Zealand vs Sri Lanka",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#New%20Zealand%20vs%20Sri%20Lanka",
       "pubdate": "Wed, 20 Nov 2024 07:00:00 +1300"
-    },
-    {
-      "title": "Hozier",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Hozier",
-      "pubdate": "Wed, 20 Nov 2024 12:00:00 +1300"
     }
   ]
 }
