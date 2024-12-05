@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-12-2024 , 23:59:06",
+  "lastUpdate": "05-12-2024 , 01:51:27",
   "data": [
     {
       "title": "Spotify Wrapped",
@@ -17,8 +17,8 @@
       "pubdate": "Wed, 04 Dec 2024 20:00:00 +0100"
     },
     {
-      "title": "Premier-League",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Premier-League",
+      "title": "Premier League",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Premier%20League",
       "pubdate": "Wed, 04 Dec 2024 23:00:00 +0100"
     },
     {
@@ -50,11 +50,6 @@
       "title": "Newcastle – Liverpool",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Newcastle%20%E2%80%93%20Liverpool",
       "pubdate": "Wed, 04 Dec 2024 20:00:00 +0100"
-    },
-    {
-      "title": "Manchester United",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Manchester%20United",
-      "pubdate": "Wed, 04 Dec 2024 23:00:00 +0100"
     },
     {
       "title": "Donatella Versace",
@@ -92,14 +87,19 @@
       "pubdate": "Wed, 04 Dec 2024 14:00:00 +0100"
     },
     {
+      "title": "Erwin Schrott",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Erwin%20Schrott",
+      "pubdate": "Wed, 04 Dec 2024 21:00:00 +0100"
+    },
+    {
       "title": "Köln – Hertha",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#K%C3%B6ln%20%E2%80%93%20Hertha",
       "pubdate": "Wed, 04 Dec 2024 21:00:00 +0100"
     },
     {
-      "title": "Erwin Schrott",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Erwin%20Schrott",
-      "pubdate": "Wed, 04 Dec 2024 21:00:00 +0100"
+      "title": "Grundsteuer",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Grundsteuer",
+      "pubdate": "Wed, 04 Dec 2024 18:00:00 +0100"
     }
   ]
 }
