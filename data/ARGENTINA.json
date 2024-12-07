@@ -1,10 +1,15 @@
 {
-  "lastUpdate": "07-12-2024 , 01:38:39",
+  "lastUpdate": "07-12-2024 , 02:50:30",
   "data": [
     {
       "title": "Deportivo Riestra  Barracas Central",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Deportivo%20Riestra%20%20Barracas%20Central",
       "pubdate": "Fri, 06 Dec 2024 17:00:00 -0300"
+    },
+    {
+      "title": "Sarmiento  Defensa y Justicia",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Sarmiento%20%20Defensa%20y%20Justicia",
+      "pubdate": "Fri, 06 Dec 2024 20:00:00 -0300"
     },
     {
       "title": "Inter - Parma",
@@ -17,14 +22,14 @@
       "pubdate": "Fri, 06 Dec 2024 17:00:00 -0300"
     },
     {
-      "title": "Sarmiento  Defensa y Justicia",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Sarmiento%20%20Defensa%20y%20Justicia",
-      "pubdate": "Fri, 06 Dec 2024 20:00:00 -0300"
-    },
-    {
       "title": "Auxerre - PSG",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Auxerre%20-%20PSG",
       "pubdate": "Fri, 06 Dec 2024 18:00:00 -0300"
+    },
+    {
+      "title": "SEP",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#SEP",
+      "pubdate": "Fri, 06 Dec 2024 12:00:00 -0300"
     },
     {
       "title": "Max Verstappen",
@@ -52,14 +57,14 @@
       "pubdate": "Fri, 06 Dec 2024 17:00:00 -0300"
     },
     {
-      "title": "Terremoto California",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Terremoto%20California",
-      "pubdate": "Fri, 06 Dec 2024 00:00:00 -0300"
-    },
-    {
       "title": "Celta de Vigo  RCD Mallorca",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Celta%20de%20Vigo%20%20RCD%20Mallorca",
       "pubdate": "Fri, 06 Dec 2024 19:00:00 -0300"
+    },
+    {
+      "title": "Terremoto California",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Terremoto%20California",
+      "pubdate": "Fri, 06 Dec 2024 00:00:00 -0300"
     },
     {
       "title": "Path of Exile 2",
@@ -82,8 +87,8 @@
       "pubdate": "Thu, 05 Dec 2024 17:00:00 -0300"
     },
     {
-      "title": "Al Ittihad  Al-Nassr",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Al%20Ittihad%20%20Al-Nassr",
+      "title": "Al Ittihad  al-nassr",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Al%20Ittihad%20%20al-nassr",
       "pubdate": "Thu, 05 Dec 2024 19:00:00 -0300"
     },
     {
@@ -95,11 +100,6 @@
       "title": "Urawa Red Diamonds",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Urawa%20Red%20Diamonds",
       "pubdate": "Thu, 05 Dec 2024 17:00:00 -0300"
-    },
-    {
-      "title": "Talleres",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Talleres",
-      "pubdate": "Thu, 05 Dec 2024 13:00:00 -0300"
     }
   ]
 }
