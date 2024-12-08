@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "08-12-2024 , 11:40:36",
+  "lastUpdate": "08-12-2024 , 11:49:07",
   "data": [
+    {
+      "title": "Selton Mello",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Selton%20Mello",
+      "pubdate": "Sun, 08 Dec 2024 05:00:00 -0500"
+    },
     {
       "title": "Palmeiras x Fluminense",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Palmeiras%20x%20Fluminense",
@@ -82,6 +87,11 @@
       "pubdate": "Sat, 07 Dec 2024 04:00:00 -0500"
     },
     {
+      "title": "Mega-Sena 2805",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Mega-Sena%202805",
+      "pubdate": "Sat, 07 Dec 2024 19:00:00 -0500"
+    },
+    {
       "title": "Assad",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Assad",
       "pubdate": "Sat, 07 Dec 2024 20:00:00 -0500"
@@ -89,16 +99,6 @@
     {
       "title": "Michail Antonio",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Michail%20Antonio",
-      "pubdate": "Sat, 07 Dec 2024 15:00:00 -0500"
-    },
-    {
-      "title": "Mega-Sena 2805",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Mega-Sena%202805",
-      "pubdate": "Sat, 07 Dec 2024 19:00:00 -0500"
-    },
-    {
-      "title": "Roma",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Roma",
       "pubdate": "Sat, 07 Dec 2024 15:00:00 -0500"
     }
   ]
