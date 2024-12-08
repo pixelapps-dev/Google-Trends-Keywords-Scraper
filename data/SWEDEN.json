@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-12-2024 , 01:42:24",
+  "lastUpdate": "08-12-2024 , 03:00:44",
   "data": [
     {
       "title": "UFC",
@@ -7,9 +7,24 @@
       "pubdate": "Sat, 07 Dec 2024 15:00:00 +0100"
     },
     {
+      "title": "Margaux Flavet",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Margaux%20Flavet",
+      "pubdate": "Sat, 07 Dec 2024 21:00:00 +0100"
+    },
+    {
+      "title": "Vem vann Idol 2024",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Vem%20vann%20Idol%202024",
+      "pubdate": "Sat, 07 Dec 2024 21:00:00 +0100"
+    },
+    {
       "title": "Liverpool",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Liverpool",
       "pubdate": "Sat, 07 Dec 2024 16:00:00 +0100"
+    },
+    {
+      "title": "Notre Dame",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Notre%20Dame",
+      "pubdate": "Sat, 07 Dec 2024 17:00:00 +0100"
     },
     {
       "title": "Manchester United",
@@ -17,19 +32,24 @@
       "pubdate": "Sat, 07 Dec 2024 21:00:00 +0100"
     },
     {
-      "title": "Notre-Dame",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Notre-Dame",
+      "title": "Bashar al-Assad",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Bashar%20al-Assad",
       "pubdate": "Sat, 07 Dec 2024 17:00:00 +0100"
-    },
-    {
-      "title": "Liam Pitts",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Liam%20Pitts",
-      "pubdate": "Sat, 07 Dec 2024 06:00:00 +0100"
     },
     {
       "title": "Michail Antonio",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Michail%20Antonio",
       "pubdate": "Sat, 07 Dec 2024 19:00:00 +0100"
+    },
+    {
+      "title": "Minou Nilsson",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Minou%20Nilsson",
+      "pubdate": "Sat, 07 Dec 2024 21:00:00 +0100"
+    },
+    {
+      "title": "Liam Pitts",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Liam%20Pitts",
+      "pubdate": "Sat, 07 Dec 2024 06:00:00 +0100"
     },
     {
       "title": "Jonna Sundling",
@@ -40,16 +60,6 @@
       "title": "Stridsvagn 122",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Stridsvagn%20122",
       "pubdate": "Sat, 07 Dec 2024 19:00:00 +0100"
-    },
-    {
-      "title": "Assad",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Assad",
-      "pubdate": "Sat, 07 Dec 2024 17:00:00 +0100"
-    },
-    {
-      "title": "Linn Svahn",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Linn%20Svahn",
-      "pubdate": "Sat, 07 Dec 2024 14:00:00 +0100"
     },
     {
       "title": "Susanne Ås Sivborg Lantmäteriet",
@@ -90,16 +100,6 @@
       "title": "Apotea aktier",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Apotea%20aktier",
       "pubdate": "Fri, 06 Dec 2024 16:00:00 +0100"
-    },
-    {
-      "title": "Indiana Jones and the great circle",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Indiana%20Jones%20and%20the%20great%20circle",
-      "pubdate": "Fri, 06 Dec 2024 09:00:00 +0100"
-    },
-    {
-      "title": "AMF",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#AMF",
-      "pubdate": "Fri, 06 Dec 2024 12:00:00 +0100"
     }
   ]
 }

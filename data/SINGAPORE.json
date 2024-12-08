@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-12-2024 , 01:42:24",
+  "lastUpdate": "08-12-2024 , 03:00:43",
   "data": [
     {
       "title": "Man United vs nottm Forest",
@@ -27,9 +27,19 @@
       "pubdate": "Sat, 07 Dec 2024 23:00:00 +0800"
     },
     {
+      "title": "COVID-19",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#COVID-19",
+      "pubdate": "Sat, 07 Dec 2024 19:00:00 +0800"
+    },
+    {
       "title": "UFC",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#UFC",
       "pubdate": "Sat, 07 Dec 2024 22:00:00 +0800"
+    },
+    {
+      "title": "Comic Con Singapore",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Comic%20Con%20Singapore",
+      "pubdate": "Sat, 07 Dec 2024 00:00:00 +0800"
     },
     {
       "title": "Aston Villa vs Southampton",
@@ -55,11 +65,6 @@
       "title": "Liverpool FC",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Liverpool%20FC",
       "pubdate": "Sat, 07 Dec 2024 20:00:00 +0800"
-    },
-    {
-      "title": "TikTok banned",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#TikTok%20banned",
-      "pubdate": "Sat, 07 Dec 2024 17:00:00 +0800"
     },
     {
       "title": "Travis Head",
@@ -90,11 +95,6 @@
       "title": "Max Verstappen",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Max%20Verstappen",
       "pubdate": "Fri, 06 Dec 2024 18:00:00 +0800"
-    },
-    {
-      "title": "David Sacks",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#David%20Sacks",
-      "pubdate": "Fri, 06 Dec 2024 14:00:00 +0800"
     },
     {
       "title": "Brian Thompson",

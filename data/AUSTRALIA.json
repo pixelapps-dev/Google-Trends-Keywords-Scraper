@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-12-2024 , 01:42:16",
+  "lastUpdate": "08-12-2024 , 03:00:36",
   "data": [
     {
       "title": "UFC",
@@ -22,9 +22,9 @@
       "pubdate": "Sun, 08 Dec 2024 10:00:00 +1100"
     },
     {
-      "title": "Syria news",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Syria%20news",
-      "pubdate": "Sun, 08 Dec 2024 08:00:00 +1100"
+      "title": "Liverpool FC",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Liverpool%20FC",
+      "pubdate": "Sun, 08 Dec 2024 00:00:00 +1100"
     },
     {
       "title": "F1 qualifying",
@@ -37,14 +37,9 @@
       "pubdate": "Sun, 08 Dec 2024 09:00:00 +1100"
     },
     {
-      "title": "Liverpool FC",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Liverpool%20FC",
-      "pubdate": "Sun, 08 Dec 2024 00:00:00 +1100"
-    },
-    {
-      "title": "Liverpool fc",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Liverpool%20fc",
-      "pubdate": "Sun, 08 Dec 2024 05:00:00 +1100"
+      "title": "Australia Women vs India Women",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Australia%20Women%20vs%20India%20Women",
+      "pubdate": "Sun, 08 Dec 2024 13:00:00 +1100"
     },
     {
       "title": "28 Years Later",
@@ -100,6 +95,11 @@
       "title": "Jaime Chapman",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Jaime%20Chapman",
       "pubdate": "Sat, 07 Dec 2024 19:00:00 +1100"
+    },
+    {
+      "title": "TikTok banned",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#TikTok%20banned",
+      "pubdate": "Sat, 07 Dec 2024 20:00:00 +1100"
     }
   ]
 }
