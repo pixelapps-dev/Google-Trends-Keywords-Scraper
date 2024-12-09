@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "09-12-2024 , 01:36:35",
+  "lastUpdate": "09-12-2024 , 02:57:23",
   "data": [
+    {
+      "title": "Arsenal",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Arsenal",
+      "pubdate": "Mon, 09 Dec 2024 02:00:00 +1100"
+    },
     {
       "title": "Tottenham vs Chelsea",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Tottenham%20vs%20Chelsea",
@@ -12,9 +17,9 @@
       "pubdate": "Mon, 09 Dec 2024 00:00:00 +1100"
     },
     {
-      "title": "Fulham vs Arsenal",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Fulham%20vs%20Arsenal",
-      "pubdate": "Mon, 09 Dec 2024 02:00:00 +1100"
+      "title": "Jay-Z",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Jay-Z",
+      "pubdate": "Mon, 09 Dec 2024 13:00:00 +1100"
     },
     {
       "title": "Nuno Matos",
@@ -32,9 +37,9 @@
       "pubdate": "Mon, 09 Dec 2024 03:00:00 +1100"
     },
     {
-      "title": "UFC",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#UFC",
-      "pubdate": "Sun, 08 Dec 2024 05:00:00 +1100"
+      "title": "James Glenday",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#James%20Glenday",
+      "pubdate": "Mon, 09 Dec 2024 13:00:00 +1100"
     },
     {
       "title": "Syria",
@@ -42,14 +47,19 @@
       "pubdate": "Sun, 08 Dec 2024 08:00:00 +1100"
     },
     {
-      "title": "Crystal Palace vs Man City",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Crystal%20Palace%20vs%20Man%20City",
-      "pubdate": "Sun, 08 Dec 2024 03:00:00 +1100"
+      "title": "UFC",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#UFC",
+      "pubdate": "Sun, 08 Dec 2024 05:00:00 +1100"
     },
     {
-      "title": "Abu Dhabi GP",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Abu%20Dhabi%20GP",
-      "pubdate": "Sun, 08 Dec 2024 03:00:00 +1100"
+      "title": "UFC 310",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#UFC%20310",
+      "pubdate": "Sun, 08 Dec 2024 08:00:00 +1100"
+    },
+    {
+      "title": "Liverpool",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Liverpool",
+      "pubdate": "Sun, 08 Dec 2024 00:00:00 +1100"
     },
     {
       "title": "Shavkat Rakhmonov",
@@ -57,14 +67,9 @@
       "pubdate": "Sun, 08 Dec 2024 15:00:00 +1100"
     },
     {
-      "title": "UFC 312",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#UFC%20312",
-      "pubdate": "Sun, 08 Dec 2024 15:00:00 +1100"
-    },
-    {
-      "title": "Man Utd",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Man%20Utd",
-      "pubdate": "Sun, 08 Dec 2024 10:00:00 +1100"
+      "title": "Abu Dhabi GP",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Abu%20Dhabi%20GP",
+      "pubdate": "Sun, 08 Dec 2024 20:00:00 +1100"
     },
     {
       "title": "Australia Women vs India Women",
@@ -82,6 +87,11 @@
       "pubdate": "Sun, 08 Dec 2024 08:00:00 +1100"
     },
     {
+      "title": "Man City",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Man%20City",
+      "pubdate": "Sun, 08 Dec 2024 06:00:00 +1100"
+    },
+    {
       "title": "Notre Dame Cathedral",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Notre%20Dame%20Cathedral",
       "pubdate": "Sun, 08 Dec 2024 17:00:00 +1100"
@@ -90,16 +100,6 @@
       "title": "Michail Antonio",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Michail%20Antonio",
       "pubdate": "Sun, 08 Dec 2024 09:00:00 +1100"
-    },
-    {
-      "title": "Matt Doran",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Matt%20Doran",
-      "pubdate": "Sun, 08 Dec 2024 10:00:00 +1100"
-    },
-    {
-      "title": "Liverpool f.c",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Liverpool%20f.c",
-      "pubdate": "Sun, 08 Dec 2024 00:00:00 +1100"
     }
   ]
 }

@@ -1,1 +1,1 @@
-Assad,AZ  Ajax,Groningen  PEC,Nieuws,Willem II  Heerenveen,Utrecht FC,Bruggenloop,Dave Roelvink,The hague,Tarwekamp Den Haag,Rico Verhoeven,RKC  Feyenoord,NEC,Remy Bonjasky,Notre-Dame,Sparta,Heracles,Vrienden van Amstel,Rico Verhoeven,Assad
+Atletico Madrid,Assad,AZ  Ajax,Groningen  PEC,Almere  Utrecht,Nieuws,Willem II  Heerenveen,Dave Roelvink,Marc van der Linden,Tarwekamp Den Haag,Rico Verhoeven,RKC  Feyenoord,Remy Bonjasky,Cambuur,Notre-Dame,Sparta,Heracles,Vrienden van Amstel,Rico Verhoeven,Assad

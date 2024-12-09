@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09-12-2024 , 01:36:42",
+  "lastUpdate": "09-12-2024 , 02:57:31",
   "data": [
     {
       "title": "FCSB  Botoşani",
@@ -12,8 +12,8 @@
       "pubdate": "Sun, 08 Dec 2024 10:00:00 +0200"
     },
     {
-      "title": "UTA Arad  Unirea Slobozia",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#UTA%20Arad%20%20Unirea%20Slobozia",
+      "title": "UTA Arad - Unirea Slobozia",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#UTA%20Arad%20-%20Unirea%20Slobozia",
       "pubdate": "Sun, 08 Dec 2024 13:00:00 +0200"
     },
     {
@@ -52,6 +52,11 @@
       "pubdate": "Sun, 08 Dec 2024 09:00:00 +0200"
     },
     {
+      "title": "Coreea de Sud",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Coreea%20de%20Sud",
+      "pubdate": "Sun, 08 Dec 2024 12:00:00 +0200"
+    },
+    {
       "title": "Fiorentina - Cagliari",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Fiorentina%20-%20Cagliari",
       "pubdate": "Sun, 08 Dec 2024 14:00:00 +0200"
@@ -67,19 +72,24 @@
       "pubdate": "Sun, 08 Dec 2024 19:00:00 +0200"
     },
     {
-      "title": "iUmor",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#iUmor",
-      "pubdate": "Sun, 08 Dec 2024 10:00:00 +0200"
-    },
-    {
       "title": "Steaua",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Steaua",
       "pubdate": "Sun, 08 Dec 2024 22:00:00 +0200"
     },
     {
-      "title": "Emmanuel Macron",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Emmanuel%20Macron",
+      "title": "iUmor",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#iUmor",
       "pubdate": "Sun, 08 Dec 2024 10:00:00 +0200"
+    },
+    {
+      "title": "Cezar ionascu",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Cezar%20ionascu",
+      "pubdate": "Sun, 08 Dec 2024 20:00:00 +0200"
+    },
+    {
+      "title": "BOR",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#BOR",
+      "pubdate": "Sun, 08 Dec 2024 00:00:00 +0200"
     },
     {
       "title": "Yohan Roche",
@@ -90,16 +100,6 @@
       "title": "Ursula von der Leyen",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Ursula%20von%20der%20Leyen",
       "pubdate": "Sun, 08 Dec 2024 10:00:00 +0200"
-    },
-    {
-      "title": "Calin Georgescu la vot",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Calin%20Georgescu%20la%20vot",
-      "pubdate": "Sun, 08 Dec 2024 16:00:00 +0200"
-    },
-    {
-      "title": "Siria",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Siria",
-      "pubdate": "Sat, 07 Dec 2024 12:00:00 +0200"
     }
   ]
 }
