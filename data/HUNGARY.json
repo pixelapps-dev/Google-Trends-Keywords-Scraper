@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15-12-2024 , 01:43:58",
+  "lastUpdate": "15-12-2024 , 03:00:47",
   "data": [
     {
       "title": "Szabó Zsófi",
@@ -22,8 +22,8 @@
       "pubdate": "Sat, 14 Dec 2024 16:00:00 +0100"
     },
     {
-      "title": "Törőcsik Franciska",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#T%C3%B6r%C5%91csik%20Franciska",
+      "title": "Ki nyerte a Dancing with the Stars 2024",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Ki%20nyerte%20a%20Dancing%20with%20the%20Stars%202024",
       "pubdate": "Sat, 14 Dec 2024 20:00:00 +0100"
     },
     {
@@ -42,14 +42,14 @@
       "pubdate": "Sat, 14 Dec 2024 16:00:00 +0100"
     },
     {
-      "title": "Ónos eső",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#%C3%93nos%20es%C5%91",
-      "pubdate": "Sat, 14 Dec 2024 08:00:00 +0100"
-    },
-    {
       "title": "Kapás Boglárka",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Kap%C3%A1s%20Bogl%C3%A1rka",
       "pubdate": "Sat, 14 Dec 2024 16:00:00 +0100"
+    },
+    {
+      "title": "Ónos eső",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#%C3%93nos%20es%C5%91",
+      "pubdate": "Sat, 14 Dec 2024 08:00:00 +0100"
     },
     {
       "title": "Nottingham Forest–Aston Villa",
@@ -67,9 +67,9 @@
       "pubdate": "Sat, 14 Dec 2024 20:00:00 +0100"
     },
     {
-      "title": "Mi kis falunk",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Mi%20kis%20falunk",
-      "pubdate": "Sat, 14 Dec 2024 20:00:00 +0100"
+      "title": "M85",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#M85",
+      "pubdate": "Sat, 14 Dec 2024 15:00:00 +0100"
     },
     {
       "title": "Mallorca–Girona",
@@ -77,9 +77,14 @@
       "pubdate": "Sat, 14 Dec 2024 17:00:00 +0100"
     },
     {
-      "title": "M85",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#M85",
-      "pubdate": "Sat, 14 Dec 2024 15:00:00 +0100"
+      "title": "Mi kis falunk",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Mi%20kis%20falunk",
+      "pubdate": "Sat, 14 Dec 2024 20:00:00 +0100"
+    },
+    {
+      "title": "Gretchen Walsh",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Gretchen%20Walsh",
+      "pubdate": "Sat, 14 Dec 2024 12:00:00 +0100"
     },
     {
       "title": "Isak Andic",
@@ -95,11 +100,6 @@
       "title": "Hadik",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Hadik",
       "pubdate": "Sat, 14 Dec 2024 22:00:00 +0100"
-    },
-    {
-      "title": "Udvaros Dorottya",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Udvaros%20Dorottya",
-      "pubdate": "Sat, 14 Dec 2024 21:00:00 +0100"
     }
   ]
 }

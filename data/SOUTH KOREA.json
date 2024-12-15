@@ -1,10 +1,15 @@
 {
-  "lastUpdate": "15-12-2024 , 01:44:03",
+  "lastUpdate": "15-12-2024 , 03:00:51",
   "data": [
     {
       "title": "이재성",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%9D%B4%EC%9E%AC%EC%84%B1",
       "pubdate": "Sun, 15 Dec 2024 02:00:00 +0900"
+    },
+    {
+      "title": "황지민",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%ED%99%A9%EC%A7%80%EB%AF%BC",
+      "pubdate": "Sun, 15 Dec 2024 00:00:00 +0900"
     },
     {
       "title": "장동혁",
@@ -32,14 +37,14 @@
       "pubdate": "Sat, 14 Dec 2024 23:00:00 +0900"
     },
     {
-      "title": "아이유",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%95%84%EC%9D%B4%EC%9C%A0",
-      "pubdate": "Sat, 14 Dec 2024 00:00:00 +0900"
-    },
-    {
       "title": "노상원",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%85%B8%EC%83%81%EC%9B%90",
       "pubdate": "Sat, 14 Dec 2024 17:00:00 +0900"
+    },
+    {
+      "title": "아이유",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%95%84%EC%9D%B4%EC%9C%A0",
+      "pubdate": "Sat, 14 Dec 2024 00:00:00 +0900"
     },
     {
       "title": "검은사막",
@@ -52,14 +57,9 @@
       "pubdate": "Sat, 14 Dec 2024 02:00:00 +0900"
     },
     {
-      "title": "대경선",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%8C%80%EA%B2%BD%EC%84%A0",
-      "pubdate": "Sat, 14 Dec 2024 16:00:00 +0900"
-    },
-    {
-      "title": "김어준",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EA%B9%80%EC%96%B4%EC%A4%80",
-      "pubdate": "Fri, 13 Dec 2024 14:00:00 +0900"
+      "title": "김호중",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EA%B9%80%ED%98%B8%EC%A4%91",
+      "pubdate": "Sat, 14 Dec 2024 19:00:00 +0900"
     },
     {
       "title": "로스트아크",
@@ -82,6 +82,11 @@
       "pubdate": "Fri, 13 Dec 2024 12:00:00 +0900"
     },
     {
+      "title": "한동훈 사살",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%ED%95%9C%EB%8F%99%ED%9B%88%20%EC%82%AC%EC%82%B4",
+      "pubdate": "Fri, 13 Dec 2024 15:00:00 +0900"
+    },
+    {
       "title": "HID",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#HID",
       "pubdate": "Fri, 13 Dec 2024 17:00:00 +0900"
@@ -95,11 +100,6 @@
       "title": "건국대",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EA%B1%B4%EA%B5%AD%EB%8C%80",
       "pubdate": "Fri, 13 Dec 2024 00:00:00 +0900"
-    },
-    {
-      "title": "한기호",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%ED%95%9C%EA%B8%B0%ED%98%B8",
-      "pubdate": "Fri, 13 Dec 2024 11:00:00 +0900"
     }
   ]
 }
