@@ -1,11 +1,6 @@
 {
-  "lastUpdate": "20-12-2024 , 02:21:33",
+  "lastUpdate": "20-12-2024 , 02:59:43",
   "data": [
-    {
-      "title": "EFL Cup",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#EFL%20Cup",
-      "pubdate": "Fri, 20 Dec 2024 08:00:00 +1100"
-    },
     {
       "title": "Chelsea vs Shamrock Rovers",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Chelsea%20vs%20Shamrock%20Rovers",
@@ -22,14 +17,14 @@
       "pubdate": "Fri, 20 Dec 2024 00:00:00 +1100"
     },
     {
-      "title": "Nasdaq",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Nasdaq",
-      "pubdate": "Fri, 20 Dec 2024 05:00:00 +1100"
+      "title": "Beast Games",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Beast%20Games",
+      "pubdate": "Fri, 20 Dec 2024 12:00:00 +1100"
     },
     {
-      "title": "KidKraft",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#KidKraft",
-      "pubdate": "Fri, 20 Dec 2024 07:00:00 +1100"
+      "title": "Ethan Slater",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Ethan%20Slater",
+      "pubdate": "Fri, 20 Dec 2024 13:00:00 +1100"
     },
     {
       "title": "CellOPark",
@@ -37,8 +32,18 @@
       "pubdate": "Fri, 20 Dec 2024 11:00:00 +1100"
     },
     {
+      "title": "Merry christmas and happy new year",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Merry%20christmas%20and%20happy%20new%20year",
+      "pubdate": "Fri, 20 Dec 2024 13:00:00 +1100"
+    },
+    {
       "title": "Tottenham vs Man United",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Tottenham%20vs%20Man%20United",
+      "pubdate": "Thu, 19 Dec 2024 11:00:00 +1100"
+    },
+    {
+      "title": "EFL Cup",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#EFL%20Cup",
       "pubdate": "Thu, 19 Dec 2024 11:00:00 +1100"
     },
     {
@@ -52,29 +57,9 @@
       "pubdate": "Thu, 19 Dec 2024 21:00:00 +1100"
     },
     {
-      "title": "Superman 2025",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Superman%202025",
+      "title": "Superman",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Superman",
       "pubdate": "Thu, 19 Dec 2024 21:00:00 +1100"
-    },
-    {
-      "title": "Liverpool",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Liverpool",
-      "pubdate": "Thu, 19 Dec 2024 11:00:00 +1100"
-    },
-    {
-      "title": "Real Madrid",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Real%20Madrid",
-      "pubdate": "Thu, 19 Dec 2024 09:00:00 +1100"
-    },
-    {
-      "title": "Australian dollar",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Australian%20dollar",
-      "pubdate": "Thu, 19 Dec 2024 16:00:00 +1100"
-    },
-    {
-      "title": "Mufasa",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Mufasa",
-      "pubdate": "Thu, 19 Dec 2024 00:00:00 +1100"
     },
     {
       "title": "Sydney Trains",
@@ -82,9 +67,24 @@
       "pubdate": "Thu, 19 Dec 2024 20:00:00 +1100"
     },
     {
+      "title": "Australian dollar",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Australian%20dollar",
+      "pubdate": "Thu, 19 Dec 2024 16:00:00 +1100"
+    },
+    {
+      "title": "Real Madrid",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Real%20Madrid",
+      "pubdate": "Thu, 19 Dec 2024 11:00:00 +1100"
+    },
+    {
       "title": "Sergio Perez",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Sergio%20Perez",
       "pubdate": "Thu, 19 Dec 2024 06:00:00 +1100"
+    },
+    {
+      "title": "Mufasa",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Mufasa",
+      "pubdate": "Thu, 19 Dec 2024 00:00:00 +1100"
     },
     {
       "title": "S&P 500",

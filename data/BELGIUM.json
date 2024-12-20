@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-12-2024 , 02:21:33",
+  "lastUpdate": "20-12-2024 , 02:59:43",
   "data": [
     {
       "title": "Pelicot",
@@ -7,14 +7,14 @@
       "pubdate": "Thu, 19 Dec 2024 11:00:00 +0100"
     },
     {
-      "title": "Wilfried Martens",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Wilfried%20Martens",
+      "title": "De slimste mens",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#De%20slimste%20mens",
       "pubdate": "Thu, 19 Dec 2024 12:00:00 +0100"
     },
     {
-      "title": "Slimste mens",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Slimste%20mens",
-      "pubdate": "Thu, 19 Dec 2024 22:00:00 +0100"
+      "title": "Wilfried Martens",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Wilfried%20Martens",
+      "pubdate": "Thu, 19 Dec 2024 12:00:00 +0100"
     },
     {
       "title": "Larne  Gent",
@@ -32,11 +32,6 @@
       "pubdate": "Thu, 19 Dec 2024 21:00:00 +0100"
     },
     {
-      "title": "Daphne Agten",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Daphne%20Agten",
-      "pubdate": "Thu, 19 Dec 2024 12:00:00 +0100"
-    },
-    {
       "title": "Sergio Perez",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Sergio%20Perez",
       "pubdate": "Thu, 19 Dec 2024 13:00:00 +0100"
@@ -52,14 +47,14 @@
       "pubdate": "Thu, 19 Dec 2024 18:00:00 +0100"
     },
     {
-      "title": "Dikke",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Dikke",
-      "pubdate": "Thu, 19 Dec 2024 22:00:00 +0100"
-    },
-    {
       "title": "André Urbain",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Andr%C3%A9%20Urbain",
       "pubdate": "Thu, 19 Dec 2024 21:00:00 +0100"
+    },
+    {
+      "title": "Dikke",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Dikke",
+      "pubdate": "Thu, 19 Dec 2024 22:00:00 +0100"
     },
     {
       "title": "Inter – Udinese",
@@ -77,19 +72,14 @@
       "pubdate": "Thu, 19 Dec 2024 14:00:00 +0100"
     },
     {
-      "title": "Ouigo Paris-Bruxelles",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Ouigo%20Paris-Bruxelles",
-      "pubdate": "Thu, 19 Dec 2024 20:00:00 +0100"
-    },
-    {
       "title": "Superman",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Superman",
       "pubdate": "Thu, 19 Dec 2024 21:00:00 +0100"
     },
     {
-      "title": "MS",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#MS",
-      "pubdate": "Thu, 19 Dec 2024 16:00:00 +0100"
+      "title": "Ouigo Paris-Bruxelles",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Ouigo%20Paris-Bruxelles",
+      "pubdate": "Thu, 19 Dec 2024 20:00:00 +0100"
     },
     {
       "title": "Donald Trump",
@@ -97,8 +87,18 @@
       "pubdate": "Thu, 19 Dec 2024 18:00:00 +0100"
     },
     {
+      "title": "MS",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#MS",
+      "pubdate": "Thu, 19 Dec 2024 16:00:00 +0100"
+    },
+    {
       "title": "Blankenberge",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Blankenberge",
+      "pubdate": "Thu, 19 Dec 2024 20:00:00 +0100"
+    },
+    {
+      "title": "Dow Jones",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Dow%20Jones",
       "pubdate": "Thu, 19 Dec 2024 20:00:00 +0100"
     }
   ]
