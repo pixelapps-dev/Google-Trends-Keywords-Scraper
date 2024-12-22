@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-12-2024 , 23:59:21",
+  "lastUpdate": "22-12-2024 , 01:51:26",
   "data": [
     {
       "title": "LOI",
@@ -17,6 +17,11 @@
       "pubdate": "Sun, 22 Dec 2024 00:00:00 +0100"
     },
     {
+      "title": "Usyk vs Fury 2",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Usyk%20vs%20Fury%202",
+      "pubdate": "Sat, 21 Dec 2024 00:00:00 +0100"
+    },
+    {
       "title": "Barcelona – Atlético Madrid",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Barcelona%20%E2%80%93%20Atl%C3%A9tico%20Madrid",
       "pubdate": "Sat, 21 Dec 2024 21:00:00 +0100"
@@ -30,11 +35,6 @@
       "title": "Aston Villa – Man City",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Aston%20Villa%20%E2%80%93%20Man%20City",
       "pubdate": "Sat, 21 Dec 2024 14:00:00 +0100"
-    },
-    {
-      "title": "Fury Usyk 2",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Fury%20Usyk%202",
-      "pubdate": "Sat, 21 Dec 2024 15:00:00 +0100"
     },
     {
       "title": "Cornelia Hütter",
@@ -72,6 +72,11 @@
       "pubdate": "Sat, 21 Dec 2024 00:00:00 +0100"
     },
     {
+      "title": "Wanda",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Wanda",
+      "pubdate": "Sat, 21 Dec 2024 19:00:00 +0100"
+    },
+    {
       "title": "ZDF",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#ZDF",
       "pubdate": "Sat, 21 Dec 2024 09:00:00 +0100"
@@ -92,14 +97,9 @@
       "pubdate": "Sat, 21 Dec 2024 08:00:00 +0100"
     },
     {
-      "title": "Werder Bremen – Union Berlin",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Werder%20Bremen%20%E2%80%93%20Union%20Berlin",
-      "pubdate": "Sat, 21 Dec 2024 17:00:00 +0100"
-    },
-    {
-      "title": "Wanda",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Wanda",
-      "pubdate": "Sat, 21 Dec 2024 19:00:00 +0100"
+      "title": "Stefan Raab",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Stefan%20Raab",
+      "pubdate": "Sat, 21 Dec 2024 22:00:00 +0100"
     }
   ]
 }
