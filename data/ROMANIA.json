@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30-12-2024 , 07:37:30",
+  "lastUpdate": "30-12-2024 , 07:44:09",
   "data": [
     {
       "title": "Jimmy Carter",
@@ -52,14 +52,14 @@
       "pubdate": "Sun, 29 Dec 2024 20:00:00 +0200"
     },
     {
+      "title": "Magnus Carlsen",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Magnus%20Carlsen",
+      "pubdate": "Sun, 29 Dec 2024 01:00:00 +0200"
+    },
+    {
       "title": "Udinese  Torino",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Udinese%20%20Torino",
       "pubdate": "Sun, 29 Dec 2024 14:00:00 +0200"
-    },
-    {
-      "title": "Republica Moldova",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Republica%20Moldova",
-      "pubdate": "Sun, 29 Dec 2024 13:00:00 +0200"
     },
     {
       "title": "Alexandru Pop",
@@ -87,8 +87,8 @@
       "pubdate": "Sun, 29 Dec 2024 09:00:00 +0200"
     },
     {
-      "title": "Seria a",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Seria%20a",
+      "title": "Seria A",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Seria%20A",
       "pubdate": "Sun, 29 Dec 2024 00:00:00 +0200"
     },
     {
@@ -97,8 +97,8 @@
       "pubdate": "Sun, 29 Dec 2024 01:00:00 +0200"
     },
     {
-      "title": "Taxa pe stalp",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Taxa%20pe%20stalp",
+      "title": "Ordonanta trenulet",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Ordonanta%20trenulet",
       "pubdate": "Sat, 28 Dec 2024 12:00:00 +0200"
     }
   ]
