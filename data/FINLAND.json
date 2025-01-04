@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-01-2025 , 23:56:58",
+  "lastUpdate": "04-01-2025 , 00:24:55",
   "data": [
     {
       "title": "Tv5",
@@ -12,19 +12,24 @@
       "pubdate": "Fri, 03 Jan 2025 17:00:00 +0200"
     },
     {
-      "title": "IIHF",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#IIHF",
+      "title": "Halo",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Halo",
       "pubdate": "Fri, 03 Jan 2025 18:00:00 +0200"
     },
     {
-      "title": "Halo",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Halo",
+      "title": "IIHF",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#IIHF",
       "pubdate": "Fri, 03 Jan 2025 18:00:00 +0200"
     },
     {
       "title": "BESS",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#BESS",
       "pubdate": "Fri, 03 Jan 2025 18:00:00 +0200"
+    },
+    {
+      "title": "Venus",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Venus",
+      "pubdate": "Fri, 03 Jan 2025 21:00:00 +0200"
     },
     {
       "title": "airBaltic",
@@ -37,11 +42,6 @@
       "pubdate": "Fri, 03 Jan 2025 08:00:00 +0200"
     },
     {
-      "title": "Venus",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Venus",
-      "pubdate": "Fri, 03 Jan 2025 21:00:00 +0200"
-    },
-    {
       "title": "Op",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Op",
       "pubdate": "Thu, 02 Jan 2025 16:00:00 +0200"
@@ -50,6 +50,11 @@
       "title": "Vero",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Vero",
       "pubdate": "Thu, 02 Jan 2025 15:00:00 +0200"
+    },
+    {
+      "title": "Darts World Championship",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Darts%20World%20Championship",
+      "pubdate": "Thu, 02 Jan 2025 01:00:00 +0200"
     },
     {
       "title": "Danny",
@@ -95,11 +100,6 @@
       "title": "Lily-Rose Depp",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Lily-Rose%20Depp",
       "pubdate": "Thu, 02 Jan 2025 20:00:00 +0200"
-    },
-    {
-      "title": "Santander",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Santander",
-      "pubdate": "Thu, 02 Jan 2025 16:00:00 +0200"
     }
   ]
 }

@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "03-01-2025 , 23:57:03",
+  "lastUpdate": "04-01-2025 , 00:24:59",
   "data": [
+    {
+      "title": "Real Madrid",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Real%20Madrid",
+      "pubdate": "Sat, 04 Jan 2025 04:00:00 +0800"
+    },
     {
       "title": "CDC voucher 2025",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#CDC%20voucher%202025",
@@ -35,11 +40,6 @@
       "title": "Yoon Suk Yeol",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Yoon%20Suk%20Yeol",
       "pubdate": "Fri, 03 Jan 2025 21:00:00 +0800"
-    },
-    {
-      "title": "Arsenal",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Arsenal",
-      "pubdate": "Thu, 02 Jan 2025 06:00:00 +0800"
     },
     {
       "title": "Tesla",

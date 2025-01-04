@@ -1,6 +1,16 @@
 {
-  "lastUpdate": "03-01-2025 , 23:57:05",
+  "lastUpdate": "04-01-2025 , 00:25:01",
   "data": [
+    {
+      "title": "Juventus",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Juventus",
+      "pubdate": "Sat, 04 Jan 2025 00:00:00 +0700"
+    },
+    {
+      "title": "Valencia đấu với Real Madrid",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Valencia%20%C4%91%E1%BA%A5u%20v%E1%BB%9Bi%20Real%20Madrid",
+      "pubdate": "Sat, 04 Jan 2025 03:00:00 +0700"
+    },
     {
       "title": "Cindy Lư",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Cindy%20L%C6%B0",
@@ -14,7 +24,7 @@
     {
       "title": "Đánh ghen Cần Thơ",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#%C4%90%C3%A1nh%20ghen%20C%E1%BA%A7n%20Th%C6%A1",
-      "pubdate": "Fri, 03 Jan 2025 11:00:00 +0700"
+      "pubdate": "Fri, 03 Jan 2025 12:00:00 +0700"
     },
     {
       "title": "Inter đấu với Atalanta",
@@ -35,11 +45,6 @@
       "title": "Thiên Đóa Đào Hoa Nhất Thế Khai",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Thi%C3%AAn%20%C4%90%C3%B3a%20%C4%90%C3%A0o%20Hoa%20Nh%E1%BA%A5t%20Th%E1%BA%BF%20Khai",
       "pubdate": "Fri, 03 Jan 2025 11:00:00 +0700"
-    },
-    {
-      "title": "Nguyên Xuân Son",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Nguy%C3%AAn%20Xu%C3%A2n%20Son",
-      "pubdate": "Fri, 03 Jan 2025 12:00:00 +0700"
     },
     {
       "title": "Doan ngoc tan",
@@ -95,11 +100,6 @@
       "title": "Đá bóng",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#%C4%90%C3%A1%20b%C3%B3ng",
       "pubdate": "Thu, 02 Jan 2025 19:00:00 +0700"
-    },
-    {
-      "title": "Lê Sỹ Mạnh",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#L%C3%AA%20S%E1%BB%B9%20M%E1%BA%A1nh",
-      "pubdate": "Thu, 02 Jan 2025 20:00:00 +0700"
     }
   ]
 }

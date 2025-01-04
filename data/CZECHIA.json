@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "03-01-2025 , 23:56:58",
+  "lastUpdate": "04-01-2025 , 00:24:54",
   "data": [
+    {
+      "title": "ČT sport",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#%C4%8CT%20sport",
+      "pubdate": "Fri, 03 Jan 2025 16:00:00 +0100"
+    },
     {
       "title": "Nosferatu",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Nosferatu",
@@ -10,6 +15,11 @@
       "title": "Dakar",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Dakar",
       "pubdate": "Fri, 03 Jan 2025 01:00:00 +0100"
+    },
+    {
+      "title": "Jan Žižka",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Jan%20%C5%BDi%C5%BEka",
+      "pubdate": "Fri, 03 Jan 2025 21:00:00 +0100"
     },
     {
       "title": "IIHF",
@@ -37,14 +47,9 @@
       "pubdate": "Fri, 03 Jan 2025 00:00:00 +0100"
     },
     {
-      "title": "Maxa",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Maxa",
-      "pubdate": "Fri, 03 Jan 2025 16:00:00 +0100"
-    },
-    {
-      "title": "Naďa Válová",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Na%C4%8Fa%20V%C3%A1lov%C3%A1",
-      "pubdate": "Fri, 03 Jan 2025 12:00:00 +0100"
+      "title": "Petr Janda",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Petr%20Janda",
+      "pubdate": "Fri, 03 Jan 2025 21:00:00 +0100"
     },
     {
       "title": "V peřině",
@@ -52,9 +57,24 @@
       "pubdate": "Fri, 03 Jan 2025 15:00:00 +0100"
     },
     {
+      "title": "Naďa Válová",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Na%C4%8Fa%20V%C3%A1lov%C3%A1",
+      "pubdate": "Fri, 03 Jan 2025 12:00:00 +0100"
+    },
+    {
+      "title": "Hokej dnes",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Hokej%20dnes",
+      "pubdate": "Fri, 03 Jan 2025 21:00:00 +0100"
+    },
+    {
       "title": "Littler",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Littler",
       "pubdate": "Fri, 03 Jan 2025 11:00:00 +0100"
+    },
+    {
+      "title": "Harry Pottera kámen mudrců",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Harry%20Pottera%20k%C3%A1men%20mudrc%C5%AF",
+      "pubdate": "Fri, 03 Jan 2025 21:00:00 +0100"
     },
     {
       "title": "Škoda",
@@ -67,39 +87,19 @@
       "pubdate": "Fri, 03 Jan 2025 18:00:00 +0100"
     },
     {
+      "title": "Ineos Grenadier",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ineos%20Grenadier",
+      "pubdate": "Fri, 03 Jan 2025 21:00:00 +0100"
+    },
+    {
       "title": "Jižní Korea",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ji%C5%BEn%C3%AD%20Korea",
       "pubdate": "Fri, 03 Jan 2025 20:00:00 +0100"
     },
     {
-      "title": "Dušan Holý",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Du%C5%A1an%20Hol%C3%BD",
-      "pubdate": "Thu, 02 Jan 2025 19:00:00 +0100"
-    },
-    {
-      "title": "Fio",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Fio",
-      "pubdate": "Thu, 02 Jan 2025 15:00:00 +0100"
-    },
-    {
-      "title": "Moneta",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Moneta",
-      "pubdate": "Thu, 02 Jan 2025 12:00:00 +0100"
-    },
-    {
-      "title": "George",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#George",
-      "pubdate": "Thu, 02 Jan 2025 11:00:00 +0100"
-    },
-    {
-      "title": "VZP",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#VZP",
-      "pubdate": "Thu, 02 Jan 2025 13:00:00 +0100"
-    },
-    {
-      "title": "Prvok, Šampón, Tečka a Karel",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Prvok,%20%C5%A0amp%C3%B3n,%20Te%C4%8Dka%20a%20Karel",
-      "pubdate": "Thu, 02 Jan 2025 21:00:00 +0100"
+      "title": "United Cup",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#United%20Cup",
+      "pubdate": "Fri, 03 Jan 2025 21:00:00 +0100"
     }
   ]
 }

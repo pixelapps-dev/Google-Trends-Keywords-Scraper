@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "03-01-2025 , 23:56:55",
+  "lastUpdate": "04-01-2025 , 00:24:52",
   "data": [
+    {
+      "title": "Speaker of the House vote",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Speaker%20of%20the%20House%20vote",
+      "pubdate": "Fri, 03 Jan 2025 11:00:00 -0800"
+    },
     {
       "title": "Lakers",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Lakers",
@@ -10,11 +15,6 @@
       "title": "Real Madrid",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Real%20Madrid",
       "pubdate": "Fri, 03 Jan 2025 10:00:00 -0800"
-    },
-    {
-      "title": "Speaker of the House vote",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Speaker%20of%20the%20House%20vote",
-      "pubdate": "Fri, 03 Jan 2025 11:00:00 -0800"
     },
     {
       "title": "Matt Gaetz",
@@ -37,13 +37,23 @@
       "pubdate": "Fri, 03 Jan 2025 07:00:00 -0800"
     },
     {
+      "title": "Kirby Smart",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Kirby%20Smart",
+      "pubdate": "Fri, 03 Jan 2025 07:00:00 -0800"
+    },
+    {
       "title": "Nikki Glaser",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Nikki%20Glaser",
       "pubdate": "Fri, 03 Jan 2025 11:00:00 -0800"
     },
     {
-      "title": "Notre Dame Football",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Notre%20Dame%20Football",
+      "title": "Terry Crews",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Terry%20Crews",
+      "pubdate": "Fri, 03 Jan 2025 12:00:00 -0800"
+    },
+    {
+      "title": "Notre Dame football",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Notre%20Dame%20football",
       "pubdate": "Thu, 02 Jan 2025 15:00:00 -0800"
     },
     {
@@ -52,19 +62,14 @@
       "pubdate": "Thu, 02 Jan 2025 14:00:00 -0800"
     },
     {
-      "title": "Winter Storm snow forecast",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Winter%20Storm%20snow%20forecast",
+      "title": "Winter storm snow forecast",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Winter%20storm%20snow%20forecast",
       "pubdate": "Thu, 02 Jan 2025 06:00:00 -0800"
     },
     {
       "title": "Celtics",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Celtics",
       "pubdate": "Thu, 02 Jan 2025 21:00:00 -0800"
-    },
-    {
-      "title": "Tesla stock",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Tesla%20stock",
-      "pubdate": "Thu, 02 Jan 2025 23:00:00 -0800"
     },
     {
       "title": "Warriors",
@@ -82,11 +87,6 @@
       "pubdate": "Thu, 02 Jan 2025 10:00:00 -0800"
     },
     {
-      "title": "UGA",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#UGA",
-      "pubdate": "Thu, 02 Jan 2025 13:00:00 -0800"
-    },
-    {
       "title": "Parker Jones Georgia",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Parker%20Jones%20Georgia",
       "pubdate": "Thu, 02 Jan 2025 17:00:00 -0800"
@@ -97,9 +97,9 @@
       "pubdate": "Thu, 02 Jan 2025 09:00:00 -0800"
     },
     {
-      "title": "Meghan Markle",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Meghan%20Markle",
-      "pubdate": "Thu, 02 Jan 2025 10:00:00 -0800"
+      "title": "Jaxson Dart",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Jaxson%20Dart",
+      "pubdate": "Thu, 02 Jan 2025 21:00:00 -0800"
     }
   ]
 }
