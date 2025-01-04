@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-01-2025 , 00:24:59",
+  "lastUpdate": "04-01-2025 , 00:46:36",
   "data": [
     {
       "title": "Vitória SC  Sporting",
@@ -12,8 +12,8 @@
       "pubdate": "Fri, 03 Jan 2025 20:00:00 +0000"
     },
     {
-      "title": "Ruben Dias",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Ruben%20Dias",
+      "title": "Rúben Dias",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#R%C3%BAben%20Dias",
       "pubdate": "Fri, 03 Jan 2025 14:00:00 +0000"
     },
     {
@@ -25,6 +25,11 @@
       "title": "Chuva",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Chuva",
       "pubdate": "Fri, 03 Jan 2025 09:00:00 +0000"
+    },
+    {
+      "title": "Desporto",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Desporto",
+      "pubdate": "Fri, 03 Jan 2025 21:00:00 +0000"
     },
     {
       "title": "Rodrigo Mora",
@@ -57,6 +62,26 @@
       "pubdate": "Fri, 03 Jan 2025 18:00:00 +0000"
     },
     {
+      "title": "TSF",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#TSF",
+      "pubdate": "Fri, 03 Jan 2025 21:00:00 +0000"
+    },
+    {
+      "title": "Antena 1",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Antena%201",
+      "pubdate": "Fri, 03 Jan 2025 20:00:00 +0000"
+    },
+    {
+      "title": "Luke Littler",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Luke%20Littler",
+      "pubdate": "Fri, 03 Jan 2025 19:00:00 +0000"
+    },
+    {
+      "title": "Artur Jorge",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Artur%20Jorge",
+      "pubdate": "Fri, 03 Jan 2025 15:00:00 +0000"
+    },
+    {
       "title": "Emprego",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Emprego",
       "pubdate": "Fri, 03 Jan 2025 10:00:00 +0000"
@@ -67,39 +92,14 @@
       "pubdate": "Fri, 03 Jan 2025 13:00:00 +0000"
     },
     {
-      "title": "Luke Littler",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Luke%20Littler",
-      "pubdate": "Fri, 03 Jan 2025 19:00:00 +0000"
-    },
-    {
-      "title": "Antena 1",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Antena%201",
-      "pubdate": "Fri, 03 Jan 2025 20:00:00 +0000"
-    },
-    {
       "title": "Dacia Sandero",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Dacia%20Sandero",
       "pubdate": "Fri, 03 Jan 2025 20:00:00 +0000"
     },
     {
-      "title": "Sporting",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Sporting",
-      "pubdate": "Thu, 02 Jan 2025 14:00:00 +0000"
-    },
-    {
-      "title": "Porto",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Porto",
-      "pubdate": "Thu, 02 Jan 2025 23:00:00 +0000"
-    },
-    {
-      "title": "Juventus  Milan",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Juventus%20%20Milan",
-      "pubdate": "Thu, 02 Jan 2025 22:00:00 +0000"
-    },
-    {
-      "title": "Barbara Tinoco",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Barbara%20Tinoco",
-      "pubdate": "Thu, 02 Jan 2025 17:00:00 +0000"
+      "title": "Jogos de hoje",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Jogos%20de%20hoje",
+      "pubdate": "Fri, 03 Jan 2025 21:00:00 +0000"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-01-2025 , 00:24:52",
+  "lastUpdate": "04-01-2025 , 00:46:29",
   "data": [
     {
       "title": "Speaker of the House vote",
@@ -22,6 +22,11 @@
       "pubdate": "Fri, 03 Jan 2025 10:00:00 -0800"
     },
     {
+      "title": "Boston Celtics",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Boston%20Celtics",
+      "pubdate": "Fri, 03 Jan 2025 03:00:00 -0800"
+    },
+    {
       "title": "HMPV",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#HMPV",
       "pubdate": "Fri, 03 Jan 2025 10:00:00 -0800"
@@ -37,11 +42,6 @@
       "pubdate": "Fri, 03 Jan 2025 07:00:00 -0800"
     },
     {
-      "title": "Kirby Smart",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Kirby%20Smart",
-      "pubdate": "Fri, 03 Jan 2025 07:00:00 -0800"
-    },
-    {
       "title": "Nikki Glaser",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Nikki%20Glaser",
       "pubdate": "Fri, 03 Jan 2025 11:00:00 -0800"
@@ -52,19 +52,29 @@
       "pubdate": "Fri, 03 Jan 2025 12:00:00 -0800"
     },
     {
+      "title": "Clarence Thomas",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Clarence%20Thomas",
+      "pubdate": "Fri, 03 Jan 2025 13:00:00 -0800"
+    },
+    {
+      "title": "Max Christie",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Max%20Christie",
+      "pubdate": "Fri, 03 Jan 2025 13:00:00 -0800"
+    },
+    {
       "title": "Notre Dame football",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Notre%20Dame%20football",
       "pubdate": "Thu, 02 Jan 2025 15:00:00 -0800"
     },
     {
+      "title": "Winter Storm snow forecast",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Winter%20Storm%20snow%20forecast",
+      "pubdate": "Thu, 02 Jan 2025 06:00:00 -0800"
+    },
+    {
       "title": "Wayne Osmond",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Wayne%20Osmond",
       "pubdate": "Thu, 02 Jan 2025 14:00:00 -0800"
-    },
-    {
-      "title": "Winter storm snow forecast",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Winter%20storm%20snow%20forecast",
-      "pubdate": "Thu, 02 Jan 2025 06:00:00 -0800"
     },
     {
       "title": "Celtics",
@@ -90,16 +100,6 @@
       "title": "Parker Jones Georgia",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Parker%20Jones%20Georgia",
       "pubdate": "Thu, 02 Jan 2025 17:00:00 -0800"
-    },
-    {
-      "title": "TSLA",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#TSLA",
-      "pubdate": "Thu, 02 Jan 2025 09:00:00 -0800"
-    },
-    {
-      "title": "Jaxson Dart",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Jaxson%20Dart",
-      "pubdate": "Thu, 02 Jan 2025 21:00:00 -0800"
     }
   ]
 }

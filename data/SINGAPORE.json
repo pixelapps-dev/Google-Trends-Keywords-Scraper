@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-01-2025 , 00:24:59",
+  "lastUpdate": "04-01-2025 , 00:46:37",
   "data": [
     {
       "title": "Real Madrid",
@@ -67,11 +67,6 @@
       "pubdate": "Thu, 02 Jan 2025 00:00:00 +0800"
     },
     {
-      "title": "Montenegro",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Montenegro",
-      "pubdate": "Thu, 02 Jan 2025 18:00:00 +0800"
-    },
-    {
       "title": "CNY",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#CNY",
       "pubdate": "Thu, 02 Jan 2025 13:00:00 +0800"
@@ -100,6 +95,11 @@
       "title": "Manchester United",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Manchester%20United",
       "pubdate": "Tue, 31 Dec 2024 11:00:00 +0800"
+    },
+    {
+      "title": "2025",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#2025",
+      "pubdate": "Tue, 31 Dec 2024 09:00:00 +0800"
     }
   ]
 }

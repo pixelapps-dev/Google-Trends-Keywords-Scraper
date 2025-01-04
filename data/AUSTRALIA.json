@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-01-2025 , 00:24:52",
+  "lastUpdate": "04-01-2025 , 00:46:29",
   "data": [
     {
       "title": "Scorchers",
@@ -42,11 +42,6 @@
       "pubdate": "Fri, 03 Jan 2025 23:00:00 +1100"
     },
     {
-      "title": "South Africa vs Pakistan",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#South%20Africa%20vs%20Pakistan",
-      "pubdate": "Fri, 03 Jan 2025 20:00:00 +1100"
-    },
-    {
       "title": "Rishabh Pant",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Rishabh%20Pant",
       "pubdate": "Fri, 03 Jan 2025 15:00:00 +1100"
@@ -62,14 +57,14 @@
       "pubdate": "Fri, 03 Jan 2025 23:00:00 +1100"
     },
     {
-      "title": "Clam",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Clam",
-      "pubdate": "Fri, 03 Jan 2025 13:00:00 +1100"
-    },
-    {
       "title": "Jimmy Butler",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Jimmy%20Butler",
       "pubdate": "Fri, 03 Jan 2025 19:00:00 +1100"
+    },
+    {
+      "title": "Clam",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Clam",
+      "pubdate": "Fri, 03 Jan 2025 13:00:00 +1100"
     },
     {
       "title": "Wayne Osmond",
@@ -100,6 +95,11 @@
       "title": "New Orleans",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#New%20Orleans",
       "pubdate": "Thu, 02 Jan 2025 00:00:00 +1100"
+    },
+    {
+      "title": "Chad Morgan",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Chad%20Morgan",
+      "pubdate": "Thu, 02 Jan 2025 02:00:00 +1100"
     }
   ]
 }

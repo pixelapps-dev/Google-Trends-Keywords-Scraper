@@ -1,1 +1,1 @@
-Opelka,ZK,Valencia  Real Madrid,Venus,Meghan Markle,Squid Game,Tesla,Avicii,Nosferatu,LinkedIn,Outlook,Tesla stock,Santander,Montenegro,Economic,Docs,Elton John,Novo Nordisk,Alka,Slope
+LOC,Opelka,Real Madrid,Valencia  Real Madrid,ZK,Venus,Meghan Markle,Juventus  Milan,Michael van Gerwen,Squid Game,Tesla,Avicii,Nosferatu,LinkedIn,Outlook,Tesla stock,Santander,Montenegro,Economic,Docs

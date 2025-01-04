@@ -1,1 +1,1 @@
-Valencia CF  Real Madrid,Nicolás Jarry,Nosferatu,Suede,Racing Ferrol  Rayo Vallecano,Sebastian Villa,Teatro a Mil,Brayan Cortés,China,Corfo,Visa Waiver,Subsidio de luz,Inter - Atalanta,Sismologia,Keylor Navas,Temblor,Juventus  Milan,Mauricio Ojeda,Novak Djokovic,Interestelar
+Valencia CF  Real Madrid,Nicolás Jarry,Nosferatu,Suede,Racing Ferrol  Rayo Vallecano,LaLiga,Sebastian Villa,Teatro a Mil,Salomon rodriguez,Copa del Rey,China,Brayan Cortés,Corfo,Visa Waiver,Subsidio de luz,Inter - Atalanta,Sismologia,Juventus  Milan,Keylor Navas,Temblor
