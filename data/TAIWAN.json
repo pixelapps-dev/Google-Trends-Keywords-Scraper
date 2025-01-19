@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19-01-2025 , 10:45:11",
+  "lastUpdate": "19-01-2025 , 10:52:00",
   "data": [
     {
       "title": "楊千霈",
@@ -7,14 +7,14 @@
       "pubdate": "Sun, 19 Jan 2025 12:00:00 +0800"
     },
     {
-      "title": "Ryu Yuma 離婚",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#Ryu%20Yuma%20%E9%9B%A2%E5%A9%9A",
-      "pubdate": "Sun, 19 Jan 2025 01:00:00 +0800"
-    },
-    {
       "title": "學測國文",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%AD%B8%E6%B8%AC%E5%9C%8B%E6%96%87",
       "pubdate": "Sun, 19 Jan 2025 15:00:00 +0800"
+    },
+    {
+      "title": "Ryu Yuma 離婚",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#Ryu%20Yuma%20%E9%9B%A2%E5%A9%9A",
+      "pubdate": "Sun, 19 Jan 2025 01:00:00 +0800"
     },
     {
       "title": "小明星大跟班",
@@ -27,8 +27,8 @@
       "pubdate": "Sun, 19 Jan 2025 13:00:00 +0800"
     },
     {
-      "title": "114學測數學",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#114%E5%AD%B8%E6%B8%AC%E6%95%B8%E5%AD%B8",
+      "title": "學測英文",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%AD%B8%E6%B8%AC%E8%8B%B1%E6%96%87",
       "pubdate": "Sat, 18 Jan 2025 12:00:00 +0800"
     },
     {
@@ -57,6 +57,11 @@
       "pubdate": "Sat, 18 Jan 2025 23:00:00 +0800"
     },
     {
+      "title": "A-Lin",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#A-Lin",
+      "pubdate": "Sat, 18 Jan 2025 11:00:00 +0800"
+    },
+    {
       "title": "劉書宏",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%8A%89%E6%9B%B8%E5%AE%8F",
       "pubdate": "Sat, 18 Jan 2025 10:00:00 +0800"
@@ -80,11 +85,6 @@
       "title": "道奇",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E9%81%93%E5%A5%87",
       "pubdate": "Sat, 18 Jan 2025 20:00:00 +0800"
-    },
-    {
-      "title": "緯創",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E7%B7%AF%E5%89%B5",
-      "pubdate": "Fri, 17 Jan 2025 16:00:00 +0800"
     },
     {
       "title": "David Lynch",
