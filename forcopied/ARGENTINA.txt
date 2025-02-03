@@ -1,1 +1,1 @@
-EPEC,Racing,Beyonce,Belgrano,Chelsea - West Ham,Aire acondicionado,Milan,Bitcoin,Chappell Roan,Araña,Dia del Abogado,Benson Boone,Temperatura Buenos Aires,Defensa y Justicia  Central Córdoba,Lady Gaga,Al Nassr,Peso mexicano a dolar,Racing club,San Blas,Union
+EPEC,Racing,Beyonce,Belgrano,Chelsea - West Ham,Aire acondicionado,Milan,Bitcoin,Chappell Roan,Araña,Dia del Abogado,Benson Boone,Temperatura Buenos Aires,Defensa y Justicia  Central Córdoba,Lady Gaga,Al Nassr,Racing club,Peso mexicano a dolar,San Blas,Union
