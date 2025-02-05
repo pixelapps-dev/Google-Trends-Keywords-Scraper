@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05-02-2025 , 00:59:59",
+  "lastUpdate": "05-02-2025 , 01:36:35",
   "data": [
     {
       "title": "Psg",
@@ -82,6 +82,11 @@
       "pubdate": "Mon, 03 Feb 2025 10:00:00 +0700"
     },
     {
+      "title": "Dichvucong",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Dichvucong",
+      "pubdate": "Mon, 03 Feb 2025 00:00:00 +0700"
+    },
+    {
       "title": "Vàng SJC Giá vàng",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#V%C3%A0ng%20SJC%20Gi%C3%A1%20v%C3%A0ng",
       "pubdate": "Mon, 03 Feb 2025 20:00:00 +0700"
@@ -95,11 +100,6 @@
       "title": "Lê Hoài Trung",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#L%C3%AA%20Ho%C3%A0i%20Trung",
       "pubdate": "Mon, 03 Feb 2025 16:00:00 +0700"
-    },
-    {
-      "title": "MC",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#MC",
-      "pubdate": "Mon, 03 Feb 2025 08:00:00 +0700"
     }
   ]
 }
