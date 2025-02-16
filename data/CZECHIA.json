@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-02-2025 , 20:42:26",
+  "lastUpdate": "16-02-2025 , 20:49:12",
   "data": [
     {
       "title": "Slavia",
@@ -10,11 +10,6 @@
       "title": "Teplice – Plzeň",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Teplice%20%E2%80%93%20Plze%C5%88",
       "pubdate": "Sun, 16 Feb 2025 15:00:00 +0100"
-    },
-    {
-      "title": "Hradec Králové – Bohemians",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Hradec%20Kr%C3%A1lov%C3%A9%20%E2%80%93%20Bohemians",
-      "pubdate": "Sun, 16 Feb 2025 13:00:00 +0100"
     },
     {
       "title": "Liberec – Boleslav",
@@ -67,6 +62,11 @@
       "pubdate": "Sat, 15 Feb 2025 16:00:00 +0100"
     },
     {
+      "title": "Kafuu",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Kafuu",
+      "pubdate": "Sat, 15 Feb 2025 20:00:00 +0100"
+    },
+    {
       "title": "West Ham – Brentford",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#West%20Ham%20%E2%80%93%20Brentford",
       "pubdate": "Sat, 15 Feb 2025 16:00:00 +0100"
@@ -77,6 +77,11 @@
       "pubdate": "Sat, 15 Feb 2025 10:00:00 +0100"
     },
     {
+      "title": "Vietnam",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Vietnam",
+      "pubdate": "Sat, 15 Feb 2025 09:00:00 +0100"
+    },
+    {
       "title": "Muž se železnou maskou",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Mu%C5%BE%20se%20%C5%BEeleznou%20maskou",
       "pubdate": "Sat, 15 Feb 2025 19:00:00 +0100"
@@ -85,11 +90,6 @@
       "title": "Jiřina Bohdalová",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ji%C5%99ina%20Bohdalov%C3%A1",
       "pubdate": "Sat, 15 Feb 2025 13:00:00 +0100"
-    },
-    {
-      "title": "Jaromír Jágr",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Jarom%C3%ADr%20J%C3%A1gr",
-      "pubdate": "Sat, 15 Feb 2025 15:00:00 +0100"
     },
     {
       "title": "Crystal Palace – Everton",
